@@ -2896,7 +2896,7 @@ creation_date: 2013-04-04T11:28:16Z
 id: DOID:0050779
 name: hydrolethalus syndrome
 namespace: disease_ontology
-def: "A syndrome characterized by mulitple fetal developmental defects including polydactyly and central nervous system malformations that results from a single amino acid mutation of D211G of the HYLS1 gene which plays a central role in cilia formation." [url:http\://www.ncbi.nlm.nih.gov/pmc/articles/PMC1017280/?page=1, url:http\://www.ncbi.nlm.nih.gov/pmc/articles/PMC2751977/#B33, url:https\://www.ncbi.nlm.nih.gov/pubmed/15843405]
+def: "A syndrome characterized by multiple fetal developmental defects including polydactyly and central nervous system malformations that results from a single amino acid mutation of D211G of the HYLS1 gene which plays a central role in cilia formation." [url:http\://www.ncbi.nlm.nih.gov/pmc/articles/PMC1017280/?page=1, url:http\://www.ncbi.nlm.nih.gov/pmc/articles/PMC2751977/#B33, url:https\://www.ncbi.nlm.nih.gov/pubmed/15843405]
 comment: Xref MGI.
 subset: DO_FlyBase_slim
 subset: DO_rare_slim
@@ -11701,7 +11701,7 @@ is_a: DOID:3144 ! cutis laxa
 id: DOID:0070144
 name: autosomal recessive cutis laxa type I
 namespace: disease_ontology
-def: "A cutis laxa characterized by wrinkled, redundant and sagging inelastic skin and severe systemic manifestations particulary in the lungs, vasculature, and gastrointestinal and genitourinary systems." [url:https\://www.ncbi.nlm.nih.gov/pubmed/19401719]
+def: "A cutis laxa characterized by wrinkled, redundant and sagging inelastic skin and severe systemic manifestations particularly in the lungs, vasculature, and gastrointestinal and genitourinary systems." [url:https\://www.ncbi.nlm.nih.gov/pubmed/19401719]
 subset: DO_rare_slim
 synonym: "autosomal recessive cutis laxa type 1" EXACT []
 xref: GARD:8480
@@ -21325,7 +21325,7 @@ is_a: DOID:14503 ! neuronal ceroid lipofuscinosis
 id: DOID:0110733
 name: neuronal ceroid lipofuscinosis 9
 namespace: disease_ontology
-def: "A neuronal ceroid lipofuscinosis that is characterized by juvenile-onset of progressive vision loss, progressive ataxia and seziures." [url:https\://www.ncbi.nlm.nih.gov/pubmed/15349861]
+def: "A neuronal ceroid lipofuscinosis that is characterized by juvenile-onset of progressive vision loss, progressive ataxia and seizures." [url:https\://www.ncbi.nlm.nih.gov/pubmed/15349861]
 subset: DO_rare_slim
 synonym: "CLN9" EXACT []
 xref: GARD:6618
@@ -23684,7 +23684,7 @@ is_a: DOID:2861 ! congenital nonspherocytic hemolytic anemia
 id: DOID:0111078
 name: tibial muscular dystrophy
 namespace: disease_ontology
-def: "A distal myopathy that is characterized by autosomal dominant inheritance of late-onset muscular dystrophy beginning in the anterior comparment of the legs that has_material_basis_in heterozygous mutation in the gene encoding the giant skeletal muscle protein titin (TTN) on chromosome 2q31." [url:https\://www.ncbi.nlm.nih.gov/pubmed/12145747, url:https\://www.ncbi.nlm.nih.gov/pubmed/196233, url:https\://www.ncbi.nlm.nih.gov/pubmed/8503797]
+def: "A distal myopathy that is characterized by autosomal dominant inheritance of late-onset muscular dystrophy beginning in the anterior compartment of the legs that has_material_basis_in heterozygous mutation in the gene encoding the giant skeletal muscle protein titin (TTN) on chromosome 2q31." [url:https\://www.ncbi.nlm.nih.gov/pubmed/12145747, url:https\://www.ncbi.nlm.nih.gov/pubmed/196233, url:https\://www.ncbi.nlm.nih.gov/pubmed/8503797]
 subset: DO_rare_slim
 synonym: "distal titinopathy" EXACT []
 synonym: "Finnish tibial muscular dystrophy" EXACT []

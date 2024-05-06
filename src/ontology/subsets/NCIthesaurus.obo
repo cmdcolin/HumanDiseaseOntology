@@ -62530,7 +62530,7 @@ is_a: DOID:3350 ! mesenchymal cell neoplasm
 id: DOID:8307
 name: early invasive cervical adenocarcinoma
 namespace: disease_ontology
-def: "A cervical adenocarcinoma that is characterized by tumor cells that are identical to those in adenocarcinoma in situ (ACIS) and mcroscopic findings that suggest invasion." [url:https\://www.uptodate.com/contents/invasive-cervical-adenocarcinoma]
+def: "A cervical adenocarcinoma that is characterized by tumor cells that are identical to those in adenocarcinoma in situ (ACIS) and microscopic findings that suggest invasion." [url:https\://www.uptodate.com/contents/invasive-cervical-adenocarcinoma]
 subset: NCIthesaurus
 xref: NCI:C36096
 xref: UMLS_CUI:C1333369
