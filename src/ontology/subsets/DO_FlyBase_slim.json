@@ -4169,7 +4169,7 @@
       "type" : "CLASS",
       "meta" : {
         "definition" : {
-          "val" : "A brain disease that is characterized by the occurrance of at least two unprovoked seizures resulting from a persistent epileptogenic abnormality of the brain that is able to spontaneously generate paroxysmal activity and typically manifested by sudden brief episodes of altered or diminished consciousness, involuntary movements, or convulsions.",
+          "val" : "A brain disease that is characterized by the occurrence of at least two unprovoked seizures resulting from a persistent epileptogenic abnormality of the brain that is able to spontaneously generate paroxysmal activity and typically manifested by sudden brief episodes of altered or diminished consciousness, involuntary movements, or convulsions.",
           "xrefs" : [ "url:http://books.google.com/books?id=YXqX04Te9ioC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false", "url:http://www.merriam-webster.com/medlineplus/epilepsy" ]
         },
         "subsets" : [ "http://purl.obolibrary.org/obo/doid#DO_FlyBase_slim", "http://purl.obolibrary.org/obo/doid#NCIthesaurus" ],

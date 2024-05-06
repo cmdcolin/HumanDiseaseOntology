@@ -225,14 +225,14 @@
     <!-- http://purl.obolibrary.org/obo/DISDRIV_0000000 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DISDRIV_0000000">
-        <obo:IAO_0000115>Environmental or genetic mechanisms driving the occurrance of complex diseases.</obo:IAO_0000115>
+        <obo:IAO_0000115>Environmental or genetic mechanisms driving the occurrence of complex diseases.</obo:IAO_0000115>
         <oboInOwl:id>DISDRIV:0000000</oboInOwl:id>
         <rdfs:label>disease driver</rdfs:label>
     </owl:Class>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/DISDRIV_0000000"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <owl:annotatedTarget>Environmental or genetic mechanisms driving the occurrance of complex diseases.</owl:annotatedTarget>
+        <owl:annotatedTarget>Environmental or genetic mechanisms driving the occurrence of complex diseases.</owl:annotatedTarget>
         <oboInOwl:hasDbXref>url:https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4517741/</oboInOwl:hasDbXref>
     </owl:Axiom>
     

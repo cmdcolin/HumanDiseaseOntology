@@ -8311,7 +8311,7 @@ def: "A syndrome characterized by dilated cardiomyopathy and hypergonadotropic h
 subset: DO_rare_slim
 subset: NCIthesaurus
 synonym: "cardiogenital syndrome" EXACT []
-synonym: "cardiomyopathy eith primary testicular failure" EXACT []
+synonym: "cardiomyopathy with primary testicular failure" EXACT []
 synonym: "congestive cardiomyopathy with hypergonadotropic hypogonadism" EXACT []
 synonym: "dilated cardiomyopathy with hypergonadotropic hypogonadism" EXACT []
 synonym: "dilated cardiomyopathy with premature ovarian failure" EXACT []
@@ -17029,7 +17029,7 @@ property_value: exactMatch "UMLS_CUI:C0003076" xsd:string
 id: DOID:12275
 name: cutaneous diphtheria
 namespace: disease_ontology
-def: "A pyoderma that is a milder form of diphtheria restricted to the skin producing shallow skin ulcers is caused by direct physical contact of indivduals infected with Corynebacterium diphtheriae as the bacteria releases the diphtheria toxin." [url:http\://en.wikipedia.org/wiki/Diphtheria, url:http\://www.merck.com/mmpe/sec14/ch172/ch172c.html, url:http\://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=mmed&part=A1746]
+def: "A pyoderma that is a milder form of diphtheria restricted to the skin producing shallow skin ulcers is caused by direct physical contact of individuals infected with Corynebacterium diphtheriae as the bacteria releases the diphtheria toxin." [url:http\://en.wikipedia.org/wiki/Diphtheria, url:http\://www.merck.com/mmpe/sec14/ch172/ch172c.html, url:http\://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=mmed&part=A1746]
 subset: NCIthesaurus
 xref: ICD10CM:A36.3
 xref: ICD9CM:032.85
@@ -26454,7 +26454,7 @@ is_a: DOID:1826 ! epilepsy
 id: DOID:1826
 name: epilepsy
 namespace: disease_ontology
-def: "A brain disease that is characterized by the occurrance of at least two unprovoked seizures resulting from a persistent epileptogenic abnormality of the brain that is able to spontaneously generate paroxysmal activity and typically manifested by sudden brief episodes of altered or diminished consciousness, involuntary movements, or convulsions." [url:http\://books.google.com/books?id=YXqX04Te9ioC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false, url:http\://www.merriam-webster.com/medlineplus/epilepsy]
+def: "A brain disease that is characterized by the occurrence of at least two unprovoked seizures resulting from a persistent epileptogenic abnormality of the brain that is able to spontaneously generate paroxysmal activity and typically manifested by sudden brief episodes of altered or diminished consciousness, involuntary movements, or convulsions." [url:http\://books.google.com/books?id=YXqX04Te9ioC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false, url:http\://www.merriam-webster.com/medlineplus/epilepsy]
 subset: DO_FlyBase_slim
 subset: NCIthesaurus
 synonym: "epilepsy syndrome" EXACT []

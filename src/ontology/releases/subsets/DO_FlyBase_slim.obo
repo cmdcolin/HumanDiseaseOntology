@@ -2018,7 +2018,7 @@ is_a: DOID:5614 ! eye disease
 id: DOID:1826
 name: epilepsy
 namespace: disease_ontology
-def: "A brain disease that is characterized by the occurrance of at least two unprovoked seizures resulting from a persistent epileptogenic abnormality of the brain that is able to spontaneously generate paroxysmal activity and typically manifested by sudden brief episodes of altered or diminished consciousness, involuntary movements, or convulsions." [url:http\://books.google.com/books?id=YXqX04Te9ioC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false, url:http\://www.merriam-webster.com/medlineplus/epilepsy]
+def: "A brain disease that is characterized by the occurrence of at least two unprovoked seizures resulting from a persistent epileptogenic abnormality of the brain that is able to spontaneously generate paroxysmal activity and typically manifested by sudden brief episodes of altered or diminished consciousness, involuntary movements, or convulsions." [url:http\://books.google.com/books?id=YXqX04Te9ioC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false, url:http\://www.merriam-webster.com/medlineplus/epilepsy]
 subset: DO_FlyBase_slim
 subset: NCIthesaurus
 synonym: "epilepsy syndrome" EXACT []

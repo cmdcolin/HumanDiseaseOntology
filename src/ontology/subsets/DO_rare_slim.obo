@@ -4039,7 +4039,7 @@ xref: ORDO:217330
 id: DOID:0060063
 name: sideroblastic anemia 1
 namespace: disease_ontology
-def: "A sideoblastic anemia that is characterized by the presence of microcytic hypochromic anemia and iron overload, and has_material_basis_in X-linked inheritance of mutation in the ALAS2 gene that enocdes aminolevulinic acid synthase that catalyzes the first step in heme production." [url:https\://rarediseases.info.nih.gov/diseases/9456/x-linked-sideroblastic-anemia]
+def: "A sideoblastic anemia that is characterized by the presence of microcytic hypochromic anemia and iron overload, and has_material_basis_in X-linked inheritance of mutation in the ALAS2 gene that encodes aminolevulinic acid synthase that catalyzes the first step in heme production." [url:https\://rarediseases.info.nih.gov/diseases/9456/x-linked-sideroblastic-anemia]
 comment: OMIM mapping confirmed by DO. [LS].
 subset: DO_rare_slim
 synonym: "sideroblastic anaemia 1" EXACT []
@@ -18399,7 +18399,7 @@ xref: ORDO:3275
 id: DOID:0090117
 name: thiamine-responsive megaloblastic anemia syndrome
 namespace: disease_ontology
-def: "A syndrome that is characterized by megaloblastic anemia, non-type I diabetes mellitus, and sensorineural deafness where the anemia and sometimes diabetes is repsonsive to high doses of thiamine, and that has_material_basis_in homozygous mutation in the solute carrier family 19 member 2 (SLC19A2) gene on chromosome 1q24." [url:https\://ghr.nlm.nih.gov/condition/thiamine-responsive-megaloblastic-anemia-syndrome, url:https\://www.ncbi.nlm.nih.gov/books/NBK1282/, url:https\://www.omim.org/entry/249270]
+def: "A syndrome that is characterized by megaloblastic anemia, non-type I diabetes mellitus, and sensorineural deafness where the anemia and sometimes diabetes is responsive to high doses of thiamine, and that has_material_basis_in homozygous mutation in the solute carrier family 19 member 2 (SLC19A2) gene on chromosome 1q24." [url:https\://ghr.nlm.nih.gov/condition/thiamine-responsive-megaloblastic-anemia-syndrome, url:https\://www.ncbi.nlm.nih.gov/books/NBK1282/, url:https\://www.omim.org/entry/249270]
 subset: DO_rare_slim
 synonym: "Rogers syndrome" EXACT []
 synonym: "thiamine metabolism dysfunction syndrome 1" EXACT []
@@ -25346,7 +25346,7 @@ is_a: DOID:4644 ! epidermolysis bullosa simplex
 id: DOID:0111348
 name: multiple epiphyseal dysplasia with myopia and deafness
 namespace: disease_ontology
-def: "A syndrome characterized by typically mild epiphyseal dysplasia, progessive myopia, retinal thinning, crenated cataracts, conductive deafness and brachydactyly that has_material_basis_in heterozygous mutation in the COL2A1 gene on chromosome 12q13.11." [url:https\://www.ncbi.nlm.nih.gov/pubmed/699354, url:https\://www.ncbi.nlm.nih.gov/pubmed/9800905]
+def: "A syndrome characterized by typically mild epiphyseal dysplasia, progressive myopia, retinal thinning, crenated cataracts, conductive deafness and brachydactyly that has_material_basis_in heterozygous mutation in the COL2A1 gene on chromosome 12q13.11." [url:https\://www.ncbi.nlm.nih.gov/pubmed/699354, url:https\://www.ncbi.nlm.nih.gov/pubmed/9800905]
 subset: DO_rare_slim
 synonym: "EDMMD" EXACT []
 synonym: "multiple epiphyseal dysplasia, Beighton type" EXACT []
@@ -27631,7 +27631,7 @@ def: "A syndrome characterized by dilated cardiomyopathy and hypergonadotropic h
 subset: DO_rare_slim
 subset: NCIthesaurus
 synonym: "cardiogenital syndrome" EXACT []
-synonym: "cardiomyopathy eith primary testicular failure" EXACT []
+synonym: "cardiomyopathy with primary testicular failure" EXACT []
 synonym: "congestive cardiomyopathy with hypergonadotropic hypogonadism" EXACT []
 synonym: "dilated cardiomyopathy with hypergonadotropic hypogonadism" EXACT []
 synonym: "dilated cardiomyopathy with premature ovarian failure" EXACT []
