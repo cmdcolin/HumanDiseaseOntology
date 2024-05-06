@@ -2063,7 +2063,7 @@ xref: UMLS_CUI:C0032064
 id: DOID:3730
 name: obsolete pneumonic pasteurellosis
 namespace: disease_ontology
-def: "A Pasteurella infectious disease that involves infection by the bacterium Mannheimia haemolytica and less frequently by Pasteurella multocida and Histophilus somni. After stress or viral infection, the replication rate of M. haemolytica in the upper respiratory tract increases rapidly, followed by inhalation and colonization of the lungs due to suppression of the host's defense mechanism. The bacterium produces exotoxin called leukotxin which interacts with the host's defense mechanism resulting in tissue damage with charactersistic necrosis, thrombosis, and exudation and the development of pneumonia." [url:http\://merckvetmanual.com/mvm/index.jsp?cfile=htm/bc/121216.htm]
+def: "A Pasteurella infectious disease that involves infection by the bacterium Mannheimia haemolytica and less frequently by Pasteurella multocida and Histophilus somni. After stress or viral infection, the replication rate of M. haemolytica in the upper respiratory tract increases rapidly, followed by inhalation and colonization of the lungs due to suppression of the host's defense mechanism. The bacterium produces exotoxin called leukotxin which interacts with the host's defense mechanism resulting in tissue damage with characteristic necrosis, thrombosis, and exudation and the development of pneumonia." [url:http\://merckvetmanual.com/mvm/index.jsp?cfile=htm/bc/121216.htm]
 subset: gram-negative_bacterial_infectious_disease
 subset: zoonotic_infectious_disease
 synonym: "Pneumonic pasteurellosis" EXACT []

@@ -4099,7 +4099,7 @@
       "type" : "CLASS",
       "meta" : {
         "definition" : {
-          "val" : "A Pasteurella infectious disease that involves infection by the bacterium Mannheimia haemolytica and less frequently by Pasteurella multocida and Histophilus somni. After stress or viral infection, the replication rate of M. haemolytica in the upper respiratory tract increases rapidly, followed by inhalation and colonization of the lungs due to suppression of the host's defense mechanism. The bacterium produces exotoxin called leukotxin which interacts with the host's defense mechanism resulting in tissue damage with charactersistic necrosis, thrombosis, and exudation and the development of pneumonia.",
+          "val" : "A Pasteurella infectious disease that involves infection by the bacterium Mannheimia haemolytica and less frequently by Pasteurella multocida and Histophilus somni. After stress or viral infection, the replication rate of M. haemolytica in the upper respiratory tract increases rapidly, followed by inhalation and colonization of the lungs due to suppression of the host's defense mechanism. The bacterium produces exotoxin called leukotxin which interacts with the host's defense mechanism resulting in tissue damage with characteristic necrosis, thrombosis, and exudation and the development of pneumonia.",
           "xrefs" : [ "url:http://merckvetmanual.com/mvm/index.jsp?cfile=htm/bc/121216.htm" ]
         },
         "subsets" : [ "http://purl.obolibrary.org/obo/doid#gram-negative_bacterial_infectious_disease", "http://purl.obolibrary.org/obo/doid#zoonotic_infectious_disease" ],

@@ -674,7 +674,7 @@
       "type" : "CLASS",
       "meta" : {
         "definition" : {
-          "val" : "A primary bacterial infectious disease that results_in infection located_in superficial peripheral nerves, located_in skin, located_in mucous membranes of the upper respiratory tract, located_in anterior chamber of the eyes, or located_in testes, has_material_basis_in Mycobacterium leprae, which is transmitted_by aerosol spread from infected nasal secretions to exposed nasal and oral mucosa. The infection has_symptom skin lesions, has_symptom sensory loss, has_symptom motor loss and has_symptom eye damage.",
+          "val" : "A primary bacterial infectious disease that results_in infection located_in supperficial peripheral nerves, located_in skin, located_in mucous membranes of the upper respiratory tract, located_in anterior chamber of the eyes, or located_in testes, has_material_basis_in Mycobacterium leprae, which is transmitted_by aerosol spread from infected nasal secretions to exposed nasal and oral mucosa. The infection has_symptom skin lesions, has_symptom sensory loss, has_symptom motor loss and has_symptom eye damage.",
           "xrefs" : [ "url:http://en.wikipedia.org/wiki/Leprosy" ]
         },
         "comments" : [ "Xref MGI." ],
@@ -3388,7 +3388,7 @@
       "type" : "CLASS",
       "meta" : {
         "definition" : {
-          "val" : "A pyoderma consisting of three forms of skin lesions having either a thick, adherent, recurrent, dirty yellow crust with an erythematous margin (common or superficial impetigo) or lessions which are superficial, thin-walled, and bullous as found in bullous impetigo. The lesions in bullous (staphylococcal) impetigo, which are always caused by S aureus, are superficial, thin-walled, and bullous.",
+          "val" : "A pyoderma consisting of three forms of skin lesions having either a thick, adherent, recurrent, dirty yellow crust with an erythematous margin (common or supperficial impetigo) or lessions which are supperficial, thin-walled, and bullous as found in bullous impetigo. The lesions in bullous (staphylococcal) impetigo, which are always caused by S aureus, are supperficial, thin-walled, and bullous.",
           "xrefs" : [ "url:https://www.mayoclinic.org/diseases-conditions/impetigo/symptoms-causes/syc-20352352" ]
         },
         "subsets" : [ "http://purl.obolibrary.org/obo/doid#NCIthesaurus", "http://purl.obolibrary.org/obo/doid#gram-positive_bacterial_infectious_disease" ],
@@ -3416,7 +3416,7 @@
       "type" : "CLASS",
       "meta" : {
         "definition" : {
-          "val" : "A pulmonary tuberculosis in which dissemination of the infection by Mycobacterium tuberculosis has occured to parts of the same lung or the opposite lung through rupture of a caseous lymph node into a bronchus.",
+          "val" : "A pulmonary tuberculosis in which dissemination of the infection by Mycobacterium tuberculosis has occurred to parts of the same lung or the opposite lung through rupture of a caseous lymph node into a bronchus.",
           "xrefs" : [ "url:http://www.bmj.com/cgi/reprint/1/4608/741.pdf" ]
         },
         "subsets" : [ "http://purl.obolibrary.org/obo/doid#gram-positive_bacterial_infectious_disease" ],

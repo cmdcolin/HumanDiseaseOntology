@@ -266,7 +266,7 @@ is_a: DOID:13564 ! aspergillosis
 id: DOID:0050096
 name: tinea barbae
 namespace: disease_ontology
-def: "A dermatophytosis that results_in fungal infection which effects horny layer of epidermis of the bearded areas located_in face or located_in neck, has_material_basis_in Trichophyton mentagrophytes or has_material_basis_in Trichophyton verrucosum, which also effects hair, and effects nail and has_symptom inflammatory kerion-like plaques, and results_in_formation_of noninflammatory superficial perifollicular pustules." [url:https\://www.merckmanuals.com/professional/dermatologic-disorders/fungal-skin-infections/tinea-barbae]
+def: "A dermatophytosis that results_in fungal infection which effects horny layer of epidermis of the bearded areas located_in face or located_in neck, has_material_basis_in Trichophyton mentagrophytes or has_material_basis_in Trichophyton verrucosum, which also effects hair, and effects nail and has_symptom inflammatory kerion-like plaques, and results_in_formation_of noninflammatory supperficial perifollicular pustules." [url:https\://www.merckmanuals.com/professional/dermatologic-disorders/fungal-skin-infections/tinea-barbae]
 subset: DO_infectious_disease_slim
 synonym: "dermatophytosis of beard" EXACT []
 xref: MESH:C000656825
@@ -355,7 +355,7 @@ is_a: DOID:12205 ! dengue disease
 
 [Term]
 id: DOID:0050133
-name: superficial mycosis
+name: supperficial mycosis
 namespace: disease_ontology
 alt_id: DOID:13370
 def: "A fungal infectious disease that results_in infection of the outermost layer located_in skin or located_in hair shaft, has_material_basis_in Fungi. No living tissue is invaded and there is no cellular response from the host." [url:http\://en.wikipedia.org/wiki/Mycoses, url:http\://www.mycology.adelaide.edu.au/Mycoses/]
@@ -659,7 +659,7 @@ is_a: DOID:2789 ! parasitic protozoa infectious disease
 id: DOID:0050250
 name: philophthalmiasis
 namespace: disease_ontology
-def: "A parasitic helminthiasis infectious disease that involves parasitic infection of the eyes by Philophthalmus species. External ocular philophthalmiasis manifests as follicular conjunctivitis and superficial keratitis. Sub-conjunctival ocular philophthalmiasis consists of a mild edema with minimal cellular reaction." [url:http\://www.dpd.cdc.gov/dpdx/HTML/Philophthalmiasis.htm]
+def: "A parasitic helminthiasis infectious disease that involves parasitic infection of the eyes by Philophthalmus species. External ocular philophthalmiasis manifests as follicular conjunctivitis and supperficial keratitis. Sub-conjunctival ocular philophthalmiasis consists of a mild edema with minimal cellular reaction." [url:http\://www.dpd.cdc.gov/dpdx/HTML/Philophthalmiasis.htm]
 subset: DO_infectious_disease_slim
 is_a: DOID:883 ! parasitic helminthiasis infectious disease
 
@@ -1817,7 +1817,7 @@ is_a: DOID:1024 ! leprosy
 id: DOID:1024
 name: leprosy
 namespace: disease_ontology
-def: "A primary bacterial infectious disease that results_in infection located_in superficial peripheral nerves, located_in skin, located_in mucous membranes of the upper respiratory tract, located_in anterior chamber of the eyes, or located_in testes, has_material_basis_in Mycobacterium leprae, which is transmitted_by aerosol spread from infected nasal secretions to exposed nasal and oral mucosa. The infection has_symptom skin lesions, has_symptom sensory loss, has_symptom motor loss and has_symptom eye damage." [url:http\://en.wikipedia.org/wiki/Leprosy]
+def: "A primary bacterial infectious disease that results_in infection located_in supperficial peripheral nerves, located_in skin, located_in mucous membranes of the upper respiratory tract, located_in anterior chamber of the eyes, or located_in testes, has_material_basis_in Mycobacterium leprae, which is transmitted_by aerosol spread from infected nasal secretions to exposed nasal and oral mucosa. The infection has_symptom skin lesions, has_symptom sensory loss, has_symptom motor loss and has_symptom eye damage." [url:http\://en.wikipedia.org/wiki/Leprosy]
 comment: Xref MGI.
 subset: DO_infectious_disease_slim
 subset: DO_rare_slim
@@ -2259,10 +2259,10 @@ is_a: DOID:1080 ! filariasis
 id: DOID:1080
 name: filariasis
 namespace: disease_ontology
-def: "A parasitic helminthiasis infectious disease that involves parasitic infection of the lymphatics and subcutaneous tissue by nematodes of the superfamily Filarioidea." [url:http\://en.wikipedia.org/wiki/Filariasis]
+def: "A parasitic helminthiasis infectious disease that involves parasitic infection of the lymphatics and subcutaneous tissue by nematodes of the supperfamily Filarioidea." [url:http\://en.wikipedia.org/wiki/Filariasis]
 subset: DO_infectious_disease_slim
 subset: NCIthesaurus
-synonym: "disease due to superfamily Filarioidea" EXACT []
+synonym: "disease due to supperfamily Filarioidea" EXACT []
 xref: ICD10CM:B74
 xref: ICD9CM:125.9
 xref: MESH:D005368
@@ -2757,7 +2757,7 @@ is_a: DOID:0050292 ! primary systemic mycosis
 id: DOID:11227
 name: acute hemorrhagic conjunctivitis
 namespace: disease_ontology
-def: "A viral infectious disease that results in inflammation located in conjunctiva, has_material_basis_in Human coxsackievirus A24 or has_material_basis_in Human enterovirus 70, which are transmitted by contaminated fomites or transmitted by contact with contaminated hands. The infection has symptom vascular dilation, has symptom eyelid edema, has symptom photophobia, has symptom redness of the eyes, has symptom watering of the eye, has symptom conjunctival congestion, and has symptom superficial punctate epithelial keratitis." [url:https\://en.wikipedia.org/wiki/Acute_hemorrhagic_conjunctivitis]
+def: "A viral infectious disease that results in inflammation located in conjunctiva, has_material_basis_in Human coxsackievirus A24 or has_material_basis_in Human enterovirus 70, which are transmitted by contaminated fomites or transmitted by contact with contaminated hands. The infection has symptom vascular dilation, has symptom eyelid edema, has symptom photophobia, has symptom redness of the eyes, has symptom watering of the eye, has symptom conjunctival congestion, and has symptom supperficial punctate epithelial keratitis." [url:https\://en.wikipedia.org/wiki/Acute_hemorrhagic_conjunctivitis]
 subset: DO_infectious_disease_slim
 subset: NCIthesaurus
 synonym: "Apollo disease" EXACT []
@@ -3804,7 +3804,7 @@ is_a: DOID:934 ! viral infectious disease
 id: DOID:1255
 name: trichostrongyloidiasis
 namespace: disease_ontology
-def: "A parasitic helminthiasis infectious disease that involves parasitic infection of animals and humans by nematodes of the superfamily Trichostrongyloidea." [url:http\://en.wikipedia.org/wiki/Strongylida]
+def: "A parasitic helminthiasis infectious disease that involves parasitic infection of animals and humans by nematodes of the supperfamily Trichostrongyloidea." [url:http\://en.wikipedia.org/wiki/Strongylida]
 subset: DO_infectious_disease_slim
 xref: MESH:D014252
 xref: UMLS_CUI:C0040947
@@ -3882,7 +3882,7 @@ xref: UMLS_CUI:C0751908
 id: DOID:12711
 name: black piedra
 namespace: disease_ontology
-def: "A superficial mycosis that is a superficial fungal infection of the hair shaft caused by Piedraia hortae, an ascomycetous fungus forming hard black nodules on the shafts of the scalp, beard, moustache and pubic hair." [url:http\://en.wikipedia.org/wiki/Black_piedra, url:http\://mycology.adelaide.edu.au/Mycoses/Superficial/Black_piedra/]
+def: "A supperficial mycosis that is a supperficial fungal infection of the hair shaft caused by Piedraia hortae, an ascomycetous fungus forming hard black nodules on the shafts of the scalp, beard, moustache and pubic hair." [url:http\://en.wikipedia.org/wiki/Black_piedra, url:http\://mycology.adelaide.edu.au/Mycoses/Supperficial/Black_piedra/]
 comment: Adding additional UMLS CUI.\nUMLS has piedra, black piedra and white piedra combined.\nDO has these as distinct diseases.
 subset: DO_infectious_disease_slim
 xref: ICD10CM:B36.3
@@ -3892,7 +3892,7 @@ xref: SNOMEDCT_US_2023_03_01:266218008
 xref: SNOMEDCT_US_2023_03_01:33666009
 xref: UMLS_CUI:C0031898
 xref: UMLS_CUI:C0153249
-is_a: DOID:0050133 ! superficial mycosis
+is_a: DOID:0050133 ! supperficial mycosis
 
 [Term]
 id: DOID:1273
@@ -4657,7 +4657,7 @@ is_a: DOID:0050339 ! commensal bacterial infectious disease
 id: DOID:13902
 name: white piedra
 namespace: disease_ontology
-def: "A superficial mycosis that is a superficial fungal infection of the hair shaft caused by Trichosporon beigelii. Infected hairs develop soft greyish-white nodules along the shaft." [url:http\://mycology.adelaide.edu.au/Mycoses/Superficial/White_piedra/]
+def: "A supperficial mycosis that is a supperficial fungal infection of the hair shaft caused by Trichosporon beigelii. Infected hairs develop soft greyish-white nodules along the shaft." [url:http\://mycology.adelaide.edu.au/Mycoses/Supperficial/White_piedra/]
 comment: Adding additional UMLS CUI.\nUMLS has piedra, black piedra and white piedra combined.\nDO has these as distinct diseases.
 subset: DO_infectious_disease_slim
 synonym: "Tinea blanca" EXACT []
@@ -4668,7 +4668,7 @@ xref: SNOMEDCT_US_2023_03_01:266218008
 xref: SNOMEDCT_US_2023_03_01:35586003
 xref: UMLS_CUI:C0031898
 xref: UMLS_CUI:C0040249
-is_a: DOID:0050133 ! superficial mycosis
+is_a: DOID:0050133 ! supperficial mycosis
 
 [Term]
 id: DOID:13921
@@ -5427,7 +5427,7 @@ id: DOID:2058
 name: chronic mucocutaneous candidiasis
 namespace: disease_ontology
 alt_id: DOID:2056
-def: "A candidiasis that refers to a heterogeneous group of disorders characterized by recurrent or persistent superficial fungal infections located_in skin, located_in mucous membrane, or located_in nail due to T-cell defects, has-agent Candida species and has_symptom scaling of skin lesions, has_symptom thickening of nails, has_symptom swollen periungal tissue, and has_symptom scarring of the scalp." [url:http\://www.merck.com/mmpe/sec13/ch164/ch164f.html?qt=Chronic%20mucocutaneous%20candidiasis&alt=sh]
+def: "A candidiasis that refers to a heterogeneous group of disorders characterized by recurrent or persistent supperficial fungal infections located_in skin, located_in mucous membrane, or located_in nail due to T-cell defects, has-agent Candida species and has_symptom scaling of skin lesions, has_symptom thickening of nails, has_symptom swollen periungal tissue, and has_symptom scarring of the scalp." [url:http\://www.merck.com/mmpe/sec13/ch164/ch164f.html?qt=Chronic%20mucocutaneous%20candidiasis&alt=sh]
 subset: DO_infectious_disease_slim
 subset: DO_rare_slim
 subset: NCIthesaurus
@@ -7621,7 +7621,7 @@ is_a: DOID:883 ! parasitic helminthiasis infectious disease
 id: DOID:8912
 name: tinea nigra
 namespace: disease_ontology
-def: "A superficial mycosis that is a superficial fungal infection of the skin characterized by brown to black macules which usually occur on the palmar aspects of hands and occasionally the plantar and other surfaces of the skin, caused by Hortaea werneckii, which is a common saprophytic fungus believed to occur in soil, compost, humus and on wood in humid tropical and sub-tropical regions." [url:http\://www.mycology.adelaide.edu.au/Mycoses/Superficial/Tinea_nigra/index.html]
+def: "A supperficial mycosis that is a supperficial fungal infection of the skin characterized by brown to black macules which usually occur on the palmar aspects of hands and occasionally the plantar and other surfaces of the skin, caused by Hortaea werneckii, which is a common saprophytic fungus believed to occur in soil, compost, humus and on wood in humid tropical and sub-tropical regions." [url:http\://www.mycology.adelaide.edu.au/Mycoses/Supperficial/Tinea_nigra/index.html]
 subset: DO_infectious_disease_slim
 synonym: "Infection by Cladosporium werneckii" EXACT []
 synonym: "Keratomycosis nigricans" EXACT []
@@ -7632,7 +7632,7 @@ xref: ICD9CM:111.1
 xref: MESH:C000656904
 xref: SNOMEDCT_US_2023_03_01:1022006
 xref: UMLS_CUI:C0152067
-is_a: DOID:0050133 ! superficial mycosis
+is_a: DOID:0050133 ! supperficial mycosis
 
 [Term]
 id: DOID:8913
@@ -7688,7 +7688,7 @@ is_a: DOID:934 ! viral infectious disease
 id: DOID:9060
 name: pityriasis versicolor
 namespace: disease_ontology
-def: "A superficial mycosis that is a chronic, superficial fungal infection of the skin caused by Malassezia furfur, which is characterized by well-demarcated white, pink, fawn, or brownish lesions, often coalescing, and covered with thin furfuraceous scales." [url:http\://mycology.adelaide.edu.au/Mycoses/Superficial/Malassezia_infections/]
+def: "A supperficial mycosis that is a chronic, supperficial fungal infection of the skin caused by Malassezia furfur, which is characterized by well-demarcated white, pink, fawn, or brownish lesions, often coalescing, and covered with thin furfuraceous scales." [url:http\://mycology.adelaide.edu.au/Mycoses/Supperficial/Malassezia_infections/]
 subset: DO_infectious_disease_slim
 subset: NCIthesaurus
 synonym: "Infection by Pityrosporum furfur" EXACT []
@@ -7698,7 +7698,7 @@ xref: MESH:D014010
 xref: NCI:C112833
 xref: SNOMEDCT_US_2023_03_01:56454009
 xref: UMLS_CUI:C0040262
-is_a: DOID:0050133 ! superficial mycosis
+is_a: DOID:0050133 ! supperficial mycosis
 
 [Term]
 id: DOID:9063

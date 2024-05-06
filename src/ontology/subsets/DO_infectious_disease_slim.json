@@ -477,7 +477,7 @@
       "type" : "CLASS",
       "meta" : {
         "definition" : {
-          "val" : "A dermatophytosis that results_in fungal infection which effects horny layer of epidermis of the bearded areas located_in face or located_in neck, has_material_basis_in Trichophyton mentagrophytes or has_material_basis_in Trichophyton verrucosum, which also effects hair, and effects nail and has_symptom inflammatory kerion-like plaques, and results_in_formation_of noninflammatory superficial perifollicular pustules.",
+          "val" : "A dermatophytosis that results_in fungal infection which effects horny layer of epidermis of the bearded areas located_in face or located_in neck, has_material_basis_in Trichophyton mentagrophytes or has_material_basis_in Trichophyton verrucosum, which also effects hair, and effects nail and has_symptom inflammatory kerion-like plaques, and results_in_formation_of noninflammatory supperficial perifollicular pustules.",
           "xrefs" : [ "url:https://www.merckmanuals.com/professional/dermatologic-disorders/fungal-skin-infections/tinea-barbae" ]
         },
         "subsets" : [ "http://purl.obolibrary.org/obo/doid#DO_infectious_disease_slim" ],
@@ -668,7 +668,7 @@
       }
     }, {
       "id" : "http://purl.obolibrary.org/obo/DOID_0050133",
-      "lbl" : "superficial mycosis",
+      "lbl" : "supperficial mycosis",
       "type" : "CLASS",
       "meta" : {
         "definition" : {
@@ -1239,7 +1239,7 @@
       "type" : "CLASS",
       "meta" : {
         "definition" : {
-          "val" : "A parasitic helminthiasis infectious disease that involves parasitic infection of the eyes by Philophthalmus species. External ocular philophthalmiasis manifests as follicular conjunctivitis and superficial keratitis. Sub-conjunctival ocular philophthalmiasis consists of a mild edema with minimal cellular reaction.",
+          "val" : "A parasitic helminthiasis infectious disease that involves parasitic infection of the eyes by Philophthalmus species. External ocular philophthalmiasis manifests as follicular conjunctivitis and supperficial keratitis. Sub-conjunctival ocular philophthalmiasis consists of a mild edema with minimal cellular reaction.",
           "xrefs" : [ "url:http://www.dpd.cdc.gov/dpdx/HTML/Philophthalmiasis.htm" ]
         },
         "subsets" : [ "http://purl.obolibrary.org/obo/doid#DO_infectious_disease_slim" ],
@@ -3524,7 +3524,7 @@
       "type" : "CLASS",
       "meta" : {
         "definition" : {
-          "val" : "A primary bacterial infectious disease that results_in infection located_in superficial peripheral nerves, located_in skin, located_in mucous membranes of the upper respiratory tract, located_in anterior chamber of the eyes, or located_in testes, has_material_basis_in Mycobacterium leprae, which is transmitted_by aerosol spread from infected nasal secretions to exposed nasal and oral mucosa. The infection has_symptom skin lesions, has_symptom sensory loss, has_symptom motor loss and has_symptom eye damage.",
+          "val" : "A primary bacterial infectious disease that results_in infection located_in supperficial peripheral nerves, located_in skin, located_in mucous membranes of the upper respiratory tract, located_in anterior chamber of the eyes, or located_in testes, has_material_basis_in Mycobacterium leprae, which is transmitted_by aerosol spread from infected nasal secretions to exposed nasal and oral mucosa. The infection has_symptom skin lesions, has_symptom sensory loss, has_symptom motor loss and has_symptom eye damage.",
           "xrefs" : [ "url:http://en.wikipedia.org/wiki/Leprosy" ]
         },
         "comments" : [ "Xref MGI." ],
@@ -4418,13 +4418,13 @@
       "type" : "CLASS",
       "meta" : {
         "definition" : {
-          "val" : "A parasitic helminthiasis infectious disease that involves parasitic infection of the lymphatics and subcutaneous tissue by nematodes of the superfamily Filarioidea.",
+          "val" : "A parasitic helminthiasis infectious disease that involves parasitic infection of the lymphatics and subcutaneous tissue by nematodes of the supperfamily Filarioidea.",
           "xrefs" : [ "url:http://en.wikipedia.org/wiki/Filariasis" ]
         },
         "subsets" : [ "http://purl.obolibrary.org/obo/doid#DO_infectious_disease_slim", "http://purl.obolibrary.org/obo/doid#NCIthesaurus" ],
         "synonyms" : [ {
           "pred" : "hasExactSynonym",
-          "val" : "disease due to superfamily Filarioidea"
+          "val" : "disease due to supperfamily Filarioidea"
         } ],
         "xrefs" : [ {
           "val" : "ICD10CM:B74"
@@ -5422,7 +5422,7 @@
       "type" : "CLASS",
       "meta" : {
         "definition" : {
-          "val" : "A viral infectious disease that results in inflammation located in conjunctiva, has_material_basis_in Human coxsackievirus A24 or has_material_basis_in Human enterovirus 70, which are transmitted by contaminated fomites or transmitted by contact with contaminated hands. The infection has symptom vascular dilation, has symptom eyelid edema, has symptom photophobia, has symptom redness of the eyes, has symptom watering of the eye, has symptom conjunctival congestion, and has symptom superficial punctate epithelial keratitis.",
+          "val" : "A viral infectious disease that results in inflammation located in conjunctiva, has_material_basis_in Human coxsackievirus A24 or has_material_basis_in Human enterovirus 70, which are transmitted by contaminated fomites or transmitted by contact with contaminated hands. The infection has symptom vascular dilation, has symptom eyelid edema, has symptom photophobia, has symptom redness of the eyes, has symptom watering of the eye, has symptom conjunctival congestion, and has symptom supperficial punctate epithelial keratitis.",
           "xrefs" : [ "url:https://en.wikipedia.org/wiki/Acute_hemorrhagic_conjunctivitis" ]
         },
         "subsets" : [ "http://purl.obolibrary.org/obo/doid#DO_infectious_disease_slim", "http://purl.obolibrary.org/obo/doid#NCIthesaurus" ],
@@ -7560,7 +7560,7 @@
       "type" : "CLASS",
       "meta" : {
         "definition" : {
-          "val" : "A parasitic helminthiasis infectious disease that involves parasitic infection of animals and humans by nematodes of the superfamily Trichostrongyloidea.",
+          "val" : "A parasitic helminthiasis infectious disease that involves parasitic infection of animals and humans by nematodes of the supperfamily Trichostrongyloidea.",
           "xrefs" : [ "url:http://en.wikipedia.org/wiki/Strongylida" ]
         },
         "subsets" : [ "http://purl.obolibrary.org/obo/doid#DO_infectious_disease_slim" ],
@@ -7724,8 +7724,8 @@
       "type" : "CLASS",
       "meta" : {
         "definition" : {
-          "val" : "A superficial mycosis that is a superficial fungal infection of the hair shaft caused by Piedraia hortae, an ascomycetous fungus forming hard black nodules on the shafts of the scalp, beard, moustache and pubic hair.",
-          "xrefs" : [ "url:http://en.wikipedia.org/wiki/Black_piedra", "url:http://mycology.adelaide.edu.au/Mycoses/Superficial/Black_piedra/" ]
+          "val" : "A supperficial mycosis that is a supperficial fungal infection of the hair shaft caused by Piedraia hortae, an ascomycetous fungus forming hard black nodules on the shafts of the scalp, beard, moustache and pubic hair.",
+          "xrefs" : [ "url:http://en.wikipedia.org/wiki/Black_piedra", "url:http://mycology.adelaide.edu.au/Mycoses/Supperficial/Black_piedra/" ]
         },
         "comments" : [ "Adding additional UMLS CUI.\nUMLS has piedra, black piedra and white piedra combined.\nDO has these as distinct diseases." ],
         "subsets" : [ "http://purl.obolibrary.org/obo/doid#DO_infectious_disease_slim" ],
@@ -9283,8 +9283,8 @@
       "type" : "CLASS",
       "meta" : {
         "definition" : {
-          "val" : "A superficial mycosis that is a superficial fungal infection of the hair shaft caused by Trichosporon beigelii. Infected hairs develop soft greyish-white nodules along the shaft.",
-          "xrefs" : [ "url:http://mycology.adelaide.edu.au/Mycoses/Superficial/White_piedra/" ]
+          "val" : "A supperficial mycosis that is a supperficial fungal infection of the hair shaft caused by Trichosporon beigelii. Infected hairs develop soft greyish-white nodules along the shaft.",
+          "xrefs" : [ "url:http://mycology.adelaide.edu.au/Mycoses/Supperficial/White_piedra/" ]
         },
         "comments" : [ "Adding additional UMLS CUI.\nUMLS has piedra, black piedra and white piedra combined.\nDO has these as distinct diseases." ],
         "subsets" : [ "http://purl.obolibrary.org/obo/doid#DO_infectious_disease_slim" ],
@@ -10888,7 +10888,7 @@
       "type" : "CLASS",
       "meta" : {
         "definition" : {
-          "val" : "A candidiasis that refers to a heterogeneous group of disorders characterized by recurrent or persistent superficial fungal infections located_in skin, located_in mucous membrane, or located_in nail due to T-cell defects, has-agent Candida species and has_symptom scaling of skin lesions, has_symptom thickening of nails, has_symptom swollen periungal tissue, and has_symptom scarring of the scalp.",
+          "val" : "A candidiasis that refers to a heterogeneous group of disorders characterized by recurrent or persistent supperficial fungal infections located_in skin, located_in mucous membrane, or located_in nail due to T-cell defects, has-agent Candida species and has_symptom scaling of skin lesions, has_symptom thickening of nails, has_symptom swollen periungal tissue, and has_symptom scarring of the scalp.",
           "xrefs" : [ "url:http://www.merck.com/mmpe/sec13/ch164/ch164f.html?qt=Chronic%20mucocutaneous%20candidiasis&alt=sh" ]
         },
         "subsets" : [ "http://purl.obolibrary.org/obo/doid#DO_infectious_disease_slim", "http://purl.obolibrary.org/obo/doid#DO_rare_slim", "http://purl.obolibrary.org/obo/doid#NCIthesaurus" ],
@@ -15383,8 +15383,8 @@
       "type" : "CLASS",
       "meta" : {
         "definition" : {
-          "val" : "A superficial mycosis that is a superficial fungal infection of the skin characterized by brown to black macules which usually occur on the palmar aspects of hands and occasionally the plantar and other surfaces of the skin, caused by Hortaea werneckii, which is a common saprophytic fungus believed to occur in soil, compost, humus and on wood in humid tropical and sub-tropical regions.",
-          "xrefs" : [ "url:http://www.mycology.adelaide.edu.au/Mycoses/Superficial/Tinea_nigra/index.html" ]
+          "val" : "A supperficial mycosis that is a supperficial fungal infection of the skin characterized by brown to black macules which usually occur on the palmar aspects of hands and occasionally the plantar and other surfaces of the skin, caused by Hortaea werneckii, which is a common saprophytic fungus believed to occur in soil, compost, humus and on wood in humid tropical and sub-tropical regions.",
+          "xrefs" : [ "url:http://www.mycology.adelaide.edu.au/Mycoses/Supperficial/Tinea_nigra/index.html" ]
         },
         "subsets" : [ "http://purl.obolibrary.org/obo/doid#DO_infectious_disease_slim" ],
         "synonyms" : [ {
@@ -15520,8 +15520,8 @@
       "type" : "CLASS",
       "meta" : {
         "definition" : {
-          "val" : "A superficial mycosis that is a chronic, superficial fungal infection of the skin caused by Malassezia furfur, which is characterized by well-demarcated white, pink, fawn, or brownish lesions, often coalescing, and covered with thin furfuraceous scales.",
-          "xrefs" : [ "url:http://mycology.adelaide.edu.au/Mycoses/Superficial/Malassezia_infections/" ]
+          "val" : "A supperficial mycosis that is a chronic, supperficial fungal infection of the skin caused by Malassezia furfur, which is characterized by well-demarcated white, pink, fawn, or brownish lesions, often coalescing, and covered with thin furfuraceous scales.",
+          "xrefs" : [ "url:http://mycology.adelaide.edu.au/Mycoses/Supperficial/Malassezia_infections/" ]
         },
         "subsets" : [ "http://purl.obolibrary.org/obo/doid#DO_infectious_disease_slim", "http://purl.obolibrary.org/obo/doid#NCIthesaurus" ],
         "synonyms" : [ {

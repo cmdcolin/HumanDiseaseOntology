@@ -3884,7 +3884,7 @@
     <!-- http://purl.obolibrary.org/obo/DOID_3730 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_3730">
-        <obo:IAO_0000115 xml:lang="en">A Pasteurella infectious disease that involves infection by the bacterium Mannheimia haemolytica and less frequently by Pasteurella multocida and Histophilus somni. After stress or viral infection, the replication rate of M. haemolytica in the upper respiratory tract increases rapidly, followed by inhalation and colonization of the lungs due to suppression of the host&apos;s defense mechanism. The bacterium produces exotoxin called leukotxin which interacts with the host&apos;s defense mechanism resulting in tissue damage with charactersistic necrosis, thrombosis, and exudation and the development of pneumonia.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A Pasteurella infectious disease that involves infection by the bacterium Mannheimia haemolytica and less frequently by Pasteurella multocida and Histophilus somni. After stress or viral infection, the replication rate of M. haemolytica in the upper respiratory tract increases rapidly, followed by inhalation and colonization of the lungs due to suppression of the host&apos;s defense mechanism. The bacterium produces exotoxin called leukotxin which interacts with the host&apos;s defense mechanism resulting in tissue damage with characteristic necrosis, thrombosis, and exudation and the development of pneumonia.</obo:IAO_0000115>
         <oboInOwl:hasExactSynonym xml:lang="en">Pneumonic pasteurellosis</oboInOwl:hasExactSynonym>
         <oboInOwl:hasOBONamespace>disease_ontology</oboInOwl:hasOBONamespace>
         <oboInOwl:id>DOID:3730</oboInOwl:id>
@@ -3896,7 +3896,7 @@
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/DOID_3730"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <owl:annotatedTarget xml:lang="en">A Pasteurella infectious disease that involves infection by the bacterium Mannheimia haemolytica and less frequently by Pasteurella multocida and Histophilus somni. After stress or viral infection, the replication rate of M. haemolytica in the upper respiratory tract increases rapidly, followed by inhalation and colonization of the lungs due to suppression of the host&apos;s defense mechanism. The bacterium produces exotoxin called leukotxin which interacts with the host&apos;s defense mechanism resulting in tissue damage with charactersistic necrosis, thrombosis, and exudation and the development of pneumonia.</owl:annotatedTarget>
+        <owl:annotatedTarget xml:lang="en">A Pasteurella infectious disease that involves infection by the bacterium Mannheimia haemolytica and less frequently by Pasteurella multocida and Histophilus somni. After stress or viral infection, the replication rate of M. haemolytica in the upper respiratory tract increases rapidly, followed by inhalation and colonization of the lungs due to suppression of the host&apos;s defense mechanism. The bacterium produces exotoxin called leukotxin which interacts with the host&apos;s defense mechanism resulting in tissue damage with characteristic necrosis, thrombosis, and exudation and the development of pneumonia.</owl:annotatedTarget>
         <oboInOwl:hasDbXref>url:http://merckvetmanual.com/mvm/index.jsp?cfile=htm/bc/121216.htm</oboInOwl:hasDbXref>
     </owl:Axiom>
     

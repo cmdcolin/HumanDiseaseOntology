@@ -2073,7 +2073,7 @@ xref: ORDO:334
 id: DOID:0050651
 name: atrioventricular septal defect
 namespace: disease_ontology
-def: "A congenital heart septal defect characterized by an abnormal or inadequate fusion of the superior and inferior endocardial cushions with the mid portion of the atrial septum and the muscular portion of the ventricular septum, thus allowing extra blood to circulate the lungs." [url:http\://en.wikipedia.org/wiki/Atrioventricular_septal_defect, url:http\://www.cdc.gov/ncbddd/heartdefects/avsd.html]
+def: "A congenital heart septal defect characterized by an abnormal or inadequate fusion of the supperior and inferior endocardial cushions with the mid portion of the atrial septum and the muscular portion of the ventricular septum, thus allowing extra blood to circulate the lungs." [url:http\://en.wikipedia.org/wiki/Atrioventricular_septal_defect, url:http\://www.cdc.gov/ncbddd/heartdefects/avsd.html]
 comment: Xref MGI.\nOMIM mapping confirmed by DO. [SN].
 subset: DO_rare_slim
 synonym: "atrioventricular canal defect" EXACT []
@@ -3181,7 +3181,7 @@ creation_date: 2013-12-02T02:28:58Z
 id: DOID:0050811
 name: congenital adrenal hyperplasia
 namespace: disease_ontology
-def: "A steroid inherited metabolic disorder that is characterized by adrenal insufficiency and variable degrees of hyper or hypo androgeny manifestations resulting from steroidogenic enzyme deficiency." [url:http\://omim.org/entry/201710, url:http\://www.genome.jp/dbget-bin/www_bget?ds\:H00216, url:http\://www.orpha.net/consor/cgi-bin/OC_Exp.php?Lng=GB&Expert=418.0]
+def: "A steroid inherited metabolic disorder that is characterized by adrenal insufficiency and variable degrees of hyper or hypo androgyny manifestations resulting from steroidogenic enzyme deficiency." [url:http\://omim.org/entry/201710, url:http\://www.genome.jp/dbget-bin/www_bget?ds\:H00216, url:http\://www.orpha.net/consor/cgi-bin/OC_Exp.php?Lng=GB&Expert=418.0]
 comment: Xref MGI.
 subset: DO_rare_slim
 synonym: "adrenal hyperplasia 1" EXACT []
@@ -3677,7 +3677,7 @@ creation_date: 2015-10-05T16:07:27Z
 id: DOID:0050956
 name: spinocerebellar ataxia type 6
 namespace: disease_ontology
-def: "An autosomal dominant cerebellar ataxia that is characterized by progresive ataxia, has_material_basis_in mutation in the CACNA1A gene." [url:https\://ghr.nlm.nih.gov/condition/spinocerebellar-ataxia-type-6]
+def: "An autosomal dominant cerebellar ataxia that is characterized by progressive ataxia, has_material_basis_in mutation in the CACNA1A gene." [url:https\://ghr.nlm.nih.gov/condition/spinocerebellar-ataxia-type-6]
 subset: DO_rare_slim
 xref: GARD:10351
 xref: OMIM:183086
@@ -3689,7 +3689,7 @@ creation_date: 2015-10-05T16:07:27Z
 id: DOID:0050957
 name: spinocerebellar ataxia type 4
 namespace: disease_ontology
-def: "An autosomal dominant cerebellar ataxia that is characterized by progresive ataxia, dysarthria and peripheral neuropathy, has_material_basis_in mutation in the SCA4 gene." [url:https\://rarediseases.info.nih.gov/diseases/9970/spinocerebellar-ataxia-4]
+def: "An autosomal dominant cerebellar ataxia that is characterized by progressive ataxia, dysarthria and peripheral neuropathy, has_material_basis_in mutation in the SCA4 gene." [url:https\://rarediseases.info.nih.gov/diseases/9970/spinocerebellar-ataxia-4]
 subset: DO_rare_slim
 xref: GARD:9970
 xref: MESH:D020754
@@ -4095,7 +4095,7 @@ creation_date: 2011-08-22T12:04:56Z
 id: DOID:0060148
 name: simultanagnosia
 namespace: disease_ontology
-def: "An agnosia that is a loss of the ability to recgonize a whole image or scene while retianing the ability to recognize objects or details in their visual field one at a time." [url:http\://en.wikipedia.org/wiki/Agnosia]
+def: "An agnosia that is a loss of the ability to recognize a whole image or scene while retianing the ability to recognize objects or details in their visual field one at a time." [url:http\://en.wikipedia.org/wiki/Agnosia]
 subset: DO_rare_slim
 xref: GARD:11943
 is_a: DOID:4090 ! agnosia
@@ -5553,7 +5553,7 @@ creation_date: 2015-02-04T16:56:52Z
 id: DOID:0060287
 name: cornea plana
 namespace: disease_ontology
-def: "A corneal disease that is characterized by a flat cornea where the radus of curvature is less than 43 D." [url:https\://disorders.eyes.arizona.edu/handouts/cornea-plana]
+def: "A corneal disease that is characterized by a flat cornea where the radius of curvature is less than 43 D." [url:https\://disorders.eyes.arizona.edu/handouts/cornea-plana]
 comment: NT MGI.
 subset: DO_rare_slim
 synonym: "flat cornea" EXACT []
@@ -7384,7 +7384,7 @@ creation_date: 2015-10-16T17:13:34Z
 id: DOID:0060447
 name: epithelial basement membrane dystrophy
 namespace: disease_ontology
-def: "An epithelial and subepithelial dystrophy that is characterized by sheet-like areas of basement membrane originating from the basal epithelial cells of the corneal epithelium and extending superficially into the epithelium." [url:https\://pubmed.ncbi.nlm.nih.gov/16652336/]
+def: "An epithelial and subepithelial dystrophy that is characterized by sheet-like areas of basement membrane originating from the basal epithelial cells of the corneal epithelium and extending supperficially into the epithelium." [url:https\://pubmed.ncbi.nlm.nih.gov/16652336/]
 subset: DO_rare_slim
 synonym: "Cogan corneal dystrophy" EXACT []
 synonym: "EBMD" EXACT []
@@ -9676,7 +9676,7 @@ property_value: exactMatch "UMLS_CUI:C1842413" xsd:string
 id: DOID:0060762
 name: restrictive dermopathy
 namespace: disease_ontology
-def: "A skin disease characterized by thin, tightly adherent translucent skin with erosions at flexure sites, superficial vessels, typical facial dysmorphism, and generalized joint ankylosis. Prenatal signs may include intrauterine growth retardation, reduced fetal movements, polyhydramnios, and premature rupture of the membranes. Most infants die within the first week of life." [url:https\://www.ncbi.nlm.nih.gov/pubmed/15317753, url:https\://www.ncbi.nlm.nih.gov/pubmed/20101687]
+def: "A skin disease characterized by thin, tightly adherent translucent skin with erosions at flexure sites, supperficial vessels, typical facial dysmorphism, and generalized joint ankylosis. Prenatal signs may include intrauterine growth retardation, reduced fetal movements, polyhydramnios, and premature rupture of the membranes. Most infants die within the first week of life." [url:https\://www.ncbi.nlm.nih.gov/pubmed/15317753, url:https\://www.ncbi.nlm.nih.gov/pubmed/20101687]
 subset: DO_rare_slim
 synonym: "hyperkeratosis-contracture syndrome" EXACT []
 synonym: "Infantile restrictive dermopathy" EXACT []
@@ -11154,7 +11154,7 @@ subset: DO_rare_slim
 subset: NCIthesaurus
 synonym: "bullous type ichthyosis" EXACT []
 synonym: "ichthyosis bullosa of Siemens" EXACT []
-synonym: "superficial epidermolytic ichthyosis" EXACT []
+synonym: "supperficial epidermolytic ichthyosis" EXACT []
 xref: GARD:2966
 xref: MESH:D053560
 xref: NCI:C84777
@@ -13834,7 +13834,7 @@ id: DOID:0080079
 name: nonsyndromic congenital nail disorder 1
 namespace: disease_ontology
 alt_id: DOID:0080088
-def: "A nonsyndromic congenital nail disorder that is characterized by excessive longitudinal striations and numerous superficial pits on the nails, which have a distinctive rough, sand paper-like appearance." [url:https\://pubmed.ncbi.nlm.nih.gov/26149975/]
+def: "A nonsyndromic congenital nail disorder that is characterized by excessive longitudinal striations and numerous supperficial pits on the nails, which have a distinctive rough, sand paper-like appearance." [url:https\://pubmed.ncbi.nlm.nih.gov/26149975/]
 subset: DO_rare_slim
 synonym: "nonsyndromic congenital nail disorder 10" EXACT []
 synonym: "twenty-nail dystrophy" EXACT []
@@ -14435,14 +14435,14 @@ xref: GARD:12800
 
 [Term]
 id: DOID:0080193
-name: superior semicircular canal dehiscence
+name: supperior semicircular canal dehiscence
 namespace: disease_ontology
-def: "An inner ear disease characterized by dehiscence in the bone overlying the superior semicircular canal experience with symptoms of pressure or sound-induced vertigo, bone conduction hyperacusis, and pulsatile tinnitus." [url:https\://rarediseases.org/rare-diseases/superior-semicircular-canal-dehiscence/, url:https\://www.ncbi.nlm.nih.gov/pubmed/10651428/, url:https\://www.ncbi.nlm.nih.gov/pubmed/28503164, url:https\://www.ncbi.nlm.nih.gov/pubmed/28790965]
+def: "An inner ear disease characterized by dehiscence in the bone overlying the supperior semicircular canal experience with symptoms of pressure or sound-induced vertigo, bone conduction hyperacusis, and pulsatile tinnitus." [url:https\://rarediseases.org/rare-diseases/supperior-semicircular-canal-dehiscence/, url:https\://www.ncbi.nlm.nih.gov/pubmed/10651428/, url:https\://www.ncbi.nlm.nih.gov/pubmed/28503164, url:https\://www.ncbi.nlm.nih.gov/pubmed/28790965]
 subset: DO_rare_slim
 synonym: "canal dehiscence syndrome" EXACT []
-synonym: "superior canal dehiscence" EXACT []
-synonym: "superior canal syndrome" EXACT []
-synonym: "superior semicircular canal dehiscence syndrome" EXACT []
+synonym: "supperior canal dehiscence" EXACT []
+synonym: "supperior canal syndrome" EXACT []
+synonym: "supperior semicircular canal dehiscence syndrome" EXACT []
 synonym: "third mobile window syndrome" EXACT []
 xref: ORDO:420402
 
@@ -16545,9 +16545,9 @@ is_a: DOID:0080143 ! congenital fibrosis of the extraocular muscles
 id: DOID:0081022
 name: retinal cone dystrophy 3B
 namespace: disease_ontology
-def: "A cone dystrophy that is characterized by onset in the first or second decade of life of very marked photophobia, myopia, reduced color vision along the red-green axis with relatively preserved tritan discrimination, and central scotomata with peripheral widespread sensitivity loss predominating in the superior visual field and that has_material_basis_in homozygous or compound heterozygous mutation in the KCNV2 gene on chromosome 9p24." [url:https\://pubmed.ncbi.nlm.nih.gov/15722315/]
+def: "A cone dystrophy that is characterized by onset in the first or second decade of life of very marked photophobia, myopia, reduced color vision along the red-green axis with relatively preserved tritan discrimination, and central scotomata with peripheral widespread sensitivity loss predominating in the supperior visual field and that has_material_basis_in homozygous or compound heterozygous mutation in the KCNV2 gene on chromosome 9p24." [url:https\://pubmed.ncbi.nlm.nih.gov/15722315/]
 subset: DO_rare_slim
-synonym: "cone dystrophy with supernormal rod responses" EXACT []
+synonym: "cone dystrophy with suppernormal rod responses" EXACT []
 xref: GARD:10649
 xref: MESH:C563678
 xref: OMIM:610356
@@ -17792,7 +17792,7 @@ xref: ORDO:199247
 id: DOID:0090031
 name: D-bifunctional protein deficiency
 namespace: disease_ontology
-def: "A peroxisomal disease characterized by, in severe cases, infantile-onset of hypotonia, seizures, and abnormal facial features with most dieing before age 2 years that has_material_basis_in homozygous or compound heterozygous mutation in the HSD17B4 gene on chromosome 5q2." [url:https\://ghr.nlm.nih.gov/condition/d-bifunctional-protein-deficiency, url:https\://www.omim.org/entry/261515]
+def: "A peroxisomal disease characterized by, in severe cases, infantile-onset of hypotonia, seizures, and abnormal facial features with most dying before age 2 years that has_material_basis_in homozygous or compound heterozygous mutation in the HSD17B4 gene on chromosome 5q2." [url:https\://ghr.nlm.nih.gov/condition/d-bifunctional-protein-deficiency, url:https\://www.omim.org/entry/261515]
 subset: DO_rare_slim
 xref: GARD:4539
 xref: ICD10CM:E71.3
@@ -24830,7 +24830,7 @@ is_a: DOID:9252 ! amino acid metabolic disorder
 id: DOID:0111259
 name: postaxial acrofacial dysostosis
 namespace: disease_ontology
-def: "A syndrome characterized by severe micrognathia, cleft lip and/or palate, hypoplasia or aplasia of the postaxial elements of the limbs, coloboma of the eyelids, cup-shaped ears, and supernumerary nipples that has_material_basis_in homozygous or compound heterozygous mutation in DHODH on 16q22.2." [url:https\://www.ncbi.nlm.nih.gov/pubmed/19915526, url:https\://www.ncbi.nlm.nih.gov/pubmed/501501]
+def: "A syndrome characterized by severe micrognathia, cleft lip and/or palate, hypoplasia or aplasia of the postaxial elements of the limbs, coloboma of the eyelids, cup-shaped ears, and suppernumerary nipples that has_material_basis_in homozygous or compound heterozygous mutation in DHODH on 16q22.2." [url:https\://www.ncbi.nlm.nih.gov/pubmed/19915526, url:https\://www.ncbi.nlm.nih.gov/pubmed/501501]
 subset: DO_rare_slim
 synonym: "acrofacial dysostosis, Genee-Wiedmann type" EXACT []
 synonym: "mandibulfacial dysostosis with postaxial limb anomalies" EXACT []
@@ -24846,12 +24846,12 @@ xref: UMLS_CUI:C0265257
 
 [Term]
 id: DOID:0111260
-name: phosphoribosylpyrophosphate synthetase superactivity
+name: phosphoribosylpyrophosphate synthetase supperactivity
 namespace: disease_ontology
 def: "An inherited metabolic disorder characterized by increased synthesis of phosphoribosylpyrophosphate resulting in increased production of uric acid and purine that has_material_basis_in X-linked recessive inheritance of mutations in PRPS1 on Xq22.3 that result in increased activity of the gene. The mild form of the disease has late-juvenile or early adult onset while the more severe form has infantile or early-childhood onset." [url:https\://www.ncbi.nlm.nih.gov/pubmed/20301734, url:https\://www.ncbi.nlm.nih.gov/pubmed/8253776]
 subset: DO_rare_slim
-synonym: "PRPP synthetase superactivity" EXACT []
-synonym: "PRPS1 superactivity" EXACT []
+synonym: "PRPP synthetase supperactivity" EXACT []
+synonym: "PRPS1 supperactivity" EXACT []
 xref: MESH:C567064
 xref: OMIM:300661
 xref: ORDO:3222
@@ -28970,7 +28970,7 @@ is_a: DOID:0111717 ! isolated cryptophthalmia
 id: DOID:0111720
 name: congenital symblepharon
 namespace: disease_ontology
-def: "An isolated cryptophthalmia characterized by fusion of the upper eyelid skin to the superior aspect of the globe often associated with microphthalmia." [url:https\://www.ncbi.nlm.nih.gov/pubmed/16352480, url:https\://www.ncbi.nlm.nih.gov/pubmed/31366340]
+def: "An isolated cryptophthalmia characterized by fusion of the upper eyelid skin to the supperior aspect of the globe often associated with microphthalmia." [url:https\://www.ncbi.nlm.nih.gov/pubmed/16352480, url:https\://www.ncbi.nlm.nih.gov/pubmed/31366340]
 subset: DO_rare_slim
 xref: ORDO:98948
 is_a: DOID:0111717 ! isolated cryptophthalmia
@@ -29317,11 +29317,11 @@ is_a: DOID:9410 ! panhypopituitarism
 id: DOID:0111780
 name: TARP syndrome
 namespace: disease_ontology
-def: "A syndrome characterized by talipes equinovarus, atrial septal defect, Robin sequence (micrognathia, cleft palate, and glossoptosis), and persistent left superior vena cava typically resulting in late prenatal or early postnatal mortality that has_material_basis_in hemizygous mutation in the RBM10 gene on chromosome Xp11.3." [url:https\://www.ncbi.nlm.nih.gov/pubmed/20451169, url:https\://www.ncbi.nlm.nih.gov/pubmed/30450804]
+def: "A syndrome characterized by talipes equinovarus, atrial septal defect, Robin sequence (micrognathia, cleft palate, and glossoptosis), and persistent left supperior vena cava typically resulting in late prenatal or early postnatal mortality that has_material_basis_in hemizygous mutation in the RBM10 gene on chromosome Xp11.3." [url:https\://www.ncbi.nlm.nih.gov/pubmed/20451169, url:https\://www.ncbi.nlm.nih.gov/pubmed/30450804]
 subset: DO_rare_slim
 synonym: "Pierre Robin sequence-congenital heart defect-talipes syndrome" EXACT []
 synonym: "Pierre Robin syndrome-congenital heart defect-talipes syndrome" EXACT []
-synonym: "talipes equinovarus-atrial septal defect-Robin sequence-persistence of the left superior vena cava syndrome" EXACT []
+synonym: "talipes equinovarus-atrial septal defect-Robin sequence-persistence of the left supperior vena cava syndrome" EXACT []
 synonym: "TARPS" EXACT []
 xref: GARD:10089
 xref: MESH:C536942
@@ -31133,7 +31133,7 @@ subset: DO_rare_slim
 synonym: "autosomal recessive severe congenital neutropenia due to G6PC3 deficiency" EXACT []
 synonym: "Dursun syndrome" EXACT []
 synonym: "SCN4" EXACT []
-synonym: "severe congenital neutropenia-pulmonary hypertension-superficial venous angiectasis syndrome" EXACT []
+synonym: "severe congenital neutropenia-pulmonary hypertension-supperficial venous angiectasis syndrome" EXACT []
 xref: OMIM:612541
 xref: ORDO:331176
 is_a: DOID:0050590 ! severe congenital neutropenia
@@ -31477,7 +31477,7 @@ is_a: DOID:0112197 ! spondyloepimetaphyseal dysplasia with joint laxity
 id: DOID:0112224
 name: chondrodysplasia with joint dislocations gPAPP type
 namespace: disease_ontology
-def: "An osteochondrodysplasia characterized by prenatal onset of disproportionate short stature, shortening of the limbs, joint hyperlaxity and/or dislocations, micrognathia, cleft palate, brachydactyly, short metacarpals, supernumerary carpal ossification centers and dysmorphic facial features that has_material_basis_in homozygous or compound heterozygous mutation in the IMPAD1 gene on chromosome 8q12." [url:https\://pubmed.ncbi.nlm.nih.gov/21549340/, url:https\://pubmed.ncbi.nlm.nih.gov/22887726/]
+def: "An osteochondrodysplasia characterized by prenatal onset of disproportionate short stature, shortening of the limbs, joint hyperlaxity and/or dislocations, micrognathia, cleft palate, brachydactyly, short metacarpals, suppernumerary carpal ossification centers and dysmorphic facial features that has_material_basis_in homozygous or compound heterozygous mutation in the IMPAD1 gene on chromosome 8q12." [url:https\://pubmed.ncbi.nlm.nih.gov/21549340/, url:https\://pubmed.ncbi.nlm.nih.gov/22887726/]
 subset: DO_rare_slim
 synonym: "gPAPP deficiency" EXACT []
 xref: GARD:11009
@@ -32702,7 +32702,7 @@ is_a: DOID:1279 ! ocular motility disease
 id: DOID:1024
 name: leprosy
 namespace: disease_ontology
-def: "A primary bacterial infectious disease that results_in infection located_in superficial peripheral nerves, located_in skin, located_in mucous membranes of the upper respiratory tract, located_in anterior chamber of the eyes, or located_in testes, has_material_basis_in Mycobacterium leprae, which is transmitted_by aerosol spread from infected nasal secretions to exposed nasal and oral mucosa. The infection has_symptom skin lesions, has_symptom sensory loss, has_symptom motor loss and has_symptom eye damage." [url:http\://en.wikipedia.org/wiki/Leprosy]
+def: "A primary bacterial infectious disease that results_in infection located_in supperficial peripheral nerves, located_in skin, located_in mucous membranes of the upper respiratory tract, located_in anterior chamber of the eyes, or located_in testes, has_material_basis_in Mycobacterium leprae, which is transmitted_by aerosol spread from infected nasal secretions to exposed nasal and oral mucosa. The infection has_symptom skin lesions, has_symptom sensory loss, has_symptom motor loss and has_symptom eye damage." [url:http\://en.wikipedia.org/wiki/Leprosy]
 comment: Xref MGI.
 subset: DO_infectious_disease_slim
 subset: DO_rare_slim
@@ -32911,7 +32911,7 @@ id: DOID:10325
 name: silicosis
 namespace: disease_ontology
 alt_id: DOID:14007
-def: "A pneumoconiosis that is an inflammation and scarring of the uper lobes of the lungs causing nodular lesions resulting from inhalation of silica, quartz or slate particles." [url:http\://en.wikipedia.org/wiki/Silicosis] {comment="ls:IEDB"}
+def: "A pneumoconiosis that is an inflammation and scarring of the upper lobes of the lungs causing nodular lesions resulting from inhalation of silica, quartz or slate particles." [url:http\://en.wikipedia.org/wiki/Silicosis] {comment="ls:IEDB"}
 subset: DO_rare_slim
 subset: NCIthesaurus
 synonym: "Pneumoconiosis due to silicates" EXACT []
@@ -34774,7 +34774,7 @@ def: "A physical disorder that is characterized by the presence of more than fiv
 subset: DO_rare_slim
 subset: NCIthesaurus
 synonym: "postaxial polydactyly" EXACT []
-synonym: "Supernumerary digit" RELATED []
+synonym: "Suppernumerary digit" RELATED []
 xref: GARD:4410
 xref: ICD10CM:Q69
 xref: ICD9CM:755.0
@@ -41105,7 +41105,7 @@ id: DOID:2058
 name: chronic mucocutaneous candidiasis
 namespace: disease_ontology
 alt_id: DOID:2056
-def: "A candidiasis that refers to a heterogeneous group of disorders characterized by recurrent or persistent superficial fungal infections located_in skin, located_in mucous membrane, or located_in nail due to T-cell defects, has-agent Candida species and has_symptom scaling of skin lesions, has_symptom thickening of nails, has_symptom swollen periungal tissue, and has_symptom scarring of the scalp." [url:http\://www.merck.com/mmpe/sec13/ch164/ch164f.html?qt=Chronic%20mucocutaneous%20candidiasis&alt=sh]
+def: "A candidiasis that refers to a heterogeneous group of disorders characterized by recurrent or persistent supperficial fungal infections located_in skin, located_in mucous membrane, or located_in nail due to T-cell defects, has-agent Candida species and has_symptom scaling of skin lesions, has_symptom thickening of nails, has_symptom swollen periungal tissue, and has_symptom scarring of the scalp." [url:http\://www.merck.com/mmpe/sec13/ch164/ch164f.html?qt=Chronic%20mucocutaneous%20candidiasis&alt=sh]
 subset: DO_infectious_disease_slim
 subset: DO_rare_slim
 subset: NCIthesaurus
@@ -43208,7 +43208,7 @@ xref: UMLS_CUI:C0206062
 id: DOID:3103
 name: thoracic outlet syndrome
 namespace: disease_ontology
-def: "A vascular disease that is characterized by compression at the superior thoracic outlet[1] resulting from excess pressure placed on a neurovascular bundle passing between the anterior scalene and middle scalene muscles." [url:http\://en.wikipedia.org/wiki/Thoracic_outlet_syndrome]
+def: "A vascular disease that is characterized by compression at the supperior thoracic outlet[1] resulting from excess pressure placed on a neurovascular bundle passing between the anterior scalene and middle scalene muscles." [url:http\://en.wikipedia.org/wiki/Thoracic_outlet_syndrome]
 subset: DO_rare_slim
 subset: NCIthesaurus
 synonym: "TOS - Thoracic outlet syndrome" EXACT []
@@ -44274,9 +44274,9 @@ xref: UMLS_CUI:C0346906
 
 [Term]
 id: DOID:3557
-name: superior mesenteric artery syndrome
+name: supperior mesenteric artery syndrome
 namespace: disease_ontology
-def: "A duodenal obstruction resulting from compression of the duodenum between the aorta and the superior mesenteric artery." [url:https\://rarediseases.org/rare-diseases/superior-mesenteric-artery-syndrome/, url:https\://www.ncbi.nlm.nih.gov/books/NBK482209/]
+def: "A duodenal obstruction resulting from compression of the duodenum between the aorta and the supperior mesenteric artery." [url:https\://rarediseases.org/rare-diseases/supperior-mesenteric-artery-syndrome/, url:https\://www.ncbi.nlm.nih.gov/books/NBK482209/]
 subset: DO_rare_slim
 subset: NCIthesaurus
 synonym: "Wilkie's syndrome" EXACT []
@@ -44676,7 +44676,7 @@ alt_id: DOID:8668
 comment: Xref MGI.
 subset: DO_rare_slim
 subset: NCIthesaurus
-synonym: "disseminated superficial actinic porokeratosis" EXACT []
+synonym: "disseminated supperficial actinic porokeratosis" EXACT []
 xref: GARD:10983
 xref: ICD10CM:L56.5
 xref: ICD9CM:692.75

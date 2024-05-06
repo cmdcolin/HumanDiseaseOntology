@@ -2951,7 +2951,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000285">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000030"/>
-        <obo:IAO_0000115>A paralysis that is charicterized by a lack of muscle tone in the affected muscles and in which tendon reflexes are decreased or absent.</obo:IAO_0000115>
+        <obo:IAO_0000115>A paralysis that is characterized by a lack of muscle tone in the affected muscles and in which tendon reflexes are decreased or absent.</obo:IAO_0000115>
         <oboInOwl:hasOBONamespace>symptoms</oboInOwl:hasOBONamespace>
         <oboInOwl:id>SYMP:0000285</oboInOwl:id>
         <rdfs:label>flaccid paralysis</rdfs:label>
@@ -2959,7 +2959,7 @@
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000285"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <owl:annotatedTarget>A paralysis that is charicterized by a lack of muscle tone in the affected muscles and in which tendon reflexes are decreased or absent.</owl:annotatedTarget>
+        <owl:annotatedTarget>A paralysis that is characterized by a lack of muscle tone in the affected muscles and in which tendon reflexes are decreased or absent.</owl:annotatedTarget>
         <oboInOwl:hasDbXref>url:http://www2.merriam-webster.com/cgi-bin/mwmednlm?book=Medical&amp;va=flaccid%20paralysis</oboInOwl:hasDbXref>
     </owl:Axiom>
     
@@ -4161,7 +4161,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000374">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000196"/>
-        <obo:IAO_0000115>A reproductive system symptom that is characterized by an abscess that is either superficial or intrascrotal.  Superficial scrotal abscess may occur from an infected hair follicle, infection of a scrotal laceration, or minor scrotal surgery.  Intrascrotal abscess most commonly arises from bacterial epididymitis, but may also be related to tuberculous infection of the epididymis, a testicular abscess that ruptures through the tunica albuginea, or drainage of appendicitis into scrotum through a patent processus vaginalis or as a result of extravasation of infected urine from the urethra in patients with a urethral stricture and neurogenic bladder using an external collection device.</obo:IAO_0000115>
+        <obo:IAO_0000115>A reproductive system symptom that is characterized by an abscess that is either supperficial or intrascrotal.  Supperficial scrotal abscess may occur from an infected hair follicle, infection of a scrotal laceration, or minor scrotal surgery.  Intrascrotal abscess most commonly arises from bacterial epididymitis, but may also be related to tuberculous infection of the epididymis, a testicular abscess that ruptures through the tunica albuginea, or drainage of appendicitis into scrotum through a patent processus vaginalis or as a result of extravasation of infected urine from the urethra in patients with a urethral stricture and neurogenic bladder using an external collection device.</obo:IAO_0000115>
         <oboInOwl:hasOBONamespace>symptoms</oboInOwl:hasOBONamespace>
         <oboInOwl:id>SYMP:0000374</oboInOwl:id>
         <rdfs:label>scrotal abscess</rdfs:label>
@@ -4169,7 +4169,7 @@
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000374"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <owl:annotatedTarget>A reproductive system symptom that is characterized by an abscess that is either superficial or intrascrotal.  Superficial scrotal abscess may occur from an infected hair follicle, infection of a scrotal laceration, or minor scrotal surgery.  Intrascrotal abscess most commonly arises from bacterial epididymitis, but may also be related to tuberculous infection of the epididymis, a testicular abscess that ruptures through the tunica albuginea, or drainage of appendicitis into scrotum through a patent processus vaginalis or as a result of extravasation of infected urine from the urethra in patients with a urethral stricture and neurogenic bladder using an external collection device.</owl:annotatedTarget>
+        <owl:annotatedTarget>A reproductive system symptom that is characterized by an abscess that is either supperficial or intrascrotal.  Supperficial scrotal abscess may occur from an infected hair follicle, infection of a scrotal laceration, or minor scrotal surgery.  Intrascrotal abscess most commonly arises from bacterial epididymitis, but may also be related to tuberculous infection of the epididymis, a testicular abscess that ruptures through the tunica albuginea, or drainage of appendicitis into scrotum through a patent processus vaginalis or as a result of extravasation of infected urine from the urethra in patients with a urethral stricture and neurogenic bladder using an external collection device.</owl:annotatedTarget>
         <oboInOwl:hasDbXref>url:https://emedicine.medscape.com/article/1949750-overview</oboInOwl:hasDbXref>
     </owl:Axiom>
     
@@ -7061,7 +7061,7 @@
         <oboInOwl:hasDbXref>UMLS_ICD9CM_2005_AUI:A0243783</oboInOwl:hasDbXref>
         <oboInOwl:hasOBONamespace>symptoms</oboInOwl:hasOBONamespace>
         <oboInOwl:id>SYMP:0000556</oboInOwl:id>
-        <rdfs:label>localized superficial lump</rdfs:label>
+        <rdfs:label>localized supperficial lump</rdfs:label>
     </owl:Class>
     
 
@@ -10653,7 +10653,7 @@
         <oboInOwl:hasDbXref>ICD9CM_2005:782.2</oboInOwl:hasDbXref>
         <oboInOwl:hasOBONamespace>symptoms</oboInOwl:hasOBONamespace>
         <oboInOwl:id>SYMP:0000818</oboInOwl:id>
-        <rdfs:label>localized superficial mass</rdfs:label>
+        <rdfs:label>localized supperficial mass</rdfs:label>
     </owl:Class>
     
 
@@ -10665,7 +10665,7 @@
         <oboInOwl:hasDbXref>ICD9CM_2005:782.2</oboInOwl:hasDbXref>
         <oboInOwl:hasOBONamespace>symptoms</oboInOwl:hasOBONamespace>
         <oboInOwl:id>SYMP:0000819</oboInOwl:id>
-        <rdfs:label>localized superficial swelling</rdfs:label>
+        <rdfs:label>localized supperficial swelling</rdfs:label>
     </owl:Class>
     
 

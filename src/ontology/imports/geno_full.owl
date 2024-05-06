@@ -457,7 +457,7 @@ Range = punned gene class IRI</rdfs:comment>
 
     <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/GENO_0000411">
         <rdfs:subPropertyOf rdf:resource="http://www.geneontology.org/formats/oboInOwl#ObsoleteProperty"/>
-        <obo:IAO_0000115>A relation linking a gene class to a sequence-varaint or expression-variant of the gene.</obo:IAO_0000115>
+        <obo:IAO_0000115>A relation linking a gene class to a sequence-variant or expression-variant of the gene.</obo:IAO_0000115>
         <obo:IAO_0000118>has_variant_instance</obo:IAO_0000118>
         <obo:IAO_0000231>formerly grouped has_allele and has_expression_variant proerpties under cllass to feature property (now renamed locus_affected_by)</obo:IAO_0000231>
         <rdfs:comment>Domain = punned gene class
@@ -1897,7 +1897,7 @@ Environments include natural environments or exposures, experimentally applied c
 
     <owl:Class rdf:about="http://biohackathon.org/resource/faldo#Position">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GENO_0000902"/>
-        <obo:IAO_0000115>Superclass for the general concept of a position on a sequence. The sequence is designated with the reference predicate.</obo:IAO_0000115>
+        <obo:IAO_0000115>Supperclass for the general concept of a position on a sequence. The sequence is designated with the reference predicate.</obo:IAO_0000115>
         <obo:IAO_0000116>Placing the FALDO:Position class under GENO:genomic locus, as it represents a type of genomic location  with the same start and end coordinates (i.e. a single position as opposed to a location spanning a longer region)</obo:IAO_0000116>
         <rdfs:label xml:lang="en">Position</rdfs:label>
     </owl:Class>
@@ -2305,7 +2305,7 @@ in complement 2: shha&lt;ttb392&gt;</obo:IAO_0000112>
         <obo:IAO_0000115>A genomic genotype that does not specify the sex determining chromosomal features of its bearer (i.e. does not indicate the background sex chromosome complement)</obo:IAO_0000115>
         <obo:IAO_0000116>This modeling approach allows use to create separate genotype instances for data sources that report sex-specific phenotypes to ensure that sex-specific G2P differences are accurately described.  These sex-qualified genotypes can be linked to the more general sex-agnostic intrinsic genotype that is shared by make and female mice of the same strain, to aggregate associated phenotypes at this level, and allow aggregation with G2P association data about the same strains from sources that distinguish sex-specific phenotypes (e.g. IMPC) and those that do not (e.g. MGI).
 
-Conceptually, a sex-qualified phenotype represents a superset of sequence features relative to a sex-agnostic intirnsic genotype, in that if specifies the background sex-chromosome complement of the genome. Thus, in the genotype partonomy, a sex-qualified genotype has as part a sex-agnostic genotype. This allows for the propagation of phenotypes associated with a sex-qualified genotype to the intrinsic genotype.</obo:IAO_0000116>
+Conceptually, a sex-qualified phenotype represents a supperset of sequence features relative to a sex-agnostic intirnsic genotype, in that if specifies the background sex-chromosome complement of the genome. Thus, in the genotype partonomy, a sex-qualified genotype has as part a sex-agnostic genotype. This allows for the propagation of phenotypes associated with a sex-qualified genotype to the intrinsic genotype.</obo:IAO_0000116>
         <obo:IAO_0000118>genotype</obo:IAO_0000118>
         <obo:IAO_0000118>organismal genotype</obo:IAO_0000118>
         <obo:IAO_0000118>sex-agnostic intrinsic genotype</obo:IAO_0000118>
@@ -2473,7 +2473,7 @@ A genomic feature being an allele_of a gene is based on its location in a host g
         <obo:IAO_0000115>A sequence feature collection comprised of discontiguous sequences from a single genome</obo:IAO_0000115>
         <obo:IAO_0000116>Previously called &apos;genetic locus collection&apos;.  Difference between &apos;genetic&apos; and &apos;genomic&apos;, as used here, is that &apos;genomic&apos; implies a feature is a heritable part of some genome, while &apos;genetic&apos; implies that it is part of some feature that is capable of contributing to gene expression in a cell or other biological system.</obo:IAO_0000116>
         <obo:IAO_0000118>genomic feature collection</obo:IAO_0000118>
-        <rdfs:comment>Conceptually, members of this collection are meant to be about the sum total genetic material in a single cell or organism. But these members need not be associated with an actual material in a real cell or organism individual.  For example, things like a &apos;reference genome&apos; may not actually represent the material genome of any individual cell or organism in reality. Here, there may be no genomic material referents of the sequences in such a collection because the genome is tied to an idealized, hypothetical cell or organism instance. The key is that conceptually, they are still tied to the idea of being contained in a single genome. In the case of a genotype, the individual seqeunce members are not all about the genetic material of a singel cell or organism. Rather, it is the resolved sequence contained in the genotype that is meant to be about the total genomic sequence content of a genome - which we deem acceptable for classifying as a genetic locus collection.</rdfs:comment>
+        <rdfs:comment>Conceptually, members of this collection are meant to be about the sum total genetic material in a single cell or organism. But these members need not be associated with an actual material in a real cell or organism individual.  For example, things like a &apos;reference genome&apos; may not actually represent the material genome of any individual cell or organism in reality. Here, there may be no genomic material referents of the sequences in such a collection because the genome is tied to an idealized, hypothetical cell or organism instance. The key is that conceptually, they are still tied to the idea of being contained in a single genome. In the case of a genotype, the individual seqeunce members are not all about the genetic material of a single cell or organism. Rather, it is the resolved sequence contained in the genotype that is meant to be about the total genomic sequence content of a genome - which we deem acceptable for classifying as a genetic locus collection.</rdfs:comment>
         <rdfs:label>obsolete_genomic feature collection</rdfs:label>
     </owl:Class>
     
@@ -3443,7 +3443,7 @@ Similarly, large sequence features lost from genome are akin to deletions and th
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/GENO_0000402">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GENO_0000135"/>
-        <obo:IAO_0000115>A heterozygous quality inhering in a single locus complement comprised of two different varaint alleles and no wild type locus. (e.g.fgf8a&lt;ti282a&gt;/fgf8a&lt;x15&gt;)</obo:IAO_0000115>
+        <obo:IAO_0000115>A heterozygous quality inhering in a single locus complement comprised of two different variant alleles and no wild type locus. (e.g.fgf8a&lt;ti282a&gt;/fgf8a&lt;x15&gt;)</obo:IAO_0000115>
         <obo:IAO_0000118>trans-heterozygous</obo:IAO_0000118>
         <rdfs:label>compound heterozygous</rdfs:label>
     </owl:Class>
@@ -3580,7 +3580,7 @@ Similarly, large sequence features lost from genome are akin to deletions and th
         <obo:IAO_0000115>An allele that is variant with respect to some wild-type allele, in virtue of its being very rare in a population (typically &lt;1%), or being an experimentally-induced alteration that derives from a wild-type feature in a given strain.</obo:IAO_0000115>
         <obo:IAO_0000119>Based on use of &apos;mutant&apos; as described in PMID: 25741868 ACMG Guidelines</obo:IAO_0000119>
         <obo:IAO_0000231>Not required for any specific use case at this point so removed for simplicity. 
-Formely asserted as allele and inferred as varaint allele. 
+Formely asserted as allele and inferred as variant allele. 
 Eq class definition:
 allele
  and (mutation or (&apos;has subsequence&apos; some mutation))</obo:IAO_0000231>
@@ -3702,7 +3702,7 @@ allele
                 <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/GENO_0000481"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <obo:IAO_0000115>An allele representing a highly common varaint (typically &gt;99% in a population), that typically exhibits canonical function, and against which rare and/or non-functional mutant alleles are often compared.</obo:IAO_0000115>
+        <obo:IAO_0000115>An allele representing a highly common variant (typically &gt;99% in a population), that typically exhibits canonical function, and against which rare and/or non-functional mutant alleles are often compared.</obo:IAO_0000115>
         <obo:IAO_0000118>wild-type allele</obo:IAO_0000118>
         <rdfs:comment>&apos;Wild-type&apos; is typically contrasted with &apos;mutant&apos;, where &apos;wild-type&apos; indicates a highly prevalent allele in a population (typically &gt;99%), and/or some prototypical allele in a background genome that serves as a basis for some experimental alteration to generate a mutant allele, which can be selected for in establishing a mutant strain.
 
@@ -3718,7 +3718,7 @@ The notion of wild-type alleles is more common in model organism databases, wher
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GENO_0000501"/>
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SO_0000704"/>
         <obo:IAO_0000118 xml:lang="en">wild-type gene allele</obo:IAO_0000118>
-        <rdfs:comment>A gene allele representing the most common varaint in a population (typically &gt;99% frequency), that exhibits canonical function, and against which rare and/or non-functional mutant gene alleles are compared in characterizing the phenotypic consequences of genetic variation.</rdfs:comment>
+        <rdfs:comment>A gene allele representing the most common variant in a population (typically &gt;99% frequency), that exhibits canonical function, and against which rare and/or non-functional mutant gene alleles are compared in characterizing the phenotypic consequences of genetic variation.</rdfs:comment>
         <rdfs:label>wild-type gene</rdfs:label>
     </owl:Class>
     
@@ -4401,13 +4401,13 @@ A base karyotype representing a genome with no known structural variation can be
         <obo:IAO_0000115>A genomic genotype where the genomic background specifies a male or female sex chromosome complement.</obo:IAO_0000115>
         <obo:IAO_0000116>This modeling approach enables creation separate genotype instances for data sources that report sex-specific phenotypes to ensure that sex-specific G2P differences are accurately described.  These sex specific genotypes can be linked to the broader intrinsic genotype that is shared by male and female mice of the same strain, to aggregate associated phenotypes at this level, and allow aggregation with G2P association data about the same strains from sources that distinguish sex-specific phenotypes (e.g. IMPC) and those that do not (e.g. MGI).
 
-In the genotype partonomy, a sex qualified genotype has as part a sex-agnostic genotype. This allows for the propagation of phenotypes associated with a sex-qualified genotype to the intrinsic genotype.  Ontologically, this parthood is based on the fact that the background component of a sex-qualified genotype specifies the sex chromosomes while that of the sex-agnostic genotype does not. Thus, the sequence content of the sex-qualified genotype is a superset of that of the intrinsic genotype, with the latter being a proper part of the former.</obo:IAO_0000116>
+In the genotype partonomy, a sex qualified genotype has as part a sex-agnostic genotype. This allows for the propagation of phenotypes associated with a sex-qualified genotype to the intrinsic genotype.  Ontologically, this parthood is based on the fact that the background component of a sex-qualified genotype specifies the sex chromosomes while that of the sex-agnostic genotype does not. Thus, the sequence content of the sex-qualified genotype is a supperset of that of the intrinsic genotype, with the latter being a proper part of the former.</obo:IAO_0000116>
         <obo:IAO_0000118>intrinsic genotype (sex-specific)</obo:IAO_0000118>
         <obo:IAO_0000118>sex-qualified genotype</obo:IAO_0000118>
         <obo:IAO_0000118>sex-qualified intrinsic genotype</obo:IAO_0000118>
         <rdfs:comment>We distinguish the notion of a sex-agnostic intrinsic genotype, which does not specify whether the portion of the genome defining organismal sex is male or female, from the notion of a sex-qualified intrinsic genotype, which does.  Male and female mice that contain the same background and genetic variation complement will have the same &apos;sex-agnostic intrinsic genotype&apos;, despite their genomes varying in their sex-chromosome complement.  By contrast, these two mice would have different &apos;sex-qualified intrinsic genotypes&apos;, as this class takes background sex chromosome sequences into account in the identity criteria for its instances.
 
-Conceptually, a sex-qualified phenotype represents a superset of sequence features relative to a sex-agnostic intirnsic genotype, in that if specifies the background sex-chromosome complement of the genome.</rdfs:comment>
+Conceptually, a sex-qualified phenotype represents a supperset of sequence features relative to a sex-agnostic intirnsic genotype, in that if specifies the background sex-chromosome complement of the genome.</rdfs:comment>
         <rdfs:label xml:lang="en">genomic genotype (sex-qualified)</rdfs:label>
     </owl:Class>
     
@@ -4813,7 +4813,7 @@ Modeling sequence entities at this &apos;qualified&apos; level useful when it is
         <obo:IAO_0000116>Genotype vs Genome in GENO: An (intrinsic) genotype is an information artifact representing an indirect syntax for specifying a genome sequence.  This syntax has reference and variant components -  a &apos;background genotype&apos; and &apos;genomic variation complement&apos; - that must be operated on to resolve a specifie genome sequence.  Specifically, the genome sequence is resolved by substituting all sequences specified by the &apos;genomic variation complement&apos; for the corresponding sequences in the &apos;reference genome&apos;.  So, while the total sequence content represented in a genotype may be greater than that in a genome, the intended resolution of these sequences is to arrive at a single genome sequence. It is this end-point that we consider when holding that a genotype &apos;specifies&apos; a genome.</obo:IAO_0000116>
         <rdfs:comment>1. A genomic genotype is a short-hand specification of a genome that uses a representational syntax comprised of information about a reference genome (&apos;genomic background&apos;), and all specific variants from this reference (the &apos;genomic variation complement&apos;).  Conceptually, this variant genome sequence can be resolved by substituting all sequences specified by the &apos;genomic variation complement&apos; for the corresponding sequences in the reference  &apos;genomic background&apos; sequence.
 
-2. &apos;Heritable&apos; genomic sequence is that which is passed on to subsequent generations of cells/organisms, and includes all chromosomal sequences, the mitochondrial genome, and any transmissable extrachromosomal replicons.</rdfs:comment>
+2. &apos;Heritable&apos; genomic sequence is that which is passed on to subsequent generations of cells/organisms, and includes all chromosomal sequences, the mitochondrial genome, and any transmissible extrachromosomal replicons.</rdfs:comment>
         <rdfs:label xml:lang="en">intrinsic genotype</rdfs:label>
     </owl:Class>
     
@@ -4888,7 +4888,7 @@ Modeling sequence entities at this &apos;qualified&apos; level useful when it is
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GENO_0000714"/>
         <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/GENO_0000484"/>
         <obo:IAO_0000115>A sequence feature whose identity is additionally dependent on  the cellular or anatomical location of the genetic material bearing the feature.</obo:IAO_0000115>
-        <rdfs:comment>As a qualified sequence feature, the BRCA1c.5096G&gt;A variant as materialized in a somatic breast epithelial cell could be distinguished as a separate entity from a BRCA1c.5096G&gt;A variant in a different cell type or location (e.g. germline BRCA1 varaint in a sperm cell).</rdfs:comment>
+        <rdfs:comment>As a qualified sequence feature, the BRCA1c.5096G&gt;A variant as materialized in a somatic breast epithelial cell could be distinguished as a separate entity from a BRCA1c.5096G&gt;A variant in a different cell type or location (e.g. germline BRCA1 variant in a sperm cell).</rdfs:comment>
         <rdfs:label xml:lang="en">location-qualified sequence feature</rdfs:label>
     </owl:Class>
     
@@ -4971,8 +4971,8 @@ Modeling sequence entities at this &apos;qualified&apos; level useful when it is
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/GENO_0000778">
         <rdfs:subClassOf rdf:resource="http://www.geneontology.org/formats/oboInOwl#ObsoleteClass"/>
-        <obo:IAO_0000115>An information entity that is intented to represent some biological sequence, sequence feature, qualified sequence feature, or a collection of one or more of these entities.</obo:IAO_0000115>
-        <obo:IAO_0000231>eliminating classes that are not necessary or add uneeded complexity.</obo:IAO_0000231>
+        <obo:IAO_0000115>An information entity that is intended to represent some biological sequence, sequence feature, qualified sequence feature, or a collection of one or more of these entities.</obo:IAO_0000115>
+        <obo:IAO_0000231>eliminating classes that are not necessary or add unneeded complexity.</obo:IAO_0000231>
         <rdfs:label xml:lang="en">obsolete_sequence information entity</rdfs:label>
     </owl:Class>
     
@@ -5304,7 +5304,7 @@ Constructs are typically packaged as part  of delivery systems such as plasmids 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/GENO_0000871">
         <rdfs:subClassOf rdf:resource="http://www.geneontology.org/formats/oboInOwl#ObsoleteClass"/>
         <obo:IAO_0000115>A set of genetically-linked alleles, that reside at different locations on the same chromosomal strand and are typically inherited/transmitted together.</obo:IAO_0000115>
-        <obo:IAO_0000231>reconsiderd defintion of haplotype to better align with SO and GA4GH/VMC definitions.
+        <obo:IAO_0000231>reconsiderd definition of haplotype to better align with SO and GA4GH/VMC definitions.
 
 Former SC axiom: has_member some allele.</obo:IAO_0000231>
         <terms:source>Informed by https://isogg.org/wiki/Haplotype and https://en.wikipedia.org/wiki/Haplotype.</terms:source>
@@ -5649,7 +5649,7 @@ In the ClinGen allele model, &apos;canonical alleles  are contrasted with &apos;
         <obo:IAO_0000115>A sequence feature representing a region of the genome over which there is little evidence for historical recombination, such that sequences it contain are typically co-inherited/transmitted across generations.</obo:IAO_0000115>
         <obo:IAO_0000116>Consider http://purl.obolibrary.org/obo/SO_0000355 ! haplotype_block. And consider whether, as a defined region of genomic sequence where variation is known to occur, a haplotype block should be classified as a subtype of allele.</obo:IAO_0000116>
         <obo:IAO_0000119>From DOI: 10.1126/science.1069424</obo:IAO_0000119>
-        <obo:IAO_0000231>reconsiderd defintion of haplotype to better align with SO and GA4GH/VMC definitions.
+        <obo:IAO_0000231>reconsiderd definition of haplotype to better align with SO and GA4GH/VMC definitions.
 
 Former SC axiom: has_part some haplotype</obo:IAO_0000231>
         <rdfs:comment>A &apos;haplotype block&apos; is a continuous region of sequence that contains &apos;haplotypes&apos; -  sets of discontinuous, genetically-linked sequence alterations on the same chromosomal strand that are typically co-inherited within this haplotype block. The boundaries of haplotype blocks are defined in efforts to identify haplotypes that exist in organisms or populations.  A haplotype block may span one sequence alteration or several, and may cover small or large chromosomal regions - depending on the number of recombination events that have occurred between the alterations defining the haplotype.</rdfs:comment>
@@ -5683,7 +5683,7 @@ Former SC axiom: has_part some haplotype</obo:IAO_0000231>
 A genomic genotype is an information artifact with a representational syntax that can specify what is known about the complete sequence of a genome. This syntax describes &apos;reference&apos; and &apos;variant&apos; components - namely a &apos;background genotype&apos; and &apos;genomic variation complement&apos; - that must be operated on to resolve the genome sequence.  Specifically, the genome sequence is determined by substituting all sequences specified by the &apos;genomic variation complement&apos; for the corresponding sequences in the reference &apos;background genotype&apos;.  So, while the total sequence content described in a genotype may exceed that of a single a genome (in that it includes a reference genome and variatoin complement), the intended resolution of these sequences is to arrive at a single genome sequence. It is this end-point that we consider when asserting that a genotype &apos;specifies&apos; a genome.</obo:IAO_0000116>
         <rdfs:comment>1. A genomic genotype is a short-hand specification of a genome that uses a representational syntax comprised of information about a reference genome (&apos;genomic background&apos;), and all specific variants from this reference (the &apos;genomic variation complement&apos;).  Conceptually, this variant genome sequence can be resolved by substituting all sequences specified by the &apos;genomic variation complement&apos; for the corresponding sequences in the reference  &apos;genomic background&apos; sequence.
 
-2. &apos;Heritable&apos; genomic sequence is that which is passed on to subsequent generations of cells/organisms, and includes all chromosomal sequences, the mitochondrial genome, and any transmissable extrachromosomal replicons.</rdfs:comment>
+2. &apos;Heritable&apos; genomic sequence is that which is passed on to subsequent generations of cells/organisms, and includes all chromosomal sequences, the mitochondrial genome, and any transmissible extrachromosomal replicons.</rdfs:comment>
         <rdfs:label xml:lang="en">genomic genotype</rdfs:label>
     </owl:Class>
     
@@ -5832,7 +5832,7 @@ For example, we would define an  &apos;HLA gene block&apos; as a subclass of &ap
         </rdfs:subClassOf>
         <obo:IAO_0000115>A haplotype is an allele that represents one of many possible versions of a &apos;haplotype block&apos;, which defines a region of genomic sequence that is typically &apos;co-inherited&apos; across generations due to a lack of historically observed recombination within it.</obo:IAO_0000115>
         <obo:IAO_0000119>Informed by https://isogg.org/wiki/Haplotype and https://en.wikipedia.org/wiki/Haplotype and http://purl.obolibrary.org/obo/SO_0001024 ! haplotype.</obo:IAO_0000119>
-        <rdfs:comment>1. Haplotypes typically contain &apos;genetically-linked&apos; sequence alterations that are likely to be co-inherited and survive descent across many generations of reproduction.  A common use of &apos;haplotype&apos; is in phasing of patient WGS or WES data, where theis term refers to sequence containing two or more  alterations that are beleived to be &apos;in cis&apos; on the same chromosomal strand.  GENO&apos;s definition is consistent with but more inclusive than this view, allowing for haplotypes with one or zero established alterations as long as there is a low probability of recombination within the region it spans (such that alterations found in cis are likely to remain in cis across successive generations). As a result,  GENO considers any allele that spans an extent greater than that of a single sequence alteration to represent a haplotype, if there is an expectation of low recombination frequency within the allele. For example, a &apos;gene allele&apos; is a particular version of a gene that contains one or more sequence alterations, and represents a haplotype that spans the extent of a gene.
+        <rdfs:comment>1. Haplotypes typically contain &apos;genetically-linked&apos; sequence alterations that are likely to be co-inherited and survive descent across many generations of reproduction.  A common use of &apos;haplotype&apos; is in phasing of patient WGS or WES data, where this term refers to sequence containing two or more  alterations that are believed to be &apos;in cis&apos; on the same chromosomal strand.  GENO&apos;s definition is consistent with but more inclusive than this view, allowing for haplotypes with one or zero established alterations as long as there is a low probability of recombination within the region it spans (such that alterations found in cis are likely to remain in cis across successive generations). As a result,  GENO considers any allele that spans an extent greater than that of a single sequence alteration to represent a haplotype, if there is an expectation of low recombination frequency within the allele. For example, a &apos;gene allele&apos; is a particular version of a gene that contains one or more sequence alterations, and represents a haplotype that spans the extent of a gene.
  
 2. The relationship between &apos;haplotype&apos; and &apos;haplotype block&apos; is analogous to the relationship between &apos;gene allele&apos; and &apos;gene&apos;  - a &apos;gene allele&apos; is one of many possible instances of a &apos;gene&apos;, while  a &apos;haplotype&apos; is one of many possible instances of a &apos;haplotype block&apos;.  In this sense, a gene allele can be considered to be a haplotype whose extent is that of a gene (if it is the case that there is a lack of historic recombination within the extent of the gene)
 
@@ -6610,7 +6610,7 @@ Note that transgenes as defined here are not necessarily from a different taxon 
             </owl:Restriction>
         </rdfs:subClassOf>
         <obo:IAO_0000115>A collection of sequence features (typically a collection of chromosomes) that covers the sum genetic material within a cell or virion (where &apos;genetic material&apos; refers to any nucleic acid that is part of a cell or virion and has been inherited from an ancestor cell or virion, and/or can be replicated and inherited by its progeny)</obo:IAO_0000115>
-        <obo:IAO_0000116>Genotype vs Genome in GENO: An (intrinsic) genotype is an information artifact representing an indirect syntax for specifying a genome sequence.  This syntax has reference and variant components -  a &apos;referrence genome&apos; and &apos;genomic variation complement&apos; - that must be operated on to resolve a specifie genome sequence.  Specifically, the genome sequence is resolved by substituting all sequences specified by the &apos;genomic variation complement&apos; for the corresponding sequences in the &apos;reference genome&apos;.  So, while the total sequence content represented in a genotype may be greater than that in a genome, the intended resolution of these sequences is to arrive at a single genome sequence.</obo:IAO_0000116>
+        <obo:IAO_0000116>Genotype vs Genome in GENO: An (intrinsic) genotype is an information artifact representing an indirect syntax for specifying a genome sequence.  This syntax has reference and variant components -  a &apos;reference genome&apos; and &apos;genomic variation complement&apos; - that must be operated on to resolve a specifie genome sequence.  Specifically, the genome sequence is resolved by substituting all sequences specified by the &apos;genomic variation complement&apos; for the corresponding sequences in the &apos;reference genome&apos;.  So, while the total sequence content represented in a genotype may be greater than that in a genome, the intended resolution of these sequences is to arrive at a single genome sequence.</obo:IAO_0000116>
         <obo:IAO_0000118>&apos;genome sequence&apos;</obo:IAO_0000118>
         <rdfs:comment>A genome is considered the complement of all heritable sequence features in a given cell or organism (chromosomal or extrachromosomal). This is typically a collection of chromosomes, but in some organisms (e.g. bacteria) it may be a single chromosomal entity. For this reason &apos;genome&apos; classifies under &apos;sequence feature complement&apos; rather than &apos;sequence feature collection&apos;.</rdfs:comment>
         <rdfs:label>genome</rdfs:label>
@@ -6638,7 +6638,7 @@ Note that transgenes as defined here are not necessarily from a different taxon 
 
 2. Consider the NM_000059.3(BRCA2):c.132_133ins8 variation in the BRCA2 gene.  This 8 bp insertion creates a gene allele whose extent is that of the entire BRCA2 gene. This version of the full BRCA2 gene is a &apos;variant allele&apos;, while the extent of sequence spanning just the 8 bp insertion is a &apos;sequence alteration&apos;.   See https://www.ncbi.nlm.nih.gov/snp/483353112.
 
-3. Consider the NM_000059.3(BRCA2):c.22_23delAG variation in the BRCA2 gene.  This 2 bp deletion creates a gene allele whose extent is that of the entire BRCA2 gene. This version of the full BRCA2 gene is a &apos;variant allele&apos;, while the junction where the deletion occured is a &apos;sequence alteration&apos; with an extent of zero.  See https://www.ncbi.nlm.nih.gov/snp/483353112.</obo:IAO_0000112>
+3. Consider the NM_000059.3(BRCA2):c.22_23delAG variation in the BRCA2 gene.  This 2 bp deletion creates a gene allele whose extent is that of the entire BRCA2 gene. This version of the full BRCA2 gene is a &apos;variant allele&apos;, while the junction where the deletion occurred is a &apos;sequence alteration&apos; with an extent of zero.  See https://www.ncbi.nlm.nih.gov/snp/483353112.</obo:IAO_0000112>
         <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A sequence_alteration is a sequence_feature whose extent is the deviation from another sequence.</obo:IAO_0000115>
         <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sequence variation</obo:IAO_0000118>
         <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/so.owl"/>
@@ -6652,7 +6652,7 @@ Alleles whose extent goes beyond the specific sequence that is known to be varia
 
 2. Sequence alterations are not necessarily &apos;variant&apos; in the sense defined in GENO (i.e. being &apos;variant with&apos; some reference sequence).  In any comparison of alleles at a particular location, the choice of a &apos;reference&apos; is context-dependent - as comparisons in other contexts might consider a different allele to be the reference. So while sequence alterations are usually considered &apos;variant&apos; in the context in which they are considered, this variant status may not hold at all times. For this reason, the &apos;sequence alteration&apos; class is not made an rdfs:subClassOf &apos;variant allele&apos;. 
 
-For a particular instance of a sequence alteration, howver, we may in some cases be able to rdf:type it as a &apos;varaint allele&apos; and a &apos;sequence alteration&apos;, in situations where we can be confident that the feature will *never* be considered a reference. For example, experimentally generated mutations in model organism genes that are created expressly to vary from an established reference.
+For a particular instance of a sequence alteration, however, we may in some cases be able to rdf:type it as a &apos;variant allele&apos; and a &apos;sequence alteration&apos;, in situations where we can be confident that the feature will *never* be considered a reference. For example, experimentally generated mutations in model organism genes that are created expressly to vary from an established reference.
 
 3. Note that we consider novel features gained in a genome to be sequence alterations, including aneusomic chromosomes gained through a non-disjunction event during replication, or extrachromosomal replicons that become part of the heritable genome of a cell or organism.</rdfs:comment>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sequence_alteration</rdfs:label>
@@ -7302,7 +7302,7 @@ For a particular instance of a sequence alteration, howver, we may in some cases
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/WBPhenotype_0000886">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/UPHENO_0001001"/>
         <obo:IAO_0000115>Animals exhibit variations compared to a given control.</obo:IAO_0000115>
-        <obo:IAO_0000116>&apos;Variant&apos; is the given label of the root class in the Worm Phenotype ontology.  Renamng it here to be consisent with our hierarchy of phenotype classes.</obo:IAO_0000116>
+        <obo:IAO_0000116>&apos;Variant&apos; is the given label of the root class in the Worm Phenotype ontology.  Renamng it here to be consistent with our hierarchy of phenotype classes.</obo:IAO_0000116>
         <obo:IAO_0000118>Variant</obo:IAO_0000118>
         <obo:IAO_0000118>c. elegans phenotype</obo:IAO_0000118>
         <rdfs:label xml:lang="en">worm phenotype</rdfs:label>

@@ -188,11 +188,11 @@ MIREOTING
 ---------
 Sometimes you may wish to reference a class from another ontology in the context of editing DOID, and the term may not yet be mireoted. You can currently pull in a new term from GO, Uberon, Chebi, CL, PATO or PR. 
 
-1. Identify the class to be included, and copy the URI (for example, look in Ontobee or open file in separate Protege instance and do control U to copy the URI). Note the superclass(es) of the class.
+1. Identify the class to be included, and copy the URI (for example, look in Ontobee or open file in separate Protege instance and do control U to copy the URI). Note the supperclass(es) of the class.
 
 2. Whilst editing DOID, change the "Active Ontology" file in the top header to the import file that will house the new class, for example, uberon_import.owl
 
-3. Add a new class under the appropriate superclass in the import file, change the URI by doing control U and pasting the URI as per above. Make sure to add the label as an annotation so that you can find the class later.
+3. Add a new class under the appropriate supperclass in the import file, change the URI by doing control U and pasting the URI as per above. Make sure to add the label as an annotation so that you can find the class later.
 
 4. Save the file (note that you should save in RDF/XML with the "use XML entities" NOT checked in the Preferences/Save tab.
 
