@@ -656,7 +656,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_0050096">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/DOID_8913"/>
-        <obo:IAO_0000115 xml:lang="en">A dermatophytosis that results_in fungal infection which effects horny layer of epidermis of the bearded areas located_in face or located_in neck, has_material_basis_in Trichophyton mentagrophytes or has_material_basis_in Trichophyton verrucosum, which also effects hair, and effects nail and has_symptom inflammatory kerion-like plaques, and results_in_formation_of noninflammatory supperficial perifollicular pustules.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A dermatophytosis that results_in fungal infection which effects horny layer of epidermis of the bearded areas located_in face or located_in neck, has_material_basis_in Trichophyton mentagrophytes or has_material_basis_in Trichophyton verrucosum, which also effects hair, and effects nail and has_symptom inflammatory kerion-like plaques, and results_in_formation_of noninflammatory superficial perifollicular pustules.</obo:IAO_0000115>
         <oboInOwl:hasDbXref>MESH:C000656825</oboInOwl:hasDbXref>
         <oboInOwl:hasExactSynonym xml:lang="en">dermatophytosis of beard</oboInOwl:hasExactSynonym>
         <oboInOwl:hasOBONamespace>disease_ontology</oboInOwl:hasOBONamespace>
@@ -667,7 +667,7 @@
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/DOID_0050096"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <owl:annotatedTarget xml:lang="en">A dermatophytosis that results_in fungal infection which effects horny layer of epidermis of the bearded areas located_in face or located_in neck, has_material_basis_in Trichophyton mentagrophytes or has_material_basis_in Trichophyton verrucosum, which also effects hair, and effects nail and has_symptom inflammatory kerion-like plaques, and results_in_formation_of noninflammatory supperficial perifollicular pustules.</owl:annotatedTarget>
+        <owl:annotatedTarget xml:lang="en">A dermatophytosis that results_in fungal infection which effects horny layer of epidermis of the bearded areas located_in face or located_in neck, has_material_basis_in Trichophyton mentagrophytes or has_material_basis_in Trichophyton verrucosum, which also effects hair, and effects nail and has_symptom inflammatory kerion-like plaques, and results_in_formation_of noninflammatory superficial perifollicular pustules.</owl:annotatedTarget>
         <oboInOwl:hasDbXref>url:https://www.merckmanuals.com/professional/dermatologic-disorders/fungal-skin-infections/tinea-barbae</oboInOwl:hasDbXref>
     </owl:Axiom>
     
@@ -842,7 +842,7 @@
         <oboInOwl:id>DOID:0050133</oboInOwl:id>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/doid#DO_infectious_disease_slim"/>
         <rdfs:comment xml:lang="en">Adding a UMLS CUI for piedra C2980104.</rdfs:comment>
-        <rdfs:label xml:lang="en">supperficial mycosis</rdfs:label>
+        <rdfs:label xml:lang="en">superficial mycosis</rdfs:label>
     </owl:Class>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/DOID_0050133"/>
@@ -1517,7 +1517,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_0050250">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/DOID_883"/>
-        <obo:IAO_0000115 xml:lang="en">A parasitic helminthiasis infectious disease that involves parasitic infection of the eyes by Philophthalmus species. External ocular philophthalmiasis manifests as follicular conjunctivitis and supperficial keratitis. Sub-conjunctival ocular philophthalmiasis consists of a mild edema with minimal cellular reaction.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A parasitic helminthiasis infectious disease that involves parasitic infection of the eyes by Philophthalmus species. External ocular philophthalmiasis manifests as follicular conjunctivitis and superficial keratitis. Sub-conjunctival ocular philophthalmiasis consists of a mild edema with minimal cellular reaction.</obo:IAO_0000115>
         <oboInOwl:hasOBONamespace>disease_ontology</oboInOwl:hasOBONamespace>
         <oboInOwl:id>DOID:0050250</oboInOwl:id>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/doid#DO_infectious_disease_slim"/>
@@ -1526,7 +1526,7 @@
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/DOID_0050250"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <owl:annotatedTarget xml:lang="en">A parasitic helminthiasis infectious disease that involves parasitic infection of the eyes by Philophthalmus species. External ocular philophthalmiasis manifests as follicular conjunctivitis and supperficial keratitis. Sub-conjunctival ocular philophthalmiasis consists of a mild edema with minimal cellular reaction.</owl:annotatedTarget>
+        <owl:annotatedTarget xml:lang="en">A parasitic helminthiasis infectious disease that involves parasitic infection of the eyes by Philophthalmus species. External ocular philophthalmiasis manifests as follicular conjunctivitis and superficial keratitis. Sub-conjunctival ocular philophthalmiasis consists of a mild edema with minimal cellular reaction.</owl:annotatedTarget>
         <dc:type rdf:resource="http://purl.obolibrary.org/obo/ECO_0007637"/>
         <oboInOwl:hasDbXref>url:http://www.dpd.cdc.gov/dpdx/HTML/Philophthalmiasis.htm</oboInOwl:hasDbXref>
     </owl:Axiom>
@@ -3874,7 +3874,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_1024">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/DOID_0050338"/>
-        <obo:IAO_0000115 xml:lang="en">A primary bacterial infectious disease that results_in infection located_in supperficial peripheral nerves, located_in skin, located_in mucous membranes of the upper respiratory tract, located_in anterior chamber of the eyes, or located_in testes, has_material_basis_in Mycobacterium leprae, which is transmitted_by aerosol spread from infected nasal secretions to exposed nasal and oral mucosa. The infection has_symptom skin lesions, has_symptom sensory loss, has_symptom motor loss and has_symptom eye damage.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A primary bacterial infectious disease that results_in infection located_in superficial peripheral nerves, located_in skin, located_in mucous membranes of the upper respiratory tract, located_in anterior chamber of the eyes, or located_in testes, has_material_basis_in Mycobacterium leprae, which is transmitted_by aerosol spread from infected nasal secretions to exposed nasal and oral mucosa. The infection has_symptom skin lesions, has_symptom sensory loss, has_symptom motor loss and has_symptom eye damage.</obo:IAO_0000115>
         <oboInOwl:hasDbXref>EFO:0001054</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>GARD:6886</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>ICD10CM:A30</oboInOwl:hasDbXref>
@@ -3899,7 +3899,7 @@
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/DOID_1024"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <owl:annotatedTarget xml:lang="en">A primary bacterial infectious disease that results_in infection located_in supperficial peripheral nerves, located_in skin, located_in mucous membranes of the upper respiratory tract, located_in anterior chamber of the eyes, or located_in testes, has_material_basis_in Mycobacterium leprae, which is transmitted_by aerosol spread from infected nasal secretions to exposed nasal and oral mucosa. The infection has_symptom skin lesions, has_symptom sensory loss, has_symptom motor loss and has_symptom eye damage.</owl:annotatedTarget>
+        <owl:annotatedTarget xml:lang="en">A primary bacterial infectious disease that results_in infection located_in superficial peripheral nerves, located_in skin, located_in mucous membranes of the upper respiratory tract, located_in anterior chamber of the eyes, or located_in testes, has_material_basis_in Mycobacterium leprae, which is transmitted_by aerosol spread from infected nasal secretions to exposed nasal and oral mucosa. The infection has_symptom skin lesions, has_symptom sensory loss, has_symptom motor loss and has_symptom eye damage.</owl:annotatedTarget>
         <dc:type rdf:resource="http://purl.obolibrary.org/obo/ECO_0007638"/>
         <oboInOwl:hasDbXref>url:http://en.wikipedia.org/wiki/Leprosy</oboInOwl:hasDbXref>
     </owl:Axiom>
@@ -4600,14 +4600,14 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_1080">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/DOID_883"/>
-        <obo:IAO_0000115 xml:lang="en">A parasitic helminthiasis infectious disease that involves parasitic infection of the lymphatics and subcutaneous tissue by nematodes of the supperfamily Filarioidea.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A parasitic helminthiasis infectious disease that involves parasitic infection of the lymphatics and subcutaneous tissue by nematodes of the superfamily Filarioidea.</obo:IAO_0000115>
         <oboInOwl:hasDbXref>ICD10CM:B74</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>ICD9CM:125.9</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>MESH:D005368</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>NCI:C34611</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>SNOMEDCT_US_2023_03_01:50342004</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>UMLS_CUI:C0016085</oboInOwl:hasDbXref>
-        <oboInOwl:hasExactSynonym xml:lang="en">disease due to supperfamily Filarioidea</oboInOwl:hasExactSynonym>
+        <oboInOwl:hasExactSynonym xml:lang="en">disease due to superfamily Filarioidea</oboInOwl:hasExactSynonym>
         <oboInOwl:hasOBONamespace>disease_ontology</oboInOwl:hasOBONamespace>
         <oboInOwl:id>DOID:1080</oboInOwl:id>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/doid#DO_infectious_disease_slim"/>
@@ -4618,7 +4618,7 @@
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/DOID_1080"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <owl:annotatedTarget xml:lang="en">A parasitic helminthiasis infectious disease that involves parasitic infection of the lymphatics and subcutaneous tissue by nematodes of the supperfamily Filarioidea.</owl:annotatedTarget>
+        <owl:annotatedTarget xml:lang="en">A parasitic helminthiasis infectious disease that involves parasitic infection of the lymphatics and subcutaneous tissue by nematodes of the superfamily Filarioidea.</owl:annotatedTarget>
         <dc:type rdf:resource="http://purl.obolibrary.org/obo/ECO_0007638"/>
         <oboInOwl:hasDbXref>url:http://en.wikipedia.org/wiki/Filariasis</oboInOwl:hasDbXref>
     </owl:Axiom>
@@ -5465,7 +5465,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_11227">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/DOID_934"/>
-        <obo:IAO_0000115 xml:lang="en">A viral infectious disease that results in inflammation located in conjunctiva, has_material_basis_in Human coxsackievirus A24 or has_material_basis_in Human enterovirus 70, which are transmitted by contaminated fomites or transmitted by contact with contaminated hands. The infection has symptom vascular dilation, has symptom eyelid edema, has symptom photophobia, has symptom redness of the eyes, has symptom watering of the eye, has symptom conjunctival congestion, and has symptom supperficial punctate epithelial keratitis.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A viral infectious disease that results in inflammation located in conjunctiva, has_material_basis_in Human coxsackievirus A24 or has_material_basis_in Human enterovirus 70, which are transmitted by contaminated fomites or transmitted by contact with contaminated hands. The infection has symptom vascular dilation, has symptom eyelid edema, has symptom photophobia, has symptom redness of the eyes, has symptom watering of the eye, has symptom conjunctival congestion, and has symptom superficial punctate epithelial keratitis.</obo:IAO_0000115>
         <oboInOwl:hasDbXref>ICD9CM:077.4</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>MESH:D003232</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>NCI:C34505</oboInOwl:hasDbXref>
@@ -5483,7 +5483,7 @@
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/DOID_11227"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <owl:annotatedTarget xml:lang="en">A viral infectious disease that results in inflammation located in conjunctiva, has_material_basis_in Human coxsackievirus A24 or has_material_basis_in Human enterovirus 70, which are transmitted by contaminated fomites or transmitted by contact with contaminated hands. The infection has symptom vascular dilation, has symptom eyelid edema, has symptom photophobia, has symptom redness of the eyes, has symptom watering of the eye, has symptom conjunctival congestion, and has symptom supperficial punctate epithelial keratitis.</owl:annotatedTarget>
+        <owl:annotatedTarget xml:lang="en">A viral infectious disease that results in inflammation located in conjunctiva, has_material_basis_in Human coxsackievirus A24 or has_material_basis_in Human enterovirus 70, which are transmitted by contaminated fomites or transmitted by contact with contaminated hands. The infection has symptom vascular dilation, has symptom eyelid edema, has symptom photophobia, has symptom redness of the eyes, has symptom watering of the eye, has symptom conjunctival congestion, and has symptom superficial punctate epithelial keratitis.</owl:annotatedTarget>
         <dc:type rdf:resource="http://purl.obolibrary.org/obo/ECO_0007638"/>
         <oboInOwl:hasDbXref>url:https://en.wikipedia.org/wiki/Acute_hemorrhagic_conjunctivitis</oboInOwl:hasDbXref>
     </owl:Axiom>
@@ -7210,7 +7210,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_1255">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/DOID_883"/>
-        <obo:IAO_0000115 xml:lang="en">A parasitic helminthiasis infectious disease that involves parasitic infection of animals and humans by nematodes of the supperfamily Trichostrongyloidea.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A parasitic helminthiasis infectious disease that involves parasitic infection of animals and humans by nematodes of the superfamily Trichostrongyloidea.</obo:IAO_0000115>
         <oboInOwl:hasDbXref>MESH:D014252</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>UMLS_CUI:C0040947</oboInOwl:hasDbXref>
         <oboInOwl:hasOBONamespace>disease_ontology</oboInOwl:hasOBONamespace>
@@ -7221,7 +7221,7 @@
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/DOID_1255"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <owl:annotatedTarget xml:lang="en">A parasitic helminthiasis infectious disease that involves parasitic infection of animals and humans by nematodes of the supperfamily Trichostrongyloidea.</owl:annotatedTarget>
+        <owl:annotatedTarget xml:lang="en">A parasitic helminthiasis infectious disease that involves parasitic infection of animals and humans by nematodes of the superfamily Trichostrongyloidea.</owl:annotatedTarget>
         <dc:type rdf:resource="http://purl.obolibrary.org/obo/ECO_0007638"/>
         <oboInOwl:hasDbXref>url:http://en.wikipedia.org/wiki/Strongylida</oboInOwl:hasDbXref>
     </owl:Axiom>
@@ -7343,7 +7343,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_12711">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/DOID_0050133"/>
-        <obo:IAO_0000115 xml:lang="en">A supperficial mycosis that is a supperficial fungal infection of the hair shaft caused by Piedraia hortae, an ascomycetous fungus forming hard black nodules on the shafts of the scalp, beard, moustache and pubic hair.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A superficial mycosis that is a superficial fungal infection of the hair shaft caused by Piedraia hortae, an ascomycetous fungus forming hard black nodules on the shafts of the scalp, beard, moustache and pubic hair.</obo:IAO_0000115>
         <oboInOwl:hasDbXref>ICD10CM:B36.3</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>ICD9CM:111.3</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>MESH:D010854</oboInOwl:hasDbXref>
@@ -7362,11 +7362,11 @@ DO has these as distinct diseases.</rdfs:comment>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/DOID_12711"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <owl:annotatedTarget xml:lang="en">A supperficial mycosis that is a supperficial fungal infection of the hair shaft caused by Piedraia hortae, an ascomycetous fungus forming hard black nodules on the shafts of the scalp, beard, moustache and pubic hair.</owl:annotatedTarget>
+        <owl:annotatedTarget xml:lang="en">A superficial mycosis that is a superficial fungal infection of the hair shaft caused by Piedraia hortae, an ascomycetous fungus forming hard black nodules on the shafts of the scalp, beard, moustache and pubic hair.</owl:annotatedTarget>
         <dc:type rdf:resource="http://purl.obolibrary.org/obo/ECO_0007637"/>
         <dc:type rdf:resource="http://purl.obolibrary.org/obo/ECO_0007638"/>
         <oboInOwl:hasDbXref>url:http://en.wikipedia.org/wiki/Black_piedra</oboInOwl:hasDbXref>
-        <oboInOwl:hasDbXref>url:http://mycology.adelaide.edu.au/Mycoses/Supperficial/Black_piedra/</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>url:http://mycology.adelaide.edu.au/Mycoses/Superficial/Black_piedra/</oboInOwl:hasDbXref>
     </owl:Axiom>
     
 
@@ -8699,7 +8699,7 @@ DO has these as distinct diseases.</rdfs:comment>
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_13902">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/DOID_0050133"/>
-        <obo:IAO_0000115 xml:lang="en">A supperficial mycosis that is a supperficial fungal infection of the hair shaft caused by Trichosporon beigelii. Infected hairs develop soft greyish-white nodules along the shaft.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A superficial mycosis that is a superficial fungal infection of the hair shaft caused by Trichosporon beigelii. Infected hairs develop soft greyish-white nodules along the shaft.</obo:IAO_0000115>
         <oboInOwl:hasDbXref>ICD10CM:B36.2</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>ICD9CM:111.2</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>MESH:D010854</oboInOwl:hasDbXref>
@@ -8719,9 +8719,9 @@ DO has these as distinct diseases.</rdfs:comment>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/DOID_13902"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <owl:annotatedTarget xml:lang="en">A supperficial mycosis that is a supperficial fungal infection of the hair shaft caused by Trichosporon beigelii. Infected hairs develop soft greyish-white nodules along the shaft.</owl:annotatedTarget>
+        <owl:annotatedTarget xml:lang="en">A superficial mycosis that is a superficial fungal infection of the hair shaft caused by Trichosporon beigelii. Infected hairs develop soft greyish-white nodules along the shaft.</owl:annotatedTarget>
         <dc:type rdf:resource="http://purl.obolibrary.org/obo/ECO_0007637"/>
-        <oboInOwl:hasDbXref>url:http://mycology.adelaide.edu.au/Mycoses/Supperficial/White_piedra/</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>url:http://mycology.adelaide.edu.au/Mycoses/Superficial/White_piedra/</oboInOwl:hasDbXref>
     </owl:Axiom>
     
 
@@ -10004,7 +10004,7 @@ DO has these as distinct diseases.</rdfs:comment>
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_2058">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/DOID_1508"/>
-        <obo:IAO_0000115 xml:lang="en">A candidiasis that refers to a heterogeneous group of disorders characterized by recurrent or persistent supperficial fungal infections located_in skin, located_in mucous membrane, or located_in nail due to T-cell defects, has-agent Candida species and has_symptom scaling of skin lesions, has_symptom thickening of nails, has_symptom swollen periungal tissue, and has_symptom scarring of the scalp.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A candidiasis that refers to a heterogeneous group of disorders characterized by recurrent or persistent superficial fungal infections located_in skin, located_in mucous membrane, or located_in nail due to T-cell defects, has-agent Candida species and has_symptom scaling of skin lesions, has_symptom thickening of nails, has_symptom swollen periungal tissue, and has_symptom scarring of the scalp.</obo:IAO_0000115>
         <oboInOwl:hasAlternativeId>DOID:2056</oboInOwl:hasAlternativeId>
         <oboInOwl:hasDbXref>GARD:12313</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>MESH:D002178</oboInOwl:hasDbXref>
@@ -10030,7 +10030,7 @@ DO has these as distinct diseases.</rdfs:comment>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/DOID_2058"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <owl:annotatedTarget xml:lang="en">A candidiasis that refers to a heterogeneous group of disorders characterized by recurrent or persistent supperficial fungal infections located_in skin, located_in mucous membrane, or located_in nail due to T-cell defects, has-agent Candida species and has_symptom scaling of skin lesions, has_symptom thickening of nails, has_symptom swollen periungal tissue, and has_symptom scarring of the scalp.</owl:annotatedTarget>
+        <owl:annotatedTarget xml:lang="en">A candidiasis that refers to a heterogeneous group of disorders characterized by recurrent or persistent superficial fungal infections located_in skin, located_in mucous membrane, or located_in nail due to T-cell defects, has-agent Candida species and has_symptom scaling of skin lesions, has_symptom thickening of nails, has_symptom swollen periungal tissue, and has_symptom scarring of the scalp.</owl:annotatedTarget>
         <dc:type rdf:resource="http://purl.obolibrary.org/obo/ECO_0007637"/>
         <oboInOwl:hasDbXref>url:http://www.merck.com/mmpe/sec13/ch164/ch164f.html?qt=Chronic%20mucocutaneous%20candidiasis&amp;alt=sh</oboInOwl:hasDbXref>
     </owl:Axiom>
@@ -13728,7 +13728,7 @@ DO has these as distinct diseases.</rdfs:comment>
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_8912">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/DOID_0050133"/>
-        <obo:IAO_0000115 xml:lang="en">A supperficial mycosis that is a supperficial fungal infection of the skin characterized by brown to black macules which usually occur on the palmar aspects of hands and occasionally the plantar and other surfaces of the skin, caused by Hortaea werneckii, which is a common saprophytic fungus believed to occur in soil, compost, humus and on wood in humid tropical and sub-tropical regions.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A superficial mycosis that is a superficial fungal infection of the skin characterized by brown to black macules which usually occur on the palmar aspects of hands and occasionally the plantar and other surfaces of the skin, caused by Hortaea werneckii, which is a common saprophytic fungus believed to occur in soil, compost, humus and on wood in humid tropical and sub-tropical regions.</obo:IAO_0000115>
         <oboInOwl:hasDbXref>ICD10CM:B36.1</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>ICD9CM:111.1</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>MESH:C000656904</oboInOwl:hasDbXref>
@@ -13746,9 +13746,9 @@ DO has these as distinct diseases.</rdfs:comment>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/DOID_8912"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <owl:annotatedTarget xml:lang="en">A supperficial mycosis that is a supperficial fungal infection of the skin characterized by brown to black macules which usually occur on the palmar aspects of hands and occasionally the plantar and other surfaces of the skin, caused by Hortaea werneckii, which is a common saprophytic fungus believed to occur in soil, compost, humus and on wood in humid tropical and sub-tropical regions.</owl:annotatedTarget>
+        <owl:annotatedTarget xml:lang="en">A superficial mycosis that is a superficial fungal infection of the skin characterized by brown to black macules which usually occur on the palmar aspects of hands and occasionally the plantar and other surfaces of the skin, caused by Hortaea werneckii, which is a common saprophytic fungus believed to occur in soil, compost, humus and on wood in humid tropical and sub-tropical regions.</owl:annotatedTarget>
         <dc:type rdf:resource="http://purl.obolibrary.org/obo/ECO_0007637"/>
-        <oboInOwl:hasDbXref>url:http://www.mycology.adelaide.edu.au/Mycoses/Supperficial/Tinea_nigra/index.html</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>url:http://www.mycology.adelaide.edu.au/Mycoses/Superficial/Tinea_nigra/index.html</oboInOwl:hasDbXref>
     </owl:Axiom>
     
 
@@ -13843,7 +13843,7 @@ DO has these as distinct diseases.</rdfs:comment>
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_9060">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/DOID_0050133"/>
-        <obo:IAO_0000115 xml:lang="en">A supperficial mycosis that is a chronic, supperficial fungal infection of the skin caused by Malassezia furfur, which is characterized by well-demarcated white, pink, fawn, or brownish lesions, often coalescing, and covered with thin furfuraceous scales.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A superficial mycosis that is a chronic, superficial fungal infection of the skin caused by Malassezia furfur, which is characterized by well-demarcated white, pink, fawn, or brownish lesions, often coalescing, and covered with thin furfuraceous scales.</obo:IAO_0000115>
         <oboInOwl:hasDbXref>ICD10CM:B36.0</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>ICD9CM:111.0</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>MESH:D014010</oboInOwl:hasDbXref>
@@ -13860,9 +13860,9 @@ DO has these as distinct diseases.</rdfs:comment>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/DOID_9060"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <owl:annotatedTarget xml:lang="en">A supperficial mycosis that is a chronic, supperficial fungal infection of the skin caused by Malassezia furfur, which is characterized by well-demarcated white, pink, fawn, or brownish lesions, often coalescing, and covered with thin furfuraceous scales.</owl:annotatedTarget>
+        <owl:annotatedTarget xml:lang="en">A superficial mycosis that is a chronic, superficial fungal infection of the skin caused by Malassezia furfur, which is characterized by well-demarcated white, pink, fawn, or brownish lesions, often coalescing, and covered with thin furfuraceous scales.</owl:annotatedTarget>
         <dc:type rdf:resource="http://purl.obolibrary.org/obo/ECO_0007637"/>
-        <oboInOwl:hasDbXref>url:http://mycology.adelaide.edu.au/Mycoses/Supperficial/Malassezia_infections/</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>url:http://mycology.adelaide.edu.au/Mycoses/Superficial/Malassezia_infections/</oboInOwl:hasDbXref>
     </owl:Axiom>
     
 

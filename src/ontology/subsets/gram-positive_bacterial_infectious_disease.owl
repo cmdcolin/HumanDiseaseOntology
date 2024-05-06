@@ -797,7 +797,7 @@
     <!-- http://purl.obolibrary.org/obo/DOID_1024 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_1024">
-        <obo:IAO_0000115 xml:lang="en">A primary bacterial infectious disease that results_in infection located_in supperficial peripheral nerves, located_in skin, located_in mucous membranes of the upper respiratory tract, located_in anterior chamber of the eyes, or located_in testes, has_material_basis_in Mycobacterium leprae, which is transmitted_by aerosol spread from infected nasal secretions to exposed nasal and oral mucosa. The infection has_symptom skin lesions, has_symptom sensory loss, has_symptom motor loss and has_symptom eye damage.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A primary bacterial infectious disease that results_in infection located_in superficial peripheral nerves, located_in skin, located_in mucous membranes of the upper respiratory tract, located_in anterior chamber of the eyes, or located_in testes, has_material_basis_in Mycobacterium leprae, which is transmitted_by aerosol spread from infected nasal secretions to exposed nasal and oral mucosa. The infection has_symptom skin lesions, has_symptom sensory loss, has_symptom motor loss and has_symptom eye damage.</obo:IAO_0000115>
         <oboInOwl:hasDbXref>EFO:0001054</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>GARD:6886</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>ICD10CM:A30</oboInOwl:hasDbXref>
@@ -822,7 +822,7 @@
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/DOID_1024"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <owl:annotatedTarget xml:lang="en">A primary bacterial infectious disease that results_in infection located_in supperficial peripheral nerves, located_in skin, located_in mucous membranes of the upper respiratory tract, located_in anterior chamber of the eyes, or located_in testes, has_material_basis_in Mycobacterium leprae, which is transmitted_by aerosol spread from infected nasal secretions to exposed nasal and oral mucosa. The infection has_symptom skin lesions, has_symptom sensory loss, has_symptom motor loss and has_symptom eye damage.</owl:annotatedTarget>
+        <owl:annotatedTarget xml:lang="en">A primary bacterial infectious disease that results_in infection located_in superficial peripheral nerves, located_in skin, located_in mucous membranes of the upper respiratory tract, located_in anterior chamber of the eyes, or located_in testes, has_material_basis_in Mycobacterium leprae, which is transmitted_by aerosol spread from infected nasal secretions to exposed nasal and oral mucosa. The infection has_symptom skin lesions, has_symptom sensory loss, has_symptom motor loss and has_symptom eye damage.</owl:annotatedTarget>
         <dc:type rdf:resource="http://purl.obolibrary.org/obo/ECO_0007638"/>
         <oboInOwl:hasDbXref>url:http://en.wikipedia.org/wiki/Leprosy</oboInOwl:hasDbXref>
     </owl:Axiom>
@@ -3100,7 +3100,7 @@
     <!-- http://purl.obolibrary.org/obo/DOID_8504 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_8504">
-        <obo:IAO_0000115 xml:lang="en">A pyoderma consisting of three forms of skin lesions having either a thick, adherent, recurrent, dirty yellow crust with an erythematous margin (common or supperficial impetigo) or lessions which are supperficial, thin-walled, and bullous as found in bullous impetigo. The lesions in bullous (staphylococcal) impetigo, which are always caused by S aureus, are supperficial, thin-walled, and bullous.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A pyoderma consisting of three forms of skin lesions having either a thick, adherent, recurrent, dirty yellow crust with an erythematous margin (common or superficial impetigo) or lessions which are superficial, thin-walled, and bullous as found in bullous impetigo. The lesions in bullous (staphylococcal) impetigo, which are always caused by S aureus, are superficial, thin-walled, and bullous.</obo:IAO_0000115>
         <oboInOwl:hasDbXref>ICD10CM:L01.0</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>ICD9CM:684</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>MESH:D007169</oboInOwl:hasDbXref>
@@ -3116,7 +3116,7 @@
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/DOID_8504"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <owl:annotatedTarget xml:lang="en">A pyoderma consisting of three forms of skin lesions having either a thick, adherent, recurrent, dirty yellow crust with an erythematous margin (common or supperficial impetigo) or lessions which are supperficial, thin-walled, and bullous as found in bullous impetigo. The lesions in bullous (staphylococcal) impetigo, which are always caused by S aureus, are supperficial, thin-walled, and bullous.</owl:annotatedTarget>
+        <owl:annotatedTarget xml:lang="en">A pyoderma consisting of three forms of skin lesions having either a thick, adherent, recurrent, dirty yellow crust with an erythematous margin (common or superficial impetigo) or lessions which are superficial, thin-walled, and bullous as found in bullous impetigo. The lesions in bullous (staphylococcal) impetigo, which are always caused by S aureus, are superficial, thin-walled, and bullous.</owl:annotatedTarget>
         <oboInOwl:hasDbXref>url:https://www.mayoclinic.org/diseases-conditions/impetigo/symptoms-causes/syc-20352352</oboInOwl:hasDbXref>
     </owl:Axiom>
     

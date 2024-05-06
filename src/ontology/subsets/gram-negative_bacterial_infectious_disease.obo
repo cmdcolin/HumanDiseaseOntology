@@ -1396,7 +1396,7 @@ is_obsolete: true
 id: DOID:11097
 name: obsolete pulmonary syphilis
 namespace: disease_ontology
-def: "A tertiary syphilis that is caused by the spirochetal bacterium Treponema pallidum subspecies pallidum. It is a sexually transmitted disease although congenital syphilis can also occur. Treponema infection of the lung leads to a fibrous induration spreading from the roots of the lungs. Ulcerations occur in the supperficial tissues, while in the deep tissues gummata are formed. Symptoms include dry cough, hemoptysis, hemorrhage, dyspnea, pain in the chest, loss of weight and slight fever." [url:http\://sti.bmj.com/cgi/reprint/4/4/290.pdf, url:http\://www.ncbi.nlm.nih.gov/pmc/articles/PMC1707740/pdf/canmedaj00442-0068.pdf]
+def: "A tertiary syphilis that is caused by the spirochetal bacterium Treponema pallidum subspecies pallidum. It is a sexually transmitted disease although congenital syphilis can also occur. Treponema infection of the lung leads to a fibrous induration spreading from the roots of the lungs. Ulcerations occur in the superficial tissues, while in the deep tissues gummata are formed. Symptoms include dry cough, hemoptysis, hemorrhage, dyspnea, pain in the chest, loss of weight and slight fever." [url:http\://sti.bmj.com/cgi/reprint/4/4/290.pdf, url:http\://www.ncbi.nlm.nih.gov/pmc/articles/PMC1707740/pdf/canmedaj00442-0068.pdf]
 subset: gram-negative_bacterial_infectious_disease
 subset: sexually_transmitted_infectious_disease
 synonym: "Syphilis of lung (disorder)" EXACT []

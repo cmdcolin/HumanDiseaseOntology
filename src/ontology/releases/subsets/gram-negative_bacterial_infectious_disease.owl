@@ -2555,7 +2555,7 @@
     <!-- http://purl.obolibrary.org/obo/DOID_11097 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_11097">
-        <obo:IAO_0000115 xml:lang="en">A tertiary syphilis that is caused by the spirochetal bacterium Treponema pallidum subspecies pallidum. It is a sexually transmitted disease although congenital syphilis can also occur. Treponema infection of the lung leads to a fibrous induration spreading from the roots of the lungs. Ulcerations occur in the supperficial tissues, while in the deep tissues gummata are formed. Symptoms include dry cough, hemoptysis, hemorrhage, dyspnea, pain in the chest, loss of weight and slight fever.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A tertiary syphilis that is caused by the spirochetal bacterium Treponema pallidum subspecies pallidum. It is a sexually transmitted disease although congenital syphilis can also occur. Treponema infection of the lung leads to a fibrous induration spreading from the roots of the lungs. Ulcerations occur in the superficial tissues, while in the deep tissues gummata are formed. Symptoms include dry cough, hemoptysis, hemorrhage, dyspnea, pain in the chest, loss of weight and slight fever.</obo:IAO_0000115>
         <oboInOwl:hasExactSynonym xml:lang="en">Syphilis of lung (disorder)</oboInOwl:hasExactSynonym>
         <oboInOwl:hasOBONamespace>disease_ontology</oboInOwl:hasOBONamespace>
         <oboInOwl:id>DOID:11097</oboInOwl:id>
@@ -2567,7 +2567,7 @@
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/DOID_11097"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <owl:annotatedTarget xml:lang="en">A tertiary syphilis that is caused by the spirochetal bacterium Treponema pallidum subspecies pallidum. It is a sexually transmitted disease although congenital syphilis can also occur. Treponema infection of the lung leads to a fibrous induration spreading from the roots of the lungs. Ulcerations occur in the supperficial tissues, while in the deep tissues gummata are formed. Symptoms include dry cough, hemoptysis, hemorrhage, dyspnea, pain in the chest, loss of weight and slight fever.</owl:annotatedTarget>
+        <owl:annotatedTarget xml:lang="en">A tertiary syphilis that is caused by the spirochetal bacterium Treponema pallidum subspecies pallidum. It is a sexually transmitted disease although congenital syphilis can also occur. Treponema infection of the lung leads to a fibrous induration spreading from the roots of the lungs. Ulcerations occur in the superficial tissues, while in the deep tissues gummata are formed. Symptoms include dry cough, hemoptysis, hemorrhage, dyspnea, pain in the chest, loss of weight and slight fever.</owl:annotatedTarget>
         <dc:type rdf:resource="http://purl.obolibrary.org/obo/ECO_0007645"/>
         <oboInOwl:hasDbXref>url:http://sti.bmj.com/cgi/reprint/4/4/290.pdf</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>url:http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1707740/pdf/canmedaj00442-0068.pdf</oboInOwl:hasDbXref>

@@ -3183,7 +3183,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCBITaxon_216285">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCBITaxon_2315720"/>
-        <rdfs:label>Trochoidea &lt;supperfamily&gt;</rdfs:label>
+        <rdfs:label>Trochoidea &lt;superfamily&gt;</rdfs:label>
     </owl:Class>
     
 

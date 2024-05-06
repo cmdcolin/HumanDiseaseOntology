@@ -85,7 +85,7 @@ UBERON:0001165	# pyloric antrum
 UBERON:0001166	# pylorus
 UBERON:0001173	# biliary tree
 UBERON:0001174	# common bile duct
-UBERON:0001182	# supperior mesenteric artery
+UBERON:0001182	# superior mesenteric artery
 UBERON:0001184	# renal artery
 UBERON:0001224	# renal pelvis
 UBERON:0001232	# collecting duct of renal tubule
@@ -320,7 +320,7 @@ UBERON:0010391	# parametrium
 UBERON:0010743	# meningeal cluster
 UBERON:0010996	# articular cartilage of joint
 UBERON:0011374	# prepuce
-UBERON:0011818	# supperficial fascia
+UBERON:0011818	# superficial fascia
 UBERON:0011826	# vestibular gland
 UBERON:0012303	# ureteral orifice
 UBERON:0012332	# broad ligament of uterus

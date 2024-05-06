@@ -10670,7 +10670,7 @@ id	label	subClassOf
 "DOID:11771"	"spontaneous ocular nystagmus"	"pathologic nystagmus"
 "DOID:1672"	"spontaneous tension pneumothorax"	"pneumothorax"
 "DOID:8029"	"sporadic breast cancer"	"breast carcinoma"
-"DOID:0080917"	"sporadic amyotrophic lateral sclerosis"	"amyotrophic lateral sclerosis"
+"DOID:0080917"	"sporatic amyotrophic lateral sclerosis"	"amyotrophic lateral sclerosis"
 "DOID:14484"	"sporotrichosis"	"primary systemic mycosis"
 "DOID:11104"	"spotted fever"	"primary bacterial infectious disease"
 "DOID:13825"	"squamous blepharitis"	"blepharitis"
