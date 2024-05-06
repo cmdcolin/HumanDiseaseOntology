@@ -51527,7 +51527,7 @@ is_a: DOID:9460 ! uterine corpus cancer
 id: DOID:5751
 name: pancreatic serous cystadenocarcinoma
 namespace: disease_ontology
-def: "A serous cystadenocarcinoma tha tis located_in the pancreas." [url:https\://en.wikipedia.org/wiki/Pancreatic_serous_cystadenoma]
+def: "A serous cystadenocarcinoma that is located_in the pancreas." [url:https\://en.wikipedia.org/wiki/Pancreatic_serous_cystadenoma]
 subset: NCIthesaurus
 synonym: "serous cystadenocarcinoma of pancreas" EXACT []
 xref: NCI:C5724
