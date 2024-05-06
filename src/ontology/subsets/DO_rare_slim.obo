@@ -16630,7 +16630,7 @@ is_a: DOID:1039 ! prolymphocytic leukemia
 id: DOID:0081043
 name: fetal akinesia deformation sequence syndrome X-linked
 namespace: disease_ontology
-def: "A fetal akinesia deformation sequence syndrom that is an X-linked form that is characterized by brain malformations, telecanthus, and narrow palpebral fissures." [url:https\://pubmed.ncbi.nlm.nih.gov/9018412/]
+def: "A fetal akinesia deformation sequence syndrome that is an X-linked form that is characterized by brain malformations, telecanthus, and narrow palpebral fissures." [url:https\://pubmed.ncbi.nlm.nih.gov/9018412/]
 subset: DO_rare_slim
 xref: GARD:2293
 xref: OMIM:300073
@@ -17882,7 +17882,7 @@ xref: ORDO:370103
 id: DOID:0090043
 name: dystonia 5
 namespace: disease_ontology
-def: "A dystonia characterized by childhood-onset dystonia that responds to low doses of levodopa (L-dopa) and may be associated with parkinsonism at an older age and has_material_basis_in autosomal dominant inheritance of heterozygous mutation in the gene enconding GTP cyclohydrolase 1 (GCH1) on chromosome 14q13." [url:https\://ghr.nlm.nih.gov/condition/dopa-responsive-dystonia, url:https\://www.ncbi.nlm.nih.gov/books/NBK1508/, url:https\://www.omim.org/entry/128230]
+def: "A dystonia characterized by childhood-onset dystonia that responds to low doses of levodopa (L-dopa) and may be associated with parkinsonism at an older age and has_material_basis_in autosomal dominant inheritance of heterozygous mutation in the gene encoding GTP cyclohydrolase 1 (GCH1) on chromosome 14q13." [url:https\://ghr.nlm.nih.gov/condition/dopa-responsive-dystonia, url:https\://www.ncbi.nlm.nih.gov/books/NBK1508/, url:https\://www.omim.org/entry/128230]
 subset: DO_rare_slim
 xref: ICD10CM:G24.1
 xref: OMIM:128230
@@ -18132,7 +18132,7 @@ id: DOID:0090070
 name: hypogonadotropic hypogonadism
 namespace: disease_ontology
 alt_id: DOID:7455
-def: "A hypogonadism characterized by a impaired signalling by gonadotrpin relasing hormone." [url:https\://www.ncbi.nlm.nih.gov/pubmed/17761590]
+def: "A hypogonadism characterized by a impaired signalling by gonadotrpin releasing hormone." [url:https\://www.ncbi.nlm.nih.gov/pubmed/17761590]
 subset: DO_rare_slim
 synonym: "congenital idiopathic hypogonadotropic hypogonadism" EXACT []
 synonym: "hypogonadotropism" EXACT []
