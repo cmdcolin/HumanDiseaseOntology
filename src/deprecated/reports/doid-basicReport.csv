@@ -20912,7 +20912,7 @@ HP:0011050,,
 HP:0010932,,
 UBERON:0013128,,
 UBERON:0005787,,
-DOID:633,A myopathy characterized by muscle inflamation.,NCI:C27578 SNOMEDCT_2010_1_31:203110007 SNOMEDCT_2010_1_31:268108002 UMLS_CUI:C0027121 MSH:D009220 OMIM:160750 SNOMEDCT_2010_1_31:128496001 SNOMEDCT_2010_1_31:26889001
+DOID:633,A myopathy characterized by muscle inflammation.,NCI:C27578 SNOMEDCT_2010_1_31:203110007 SNOMEDCT_2010_1_31:268108002 UMLS_CUI:C0027121 MSH:D009220 OMIM:160750 SNOMEDCT_2010_1_31:128496001 SNOMEDCT_2010_1_31:26889001
 HP:0007400,,
 HP:0000013,,
 HP:0011691,,
@@ -21708,7 +21708,7 @@ UBERON:0004395,,
 DOID:11664,,SNOMEDCT_2010_1_31:197662008 SNOMEDCT_2010_1_31:194773000 SNOMEDCT_2010_1_31:197658002 ICD9CM:587 UMLS_CUI:C0027719 SNOMEDCT_2010_1_31:32916005 MSH:D009400
 HP:0010044,,
 DOID:3038,,UMLS_CUI:C1515024 NCI:C38760
-DOID:9739,"A non-suppurative otitis media and eustachian tube disorder in which the tube is either too narrow or too wide. It can also be cuased by nasal inflammation which leads to inflammatory swelling and obstruction of the eustachian tube, which, in turn, leads to increased negative pressure in the middle ear and improper ventilation.",ICD9CM:381.8 SNOMEDCT_2010_1_31:194277003 SNOMEDCT_2010_1_31:194278008 ICD9CM:381.89 UMLS_CUI:C0155435
+DOID:9739,"A non-suppurative otitis media and eustachian tube disorder in which the tube is either too narrow or too wide. It can also be caused by nasal inflammation which leads to inflammatory swelling and obstruction of the eustachian tube, which, in turn, leads to increased negative pressure in the middle ear and improper ventilation.",ICD9CM:381.8 SNOMEDCT_2010_1_31:194277003 SNOMEDCT_2010_1_31:194278008 ICD9CM:381.89 UMLS_CUI:C0155435
 UBERON:0000199,,
 HP:0008166,,
 HP:0009543,,
