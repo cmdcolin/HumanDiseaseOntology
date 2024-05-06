@@ -2635,7 +2635,7 @@
       "type" : "CLASS",
       "meta" : {
         "definition" : {
-          "val" : "A diabetes mellitus that is characterized by hyperglycemia occuring within the first 6 months of life.",
+          "val" : "A diabetes mellitus that is characterized by hyperglycemia occurring within the first 6 months of life.",
           "xrefs" : [ "url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5928785/" ]
         },
         "subsets" : [ "http://purl.obolibrary.org/obo/doid#DO_FlyBase_slim", "http://purl.obolibrary.org/obo/doid#NCIthesaurus" ],

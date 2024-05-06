@@ -4160,7 +4160,7 @@
     <!-- http://purl.obolibrary.org/obo/DOID_13470 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_13470">
-        <obo:IAO_0000115 xml:lang="en">A primary syphilis that is characterized by occurence of painless sores on the anus, which is caused by the spirochete Treponema pallidum.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A primary syphilis that is characterized by occurrence of painless sores on the anus, which is caused by the spirochete Treponema pallidum.</obo:IAO_0000115>
         <oboInOwl:hasExactSynonym xml:lang="en">primary anal syphilis (disorder)</oboInOwl:hasExactSynonym>
         <oboInOwl:hasOBONamespace>disease_ontology</oboInOwl:hasOBONamespace>
         <oboInOwl:id>DOID:13470</oboInOwl:id>
@@ -4172,7 +4172,7 @@
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/DOID_13470"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <owl:annotatedTarget xml:lang="en">A primary syphilis that is characterized by occurence of painless sores on the anus, which is caused by the spirochete Treponema pallidum.</owl:annotatedTarget>
+        <owl:annotatedTarget xml:lang="en">A primary syphilis that is characterized by occurrence of painless sores on the anus, which is caused by the spirochete Treponema pallidum.</owl:annotatedTarget>
         <dc:type rdf:resource="http://purl.obolibrary.org/obo/ECO_0007637"/>
         <oboInOwl:hasDbXref>url:http://www.cdc.gov/std/syphilis/STDFact-Syphilis.htm</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>url:http://www.merck.com/mmpe/sec14/ch194/ch194i.html?qt=syphilis&amp;alt=sh</oboInOwl:hasDbXref>

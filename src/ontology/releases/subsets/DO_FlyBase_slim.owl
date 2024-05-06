@@ -2409,7 +2409,7 @@ OMIM mapping confirmed by DO. [LS].</rdfs:comment>
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_11717">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/DOID_2978"/>
-        <obo:IAO_0000115 xml:lang="en">A diabetes mellitus that is characterized by hyperglycemia occuring within the first 6 months of life.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A diabetes mellitus that is characterized by hyperglycemia occurring within the first 6 months of life.</obo:IAO_0000115>
         <oboInOwl:hasDbXref>ICD10CM:P70.2</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>ICD9CM:775.1</oboInOwl:hasDbXref>
         <oboInOwl:hasDbXref>NCI:C99248</oboInOwl:hasDbXref>
@@ -2426,7 +2426,7 @@ OMIM mapping confirmed by DO. [LS].</rdfs:comment>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/DOID_11717"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <owl:annotatedTarget xml:lang="en">A diabetes mellitus that is characterized by hyperglycemia occuring within the first 6 months of life.</owl:annotatedTarget>
+        <owl:annotatedTarget xml:lang="en">A diabetes mellitus that is characterized by hyperglycemia occurring within the first 6 months of life.</owl:annotatedTarget>
         <oboInOwl:hasDbXref>url:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5928785/</oboInOwl:hasDbXref>
     </owl:Axiom>
     

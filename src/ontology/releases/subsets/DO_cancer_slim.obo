@@ -1190,7 +1190,7 @@ xref: ICDO:8818/0
 id: DOID:0080144
 name: childhood acute lymphocytic leukemia
 namespace: disease_ontology
-def: "An acute lymphocytic leukemia occuring during childhood." [url:https\://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&version=16.04d&ns=NCI_Thesaurus&code=C3168&key=736438179&b=1&n=null]
+def: "An acute lymphocytic leukemia occurring during childhood." [url:https\://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&version=16.04d&ns=NCI_Thesaurus&code=C3168&key=736438179&b=1&n=null]
 subset: DO_cancer_slim
 subset: NCIthesaurus
 synonym: "Childhood Acute Lymphoblastic Leukemia" EXACT []

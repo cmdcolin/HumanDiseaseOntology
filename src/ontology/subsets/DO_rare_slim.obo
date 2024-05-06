@@ -11127,7 +11127,7 @@ property_value: exactMatch "OMIM:618157" xsd:string
 id: DOID:0060875
 name: isolated growth hormone deficiency type III
 namespace: disease_ontology
-def: "An isolated growth hormone deficiency characterized by dwarfism, variable occurence of hypogammaglobulinemia, and a generally good response to growth hormone therapy that has_material_basis_in mutation in the BTK gene on chromosome Xq22.1." [url:https\://www.ncbi.nlm.nih.gov/pubmed/8013627, url:https\://www.ncbi.nlm.nih.gov/pubmed/8288694]
+def: "An isolated growth hormone deficiency characterized by dwarfism, variable occurrence of hypogammaglobulinemia, and a generally good response to growth hormone therapy that has_material_basis_in mutation in the BTK gene on chromosome Xq22.1." [url:https\://www.ncbi.nlm.nih.gov/pubmed/8013627, url:https\://www.ncbi.nlm.nih.gov/pubmed/8288694]
 subset: DO_rare_slim
 synonym: "congenital IGHD type III" EXACT []
 synonym: "congenital isolated GH deficiency type III" EXACT []

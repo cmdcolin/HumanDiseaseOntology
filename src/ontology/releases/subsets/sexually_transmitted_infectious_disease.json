@@ -874,7 +874,7 @@
       "type" : "CLASS",
       "meta" : {
         "definition" : {
-          "val" : "A primary syphilis that is characterized by occurence of painless sores on the anus, which is caused by the spirochete Treponema pallidum.",
+          "val" : "A primary syphilis that is characterized by occurrence of painless sores on the anus, which is caused by the spirochete Treponema pallidum.",
           "xrefs" : [ "url:http://www.cdc.gov/std/syphilis/STDFact-Syphilis.htm", "url:http://www.merck.com/mmpe/sec14/ch194/ch194i.html?qt=syphilis&alt=sh" ]
         },
         "subsets" : [ "http://purl.obolibrary.org/obo/doid#gram-negative_bacterial_infectious_disease", "http://purl.obolibrary.org/obo/doid#sexually_transmitted_infectious_disease" ],

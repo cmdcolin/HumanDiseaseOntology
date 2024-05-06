@@ -2355,7 +2355,7 @@ is_obsolete: true
 id: DOID:13470
 name: obsolete primary anal syphilis
 namespace: disease_ontology
-def: "A primary syphilis that is characterized by occurence of painless sores on the anus, which is caused by the spirochete Treponema pallidum." [url:http\://www.cdc.gov/std/syphilis/STDFact-Syphilis.htm, url:http\://www.merck.com/mmpe/sec14/ch194/ch194i.html?qt=syphilis&alt=sh]
+def: "A primary syphilis that is characterized by occurrence of painless sores on the anus, which is caused by the spirochete Treponema pallidum." [url:http\://www.cdc.gov/std/syphilis/STDFact-Syphilis.htm, url:http\://www.merck.com/mmpe/sec14/ch194/ch194i.html?qt=syphilis&alt=sh]
 subset: gram-negative_bacterial_infectious_disease
 subset: sexually_transmitted_infectious_disease
 synonym: "primary anal syphilis (disorder)" EXACT []
