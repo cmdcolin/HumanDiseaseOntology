@@ -27262,7 +27262,7 @@ is_a: DOID:120 ! female reproductive organ cancer
 id: DOID:1965
 name: fallopian tube leiomyosarcoma
 namespace: disease_ontology
-def: "A fallopian tube cancer that dervies_from smooth muscle cells." [url:https\://www.ncbi.nlm.nih.gov/pubmed/20191300]
+def: "A fallopian tube cancer that derives_from smooth muscle cells." [url:https\://www.ncbi.nlm.nih.gov/pubmed/20191300]
 subset: NCIthesaurus
 xref: NCI:C40128
 xref: UMLS_CUI:C1517116
