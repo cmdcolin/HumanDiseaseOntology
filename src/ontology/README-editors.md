@@ -135,7 +135,7 @@ OBSOLETING
 
 1. Find the  class you wish to obsolete, and compare it with the class you wish to replace (or consider) it with. You need to check that both the text definition and the logical axioms have the same intent, and that nothing desired is lost in the obsolescence.
 
-2. Copy any subClass axioms that you intend to keep for historical purposes (e.g. those that are not replicated on the target class) into a comment annotation property. If you do this, please ensure to add to any exisiting comments rather than adding a new COMMENT. There can be only one COMMENT in obo format. If there are equivalence axioms, you may wish to consult with an expert to make sure the axioms are retained properly in the file.
+2. Copy any subClass axioms that you intend to keep for historical purposes (e.g. those that are not replicated on the target class) into a comment annotation property. If you do this, please ensure to add to any existing comments rather than adding a new COMMENT. There can be only one COMMENT in obo format. If there are equivalence axioms, you may wish to consult with an expert to make sure the axioms are retained properly in the file.
 
 3. Go to the obsolescenc plugin by going to the edit menu and scroll to the bottom, to "Make Entity Obsolete". This will perform the following for you:
 	Relabel the class as "obsolete your old term label here". 

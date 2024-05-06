@@ -12038,7 +12038,7 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/SYMP_0000897">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000231"/>
-        <obo:IAO_0000115>A bradycardia associated with the generation of impules in the ventricles when impules from the atria fail to reach them, characterized by an electrocardiogram showing a heart rate below 50 BPM and a broad QRS complex.</obo:IAO_0000115>
+        <obo:IAO_0000115>A bradycardia associated with the generation of impulse in the ventricles when impulse from the atria fail to reach them, characterized by an electrocardiogram showing a heart rate below 50 BPM and a broad QRS complex.</obo:IAO_0000115>
         <oboInOwl:hasExactSynonym>idioventricular rhythm</oboInOwl:hasExactSynonym>
         <oboInOwl:hasExactSynonym>ventricular escape rhythm</oboInOwl:hasExactSynonym>
         <oboInOwl:hasOBONamespace>symptoms</oboInOwl:hasOBONamespace>
@@ -12048,7 +12048,7 @@
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/SYMP_0000897"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <owl:annotatedTarget>A bradycardia associated with the generation of impules in the ventricles when impules from the atria fail to reach them, characterized by an electrocardiogram showing a heart rate below 50 BPM and a broad QRS complex.</owl:annotatedTarget>
+        <owl:annotatedTarget>A bradycardia associated with the generation of impulse in the ventricles when impulse from the atria fail to reach them, characterized by an electrocardiogram showing a heart rate below 50 BPM and a broad QRS complex.</owl:annotatedTarget>
         <oboInOwl:hasDbXref>url:https://en.wikipedia.org/wiki/Ventricular_escape_beat</oboInOwl:hasDbXref>
     </owl:Axiom>
     

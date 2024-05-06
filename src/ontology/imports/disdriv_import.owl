@@ -392,14 +392,14 @@
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/ExO_0000014">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ExO_0000007"/>
-        <obo:IAO_0000115>An ecological pertubation that is any significant change in measures of climate (such as temperature, precipitation, or wind) lasting for an extended period (decades or longer). It may result from natural factors such as changes in the sun&apos;s intensity, natural processes within the climate system such as changes in ocean circulation, or human activities.</obo:IAO_0000115>
+        <obo:IAO_0000115>An ecological perturbation that is any significant change in measures of climate (such as temperature, precipitation, or wind) lasting for an extended period (decades or longer). It may result from natural factors such as changes in the sun&apos;s intensity, natural processes within the climate system such as changes in ocean circulation, or human activities.</obo:IAO_0000115>
         <oboInOwl:id>ExO:0000014</oboInOwl:id>
         <rdfs:label>climate change</rdfs:label>
     </owl:Class>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/ExO_0000014"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <owl:annotatedTarget>An ecological pertubation that is any significant change in measures of climate (such as temperature, precipitation, or wind) lasting for an extended period (decades or longer). It may result from natural factors such as changes in the sun&apos;s intensity, natural processes within the climate system such as changes in ocean circulation, or human activities.</owl:annotatedTarget>
+        <owl:annotatedTarget>An ecological perturbation that is any significant change in measures of climate (such as temperature, precipitation, or wind) lasting for an extended period (decades or longer). It may result from natural factors such as changes in the sun&apos;s intensity, natural processes within the climate system such as changes in ocean circulation, or human activities.</owl:annotatedTarget>
         <oboInOwl:hasDbXref>url:https://pubmed.ncbi.nlm.nih.gov/29351546/</oboInOwl:hasDbXref>
     </owl:Axiom>
     

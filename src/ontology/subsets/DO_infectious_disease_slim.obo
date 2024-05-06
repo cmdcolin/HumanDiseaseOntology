@@ -1314,7 +1314,7 @@ is_a: DOID:0050338 ! primary bacterial infectious disease
 id: DOID:0070344
 name: ocular tuberculosis
 namespace: disease_ontology
-def: "A tuberculosis that is located_in some eye, has_material_basis_in Mycobacterium tuberculosis, and has_sypmtom inflamed eyes." [url:https\://www.ncbi.nlm.nih.gov/pmc/articles/PMC4664543/]
+def: "A tuberculosis that is located_in some eye, has_material_basis_in Mycobacterium tuberculosis, and has_symptom inflamed eyes." [url:https\://www.ncbi.nlm.nih.gov/pmc/articles/PMC4664543/]
 subset: DO_infectious_disease_slim
 is_a: DOID:399 ! tuberculosis
 
