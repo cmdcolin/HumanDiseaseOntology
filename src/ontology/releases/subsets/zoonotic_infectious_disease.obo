@@ -123,7 +123,7 @@ subset: DO_rare_slim
 subset: gram-negative_bacterial_infectious_disease
 subset: tick-borne_infectious_disease
 subset: zoonotic_infectious_disease
-synonym: "Brazillian spotted" RELATED []
+synonym: "Brazilian spotted" RELATED []
 synonym: "Choix" RELATED []
 synonym: "Exanthematic typhus of Sao Paulo" RELATED []
 synonym: "Fiebre maculosa" RELATED []

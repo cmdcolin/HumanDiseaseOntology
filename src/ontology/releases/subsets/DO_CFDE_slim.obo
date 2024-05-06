@@ -490,7 +490,7 @@ id: DOID:1781
 name: thyroid cancer
 namespace: disease_ontology
 alt_id: DOID:10008
-def: "An endocrine gland cancer located in the thryoid gland located in the neck below the thyroid cartilage." [url:http\://en.wikipedia.org/wiki/Thyroid_gland]
+def: "An endocrine gland cancer located in the thyroid gland located in the neck below the thyroid cartilage." [url:http\://en.wikipedia.org/wiki/Thyroid_gland]
 subset: DO_cancer_slim
 subset: DO_CFDE_slim
 subset: NCIthesaurus

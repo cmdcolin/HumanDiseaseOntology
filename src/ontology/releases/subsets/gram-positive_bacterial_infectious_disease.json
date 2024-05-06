@@ -1719,7 +1719,7 @@
       "type" : "CLASS",
       "meta" : {
         "definition" : {
-          "val" : "A diphtheria that involves membrane formation from the faucial tonsil areas over the pharyngeal wall and into the nasopharynx. Severe disease may cause marked edema of the submandibular areas and the anterior neck along with lymphadenopathy, giving a characteristic bullneck apprearance.",
+          "val" : "A diphtheria that involves membrane formation from the faucial tonsil areas over the pharyngeal wall and into the nasopharynx. Severe disease may cause marked edema of the submandibular areas and the anterior neck along with lymphadenopathy, giving a characteristic bullneck appearence.",
           "xrefs" : [ "url:http://www.jstor.org/stable/3417440?seq=2" ]
         },
         "subsets" : [ "http://purl.obolibrary.org/obo/doid#gram-positive_bacterial_infectious_disease" ],

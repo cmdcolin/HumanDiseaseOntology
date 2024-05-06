@@ -1338,7 +1338,7 @@
       "type" : "CLASS",
       "meta" : {
         "definition" : {
-          "val" : "An endocrine gland cancer located in the thryoid gland located in the neck below the thyroid cartilage.",
+          "val" : "An endocrine gland cancer located in the thyroid gland located in the neck below the thyroid cartilage.",
           "xrefs" : [ "url:http://en.wikipedia.org/wiki/Thyroid_gland" ]
         },
         "subsets" : [ "http://purl.obolibrary.org/obo/doid#DO_CFDE_slim", "http://purl.obolibrary.org/obo/doid#DO_cancer_slim", "http://purl.obolibrary.org/obo/doid#NCIthesaurus", "http://purl.obolibrary.org/obo/doid#TopNodes_DOcancerslim" ],

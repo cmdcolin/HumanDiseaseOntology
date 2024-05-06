@@ -56,7 +56,7 @@ subset: DO_rare_slim
 subset: gram-negative_bacterial_infectious_disease
 subset: tick-borne_infectious_disease
 subset: zoonotic_infectious_disease
-synonym: "Brazillian spotted" RELATED []
+synonym: "Brazilian spotted" RELATED []
 synonym: "Choix" RELATED []
 synonym: "Exanthematic typhus of Sao Paulo" RELATED []
 synonym: "Fiebre maculosa" RELATED []
@@ -23365,7 +23365,7 @@ xref: ORDO:438207
 id: DOID:0111050
 name: Quebec platelet disorder
 namespace: disease_ontology
-def: "A blood platelet disease characterized by autosomal dominant inheritance of delayed onset bleeding after challenge, moderate to severe bleeding tendencies, frequent ecchymoses, mucocutaneous bleeding, muscle and joint bleeds and platelet alpha-granule degredation that has_material_basis_in heterozygous tandem duplication of the PLAU gene on chromosome 10q22." [url:https\://www.ncbi.nlm.nih.gov/pubmed/18988861, url:https\://www.ncbi.nlm.nih.gov/pubmed/20007542]
+def: "A blood platelet disease characterized by autosomal dominant inheritance of delayed onset bleeding after challenge, moderate to severe bleeding tendencies, frequent ecchymoses, mucocutaneous bleeding, muscle and joint bleeds and platelet alpha-granule degradation that has_material_basis_in heterozygous tandem duplication of the PLAU gene on chromosome 10q22." [url:https\://www.ncbi.nlm.nih.gov/pubmed/18988861, url:https\://www.ncbi.nlm.nih.gov/pubmed/20007542]
 subset: DO_rare_slim
 synonym: "BDPLT5" EXACT []
 synonym: "factor V Quebec" EXACT []
@@ -28212,7 +28212,7 @@ xref: ORDO:363396
 id: DOID:0111629
 name: dihydropyrimidinase deficiency
 namespace: disease_ontology
-def: "A pyrimidine metabolic disorder characterized by a defect in the degredation of uracil and thymine resulting in elevated levels of 5,6-dihydrouracil and 5,6-dihydrothymine in urine that has_material_basis_in homozygous or compound heterozygous mutation in the DPYS gene on chromosome 8q22.3." [url:https\://ghr.nlm.nih.gov/condition/dihydropyrimidinase-deficiency, url:https\://www.ncbi.nlm.nih.gov/pubmed/29054612]
+def: "A pyrimidine metabolic disorder characterized by a defect in the degradation of uracil and thymine resulting in elevated levels of 5,6-dihydrouracil and 5,6-dihydrothymine in urine that has_material_basis_in homozygous or compound heterozygous mutation in the DPYS gene on chromosome 8q22.3." [url:https\://ghr.nlm.nih.gov/condition/dihydropyrimidinase-deficiency, url:https\://www.ncbi.nlm.nih.gov/pubmed/29054612]
 subset: DO_rare_slim
 synonym: "dihydropyrimidinuria" EXACT []
 synonym: "DPH deficiency" EXACT []
@@ -38219,7 +38219,7 @@ xref: UMLS_CUI:C0013274
 id: DOID:1386
 name: abetalipoproteinemia
 namespace: disease_ontology
-def: "A hypolipoproteinemia that is characterized by an inablility to fully absorb dietary fats, cholesterol and fat-soluble vitamins, has_material_basis_in an autosomal recessive disorder of lipid metabolism that has_material_basis_in mutation in the microsomal triglyceride transfer protein that catalyzes the transport of lipids and is required in the secretion of BETA-LIPOPROTEINS." [url:http\://en.wikipedia.org/wiki/Abetalipoproteinemia, url:http\://rarediseases.info.nih.gov/gard/5/abetalipoproteinemia/resources/1, url:http\://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&Expert=14]
+def: "A hypolipoproteinemia that is characterized by an inability to fully absorb dietary fats, cholesterol and fat-soluble vitamins, has_material_basis_in an autosomal recessive disorder of lipid metabolism that has_material_basis_in mutation in the microsomal triglyceride transfer protein that catalyzes the transport of lipids and is required in the secretion of BETA-LIPOPROTEINS." [url:http\://en.wikipedia.org/wiki/Abetalipoproteinemia, url:http\://rarediseases.info.nih.gov/gard/5/abetalipoproteinemia/resources/1, url:http\://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&Expert=14]
 comment: OMIM mapping confirmed by DO. [SN].
 subset: DO_rare_slim
 subset: NCIthesaurus
@@ -39769,7 +39769,7 @@ xref: UMLS_CUI:C0175709
 id: DOID:14723
 name: beta-ketothiolase deficiency
 namespace: disease_ontology
-def: "An amino acid metabolic disorder characterized by inability to process isoleucine and ketones, has_symptom recurrent ketoacidotic attacks in infancy marked by vomitting, lethargy, dehydration, and seizures, and has_material_basis_in mutation in the ACAT1 gene of chromosome 11q22.3 responsible for producing the ACAT1 enzyme in mitochondria, which processes isoleucine and ketones." [url:https\://ghr.nlm.nih.gov/condition/beta-ketothiolase-deficiency#statistics]
+def: "An amino acid metabolic disorder characterized by inability to process isoleucine and ketones, has_symptom recurrent ketoacidotic attacks in infancy marked by vomiting, lethargy, dehydration, and seizures, and has_material_basis_in mutation in the ACAT1 gene of chromosome 11q22.3 responsible for producing the ACAT1 enzyme in mitochondria, which processes isoleucine and ketones." [url:https\://ghr.nlm.nih.gov/condition/beta-ketothiolase-deficiency#statistics]
 comment: OMIM mapping confirmed by DO. [SN].
 subset: DO_rare_slim
 synonym: "2-methyl-3-hydroxybutyricacidemia" EXACT []

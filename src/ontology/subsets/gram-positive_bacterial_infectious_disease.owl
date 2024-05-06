@@ -1746,7 +1746,7 @@
     <!-- http://purl.obolibrary.org/obo/DOID_13309 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_13309">
-        <obo:IAO_0000115 xml:lang="en">A diphtheria that involves membrane formation from the faucial tonsil areas over the pharyngeal wall and into the nasopharynx. Severe disease may cause marked edema of the submandibular areas and the anterior neck along with lymphadenopathy, giving a characteristic bullneck apprearance.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A diphtheria that involves membrane formation from the faucial tonsil areas over the pharyngeal wall and into the nasopharynx. Severe disease may cause marked edema of the submandibular areas and the anterior neck along with lymphadenopathy, giving a characteristic bullneck appearence.</obo:IAO_0000115>
         <oboInOwl:hasExactSynonym xml:lang="en">Nasopharyngeal Diphtheria</oboInOwl:hasExactSynonym>
         <oboInOwl:hasExactSynonym xml:lang="en">Nasopharyngeal diphtheria (disorder)</oboInOwl:hasExactSynonym>
         <oboInOwl:hasOBONamespace>disease_ontology</oboInOwl:hasOBONamespace>
@@ -1758,7 +1758,7 @@
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/DOID_13309"/>
         <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <owl:annotatedTarget xml:lang="en">A diphtheria that involves membrane formation from the faucial tonsil areas over the pharyngeal wall and into the nasopharynx. Severe disease may cause marked edema of the submandibular areas and the anterior neck along with lymphadenopathy, giving a characteristic bullneck apprearance.</owl:annotatedTarget>
+        <owl:annotatedTarget xml:lang="en">A diphtheria that involves membrane formation from the faucial tonsil areas over the pharyngeal wall and into the nasopharynx. Severe disease may cause marked edema of the submandibular areas and the anterior neck along with lymphadenopathy, giving a characteristic bullneck appearence.</owl:annotatedTarget>
         <dc:type rdf:resource="http://purl.obolibrary.org/obo/ECO_0007645"/>
         <oboInOwl:hasDbXref>url:http://www.jstor.org/stable/3417440?seq=2</oboInOwl:hasDbXref>
     </owl:Axiom>
