@@ -34204,7 +34204,7 @@ property_value: definition:citation "orphanet" xsd:string
 [Term]
 id: Orphanet:319605
 name: X-linked mendelian susceptibility to mycobacterial diseases
-def: ") genes. They are characterized by mycobacterial infections, occurring in males." []
+def: ") genes. They are characterized by mycobacterial infections, occuring in males." []
 synonym: "X-linked MSMD" EXACT []
 xref: ICD-10:D84.8
 xref: OMIM:300636

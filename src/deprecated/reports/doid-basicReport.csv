@@ -3102,7 +3102,7 @@ HP:0001549,,
 UBERON:0005628,,
 CL:0000273,,
 NCBITaxon:1280412,,
-DOID:13047,"An ancylostomiasis that is characterized by skin manifestations (cutaneous larva migrans) occurring due to migrating larvae of Ancylostoma braziliense in the upper epidermis. It is marked by the presence of erythematous, serpiginous and pruritic cutaneous eruptions.",SNOMEDCT_2010_1_31:22728002 ICD9CM:126.2 NCI:C35175 UMLS_CUI:C0153299
+DOID:13047,"An ancylostomiasis that is characterized by skin manifestations (cutaneous larva migrans) occuring due to migrating larvae of Ancylostoma braziliense in the upper epidermis. It is marked by the presence of erythematous, serpiginous and pruritic cutaneous eruptions.",SNOMEDCT_2010_1_31:22728002 ICD9CM:126.2 NCI:C35175 UMLS_CUI:C0153299
 UBERON:3010183,,
 HP:0009985,,
 DOID:5731,,UMLS_CUI:C0269041 SNOMEDCT_2010_1_31:55551005 NCI:C40118
@@ -9001,7 +9001,7 @@ DOID:0050478,,NCI:C34594 MSH:D004927 UMLS_CUI:C0014836 SNOMEDCT_2010_1_31:710570
 UBERON:0009715,,
 UBERON:0003824,,
 HP:0001882,,
-DOID:10325,"A pneumoconiosis that is an inflammation and scarring of the upper lobes of the lungs causing nodular lesions resulting from inhalation of silica, quartz or slate particles.",SNOMEDCT_2010_1_31:196010000 MSH:D012829 NCI:C3369 UMLS_CUI:C0037116 ICD9CM:502 SNOMEDCT_2010_1_31:155590008 SNOMEDCT_2010_1_31:805002
+DOID:10325,"A pneumoconiosis that is an inflammation and scarring of the uper lobes of the lungs causing nodular lesions resulting from inhalation of silica, quartz or slate particles.",SNOMEDCT_2010_1_31:196010000 MSH:D012829 NCI:C3369 UMLS_CUI:C0037116 ICD9CM:502 SNOMEDCT_2010_1_31:155590008 SNOMEDCT_2010_1_31:805002
 HP:0012315,,
 CL:0000924,,
 HP:0100939,,
@@ -9675,7 +9675,7 @@ UBERON:0009708,,
 DOID:0050469,,OMIM:218040 MSH:D056685
 NCBITaxon:38946,,
 HP:0010164,,
-DOID:0050234,"A parasitic protozoa infectious disease that involves an infection in humans and animals caused by a parasitic protozoan of genus Acanthamoeba, which is an opportunistic pathogen occurring in patients with weakened immune system.",SNOMEDCT_2010_1_31:187238006 UMLS_CUI:C0153326 SNOMEDCT_2010_1_31:266169003 ICD9CM:136.2
+DOID:0050234,"A parasitic protozoa infectious disease that involves an infection in humans and animals caused by a parasitic protozoan of genus Acanthamoeba, which is an opportunistic pathogen occuring in patients with weakened immune system.",SNOMEDCT_2010_1_31:187238006 UMLS_CUI:C0153326 SNOMEDCT_2010_1_31:266169003 ICD9CM:136.2
 HP:0000650,,
 HP:0001897,,
 UBERON:2002200,,
@@ -15989,7 +15989,7 @@ HP:0002562,,
 UBERON:0001881,,
 HP:0100489,,
 HP:0007599,,
-DOID:0060046,A language disorder that involves an acquired impairment of any laguage modality such as producing or comprehending spoken or written language.,
+DOID:0060046,A language disorder that involves an acquired impairment of any laguage modality such as producting or comprehending spoken or written language.,
 HP:0005274,,
 UBERON:0015850,,
 HP:0001319,,
@@ -18215,7 +18215,7 @@ DOID:3227,,NCI:C78646 SNOMEDCT_2010_1_31:11296007 MSH:D014135 UMLS_CUI:C0040583
 HP:0011643,,
 UBERON:4200000,,
 DOID:1064,,SNOMEDCT_2010_1_31:367374009 MSH:C531663 NCI:C2976 SNOMEDCT_2010_1_31:190683000 SNOMEDCT_2010_1_31:111398009 SNOMEDCT_2010_1_31:190681003 UMLS_CUI:C0010690 MSH:D003554 OMIM:219800
-DOID:0060042,An autism spectrum disorder that involves some autistic symptoms occurring after age 3 with an abscence of all the traits necessary for a diagnosis of autism.,
+DOID:0060042,An autism spectrum disorder that involves some autistic symptoms occuring after age 3 with an abscence of all the traits necessary for a diagnosis of autism.,
 UBERON:0006482,,
 DOID:4972,A bone marrow cancer that results_in the overproduction of white blood cells.,NCI:C27262 MSH:D054437 SNOMEDCT_2010_1_31:397336008 UMLS_CUI:C1301355
 DOID:10780,,ICD9CM:289.6 NCI:C26955 SNOMEDCT_2010_1_31:267571003 SNOMEDCT_2010_1_31:154840005 UMLS_CUI:C0152264 SNOMEDCT_2010_1_31:17342003
@@ -20912,7 +20912,7 @@ HP:0011050,,
 HP:0010932,,
 UBERON:0013128,,
 UBERON:0005787,,
-DOID:633,A myopathy characterized by muscle inflammation.,NCI:C27578 SNOMEDCT_2010_1_31:203110007 SNOMEDCT_2010_1_31:268108002 UMLS_CUI:C0027121 MSH:D009220 OMIM:160750 SNOMEDCT_2010_1_31:128496001 SNOMEDCT_2010_1_31:26889001
+DOID:633,A myopathy characterized by muscle inflamation.,NCI:C27578 SNOMEDCT_2010_1_31:203110007 SNOMEDCT_2010_1_31:268108002 UMLS_CUI:C0027121 MSH:D009220 OMIM:160750 SNOMEDCT_2010_1_31:128496001 SNOMEDCT_2010_1_31:26889001
 HP:0007400,,
 HP:0000013,,
 HP:0011691,,
@@ -21346,7 +21346,7 @@ HP:0009675,,
 HP:0003091,,
 HP:0100052,,
 UBERON:2002029,,
-DOID:3978,A cardiomyopathy that is characterized by the pathology occurring outside of the myocardium.,UMLS_CUI:C0155699 SNOMEDCT_2010_1_31:195580005 ICD9CM:425.8
+DOID:3978,A cardiomyopathy that is characterized by the pathology occuring outside of the myocardium.,UMLS_CUI:C0155699 SNOMEDCT_2010_1_31:195580005 ICD9CM:425.8
 DOID:3981,A neurodegenerative disease that is characterized by an abnormal accumulation of iron in the brain and progressive degeneration of the nervous system.,NCI:C84988 UMLS_CUI:C0018523 NCI:C8967 MSH:D006211 OMIM:234200 SNOMEDCT_2010_1_31:2992000
 CL:0000652,,
 DOID:3022,,SNOMEDCT_2010_1_31:200345007 SNOMEDCT_2010_1_31:200349001 UMLS_CUI:C0157585 ICD9CM:674.3 SNOMEDCT_2010_1_31:267286005 SNOMEDCT_2010_1_31:200346008
@@ -21708,7 +21708,7 @@ UBERON:0004395,,
 DOID:11664,,SNOMEDCT_2010_1_31:197662008 SNOMEDCT_2010_1_31:194773000 SNOMEDCT_2010_1_31:197658002 ICD9CM:587 UMLS_CUI:C0027719 SNOMEDCT_2010_1_31:32916005 MSH:D009400
 HP:0010044,,
 DOID:3038,,UMLS_CUI:C1515024 NCI:C38760
-DOID:9739,"A non-suppurative otitis media and eustachian tube disorder in which the tube is either too narrow or too wide. It can also be caused by nasal inflammation which leads to inflammatory swelling and obstruction of the eustachian tube, which, in turn, leads to increased negative pressure in the middle ear and improper ventilation.",ICD9CM:381.8 SNOMEDCT_2010_1_31:194277003 SNOMEDCT_2010_1_31:194278008 ICD9CM:381.89 UMLS_CUI:C0155435
+DOID:9739,"A non-suppurative otitis media and eustachian tube disorder in which the tube is either too narrow or too wide. It can also be cuased by nasal inflammation which leads to inflammatory swelling and obstruction of the eustachian tube, which, in turn, leads to increased negative pressure in the middle ear and improper ventilation.",ICD9CM:381.8 SNOMEDCT_2010_1_31:194277003 SNOMEDCT_2010_1_31:194278008 ICD9CM:381.89 UMLS_CUI:C0155435
 UBERON:0000199,,
 HP:0008166,,
 HP:0009543,,
@@ -22671,7 +22671,7 @@ DOID:4071,,SNOMEDCT_2010_1_31:9733003 UMLS_CUI:C0013299 MSH:D004383
 HP:0100062,,
 DOID:4989,,SNOMEDCT_2010_1_31:393591004 SNOMEDCT_2010_1_31:197461009 SNOMEDCT_2010_1_31:75694006 UMLS_CUI:C0030305 NCI:C3306 MSH:D010195 EFO:0000278
 UBERON:3010698,,
-DOID:2769,A specific developmental disorder that is characterized by the persistent presence of involuntary brief movements or sounds occurring intermittently and unpredictably out of a background of normal motor activity.,UMLS_CUI:C0040188 SNOMEDCT_2010_1_31:386783003 ICD9CM:307.20 MSH:D013981 SNOMEDCT_2010_1_31:191991002 SNOMEDCT_2010_1_31:192621007 SNOMEDCT_2010_1_31:568005 ICD9CM:307.2 SNOMEDCT_2010_1_31:155005001 SNOMEDCT_2010_1_31:393585001 SNOMEDCT_2010_1_31:191988002 SNOMEDCT_2010_1_31:191989005 SNOMEDCT_2010_1_31:35042001 SNOMEDCT_2010_1_31:192626002 SNOMEDCT_2010_1_31:112086008
+DOID:2769,A specific developmental disorder that is characterized by the persistent presence of involuntary brief movements or sounds occuring intermittently and unpredictably out of a background of normal motor activity.,UMLS_CUI:C0040188 SNOMEDCT_2010_1_31:386783003 ICD9CM:307.20 MSH:D013981 SNOMEDCT_2010_1_31:191991002 SNOMEDCT_2010_1_31:192621007 SNOMEDCT_2010_1_31:568005 ICD9CM:307.2 SNOMEDCT_2010_1_31:155005001 SNOMEDCT_2010_1_31:393585001 SNOMEDCT_2010_1_31:191988002 SNOMEDCT_2010_1_31:191989005 SNOMEDCT_2010_1_31:35042001 SNOMEDCT_2010_1_31:192626002 SNOMEDCT_2010_1_31:112086008
 UBERON:2000401,,
 UBERON:0001538,,
 HP:0009568,,

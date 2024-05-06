@@ -4748,7 +4748,7 @@ is_a: DOID:655 ! inherited metabolic disorder
 id: DOID:0080144
 name: childhood acute lymphocytic leukemia
 namespace: disease_ontology
-def: "An acute lymphocytic leukemia occurring during childhood." [url:https\://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&version=16.04d&ns=NCI_Thesaurus&code=C3168&key=736438179&b=1&n=null]
+def: "An acute lymphocytic leukemia occuring during childhood." [url:https\://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&version=16.04d&ns=NCI_Thesaurus&code=C3168&key=736438179&b=1&n=null]
 subset: DO_cancer_slim
 subset: NCIthesaurus
 synonym: "Childhood Acute Lymphoblastic Leukemia" EXACT []
@@ -10389,7 +10389,7 @@ id: DOID:10325
 name: silicosis
 namespace: disease_ontology
 alt_id: DOID:14007
-def: "A pneumoconiosis that is an inflammation and scarring of the upper lobes of the lungs causing nodular lesions resulting from inhalation of silica, quartz or slate particles." [url:http\://en.wikipedia.org/wiki/Silicosis] {comment="ls:IEDB"}
+def: "A pneumoconiosis that is an inflammation and scarring of the uper lobes of the lungs causing nodular lesions resulting from inhalation of silica, quartz or slate particles." [url:http\://en.wikipedia.org/wiki/Silicosis] {comment="ls:IEDB"}
 subset: DO_rare_slim
 subset: NCIthesaurus
 synonym: "Pneumoconiosis due to silicates" EXACT []
@@ -15426,7 +15426,7 @@ is_a: DOID:4194 ! glucose metabolism disease
 id: DOID:11717
 name: neonatal diabetes
 namespace: disease_ontology
-def: "A diabetes mellitus that is characterized by hyperglycemia occurring within the first 6 months of life." [url:https\://www.ncbi.nlm.nih.gov/pmc/articles/PMC5928785/]
+def: "A diabetes mellitus that is characterized by hyperglycemia occuring within the first 6 months of life." [url:https\://www.ncbi.nlm.nih.gov/pmc/articles/PMC5928785/]
 subset: DO_FlyBase_slim
 subset: NCIthesaurus
 synonym: "diabetes mellitus syndrome in newborn infant" EXACT []
@@ -51527,7 +51527,7 @@ is_a: DOID:9460 ! uterine corpus cancer
 id: DOID:5751
 name: pancreatic serous cystadenocarcinoma
 namespace: disease_ontology
-def: "A serous cystadenocarcinoma that is located_in the pancreas." [url:https\://en.wikipedia.org/wiki/Pancreatic_serous_cystadenoma]
+def: "A serous cystadenocarcinoma tha tis located_in the pancreas." [url:https\://en.wikipedia.org/wiki/Pancreatic_serous_cystadenoma]
 subset: NCIthesaurus
 synonym: "serous cystadenocarcinoma of pancreas" EXACT []
 xref: NCI:C5724

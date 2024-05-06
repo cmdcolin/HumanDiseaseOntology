@@ -2503,7 +2503,7 @@
       "type" : "CLASS",
       "meta" : {
         "definition" : {
-          "val" : "An acute lymphocytic leukemia occurring during childhood.",
+          "val" : "An acute lymphocytic leukemia occuring during childhood.",
           "xrefs" : [ "url:https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&version=16.04d&ns=NCI_Thesaurus&code=C3168&key=736438179&b=1&n=null" ]
         },
         "subsets" : [ "http://purl.obolibrary.org/obo/doid#DO_cancer_slim", "http://purl.obolibrary.org/obo/doid#NCIthesaurus" ],

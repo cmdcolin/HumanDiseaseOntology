@@ -32911,7 +32911,7 @@ id: DOID:10325
 name: silicosis
 namespace: disease_ontology
 alt_id: DOID:14007
-def: "A pneumoconiosis that is an inflammation and scarring of the upper lobes of the lungs causing nodular lesions resulting from inhalation of silica, quartz or slate particles." [url:http\://en.wikipedia.org/wiki/Silicosis] {comment="ls:IEDB"}
+def: "A pneumoconiosis that is an inflammation and scarring of the uper lobes of the lungs causing nodular lesions resulting from inhalation of silica, quartz or slate particles." [url:http\://en.wikipedia.org/wiki/Silicosis] {comment="ls:IEDB"}
 subset: DO_rare_slim
 subset: NCIthesaurus
 synonym: "Pneumoconiosis due to silicates" EXACT []
