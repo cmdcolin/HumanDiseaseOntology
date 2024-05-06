@@ -879,7 +879,7 @@ is_obsolete: true
 id: DOID:13309
 name: obsolete nasopharyngeal diphtheria
 namespace: disease_ontology
-def: "A diphtheria that involves membrane formation from the faucial tonsil areas over the pharyngeal wall and into the nasopharynx. Severe disease may cause marked edema of the submandibular areas and the anterior neck along with lymphadenopathy, giving a characteristic bullneck appearence." [url:http\://www.jstor.org/stable/3417440?seq=2]
+def: "A diphtheria that involves membrane formation from the faucial tonsil areas over the pharyngeal wall and into the nasopharynx. Severe disease may cause marked edema of the submandibular areas and the anterior neck along with lymphadenopathy, giving a characteristic bullneck appearance." [url:http\://www.jstor.org/stable/3417440?seq=2]
 subset: gram-positive_bacterial_infectious_disease
 synonym: "Nasopharyngeal Diphtheria" EXACT []
 synonym: "Nasopharyngeal diphtheria (disorder)" EXACT []

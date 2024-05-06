@@ -25137,7 +25137,7 @@ xref: UMLS_CUI:C1864723
 id: DOID:0111330
 name: combined saposin deficiency
 namespace: disease_ontology
-def: "A sphingolipidosis characterized by absence of expression of both isoforms of PSAP (SAP1 and SAP2) resulting in hepatosplenomegaly and severe neurological disease that has_material_basis_in homozygous or coumpound heterozygous mutation in PSAP on 10q22.1." [url:https\://www.ncbi.nlm.nih.gov/pubmed/11309366, url:https\://www.ncbi.nlm.nih.gov/pubmed/1371116]
+def: "A sphingolipidosis characterized by absence of expression of both isoforms of PSAP (SAP1 and SAP2) resulting in hepatosplenomegaly and severe neurological disease that has_material_basis_in homozygous or compound heterozygous mutation in PSAP on 10q22.1." [url:https\://www.ncbi.nlm.nih.gov/pubmed/11309366, url:https\://www.ncbi.nlm.nih.gov/pubmed/1371116]
 subset: DO_rare_slim
 synonym: "combined SAP deficiency" EXACT []
 synonym: "encephalopathy due to prosaposin deficiency" EXACT []
