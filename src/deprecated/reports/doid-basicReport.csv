@@ -9001,7 +9001,7 @@ DOID:0050478,,NCI:C34594 MSH:D004927 UMLS_CUI:C0014836 SNOMEDCT_2010_1_31:710570
 UBERON:0009715,,
 UBERON:0003824,,
 HP:0001882,,
-DOID:10325,"A pneumoconiosis that is an inflammation and scarring of the uper lobes of the lungs causing nodular lesions resulting from inhalation of silica, quartz or slate particles.",SNOMEDCT_2010_1_31:196010000 MSH:D012829 NCI:C3369 UMLS_CUI:C0037116 ICD9CM:502 SNOMEDCT_2010_1_31:155590008 SNOMEDCT_2010_1_31:805002
+DOID:10325,"A pneumoconiosis that is an inflammation and scarring of the upper lobes of the lungs causing nodular lesions resulting from inhalation of silica, quartz or slate particles.",SNOMEDCT_2010_1_31:196010000 MSH:D012829 NCI:C3369 UMLS_CUI:C0037116 ICD9CM:502 SNOMEDCT_2010_1_31:155590008 SNOMEDCT_2010_1_31:805002
 HP:0012315,,
 CL:0000924,,
 HP:0100939,,
@@ -15989,7 +15989,7 @@ HP:0002562,,
 UBERON:0001881,,
 HP:0100489,,
 HP:0007599,,
-DOID:0060046,A language disorder that involves an acquired impairment of any laguage modality such as producting or comprehending spoken or written language.,
+DOID:0060046,A language disorder that involves an acquired impairment of any laguage modality such as producing or comprehending spoken or written language.,
 HP:0005274,,
 UBERON:0015850,,
 HP:0001319,,
