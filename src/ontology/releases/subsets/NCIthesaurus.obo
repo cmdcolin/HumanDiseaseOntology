@@ -14707,7 +14707,7 @@ def: "A physical disorder that is characterized by the presence of more than fiv
 subset: DO_rare_slim
 subset: NCIthesaurus
 synonym: "postaxial polydactyly" EXACT []
-synonym: "Suppernumerary digit" RELATED []
+synonym: "Supernumerary digit" RELATED []
 xref: GARD:4410
 xref: ICD10CM:Q69
 xref: ICD9CM:755.0
@@ -15773,7 +15773,7 @@ subset: NCIthesaurus
 synonym: "malignant neoplasm of apex of urinary bladder" EXACT []
 synonym: "malignant neoplasm of dome of urinary bladder" EXACT []
 synonym: "malignant tumor of vault of bladder" EXACT []
-synonym: "Supperior Surface of bladder" EXACT []
+synonym: "Superior Surface of bladder" EXACT []
 xref: ICD10CM:C67.1
 xref: ICD9CM:188.1
 xref: NCI:C12332
@@ -21624,7 +21624,7 @@ name: trochlear nerve disease
 namespace: disease_ontology
 subset: NCIthesaurus
 synonym: "disorder of trochlear nerve" EXACT []
-synonym: "Supperior oblique muscle innervation disorder" EXACT []
+synonym: "Superior oblique muscle innervation disorder" EXACT []
 synonym: "Trochlear nerve disorder" EXACT []
 xref: ICD10CM:H49.1
 xref: ICD9CM:378.53
@@ -43298,7 +43298,7 @@ id: DOID:4522
 name: superior vena cava angiosarcoma
 namespace: disease_ontology
 subset: NCIthesaurus
-synonym: "angiosarcoma of the Supperior Vena Cava" EXACT []
+synonym: "angiosarcoma of the Superior Vena Cava" EXACT []
 xref: NCI:C5378
 xref: UMLS_CUI:C1336530
 is_a: DOID:0001816 ! angiosarcoma
@@ -58911,7 +58911,7 @@ name: superior vena cava leiomyosarcoma
 namespace: disease_ontology
 def: "A leiomyosarcoma that is located_in the superior vena cava." [url:https\://www.ncbi.nlm.nih.gov/pmc/articles/PMC2733032/]
 subset: NCIthesaurus
-synonym: "leiomyosarcoma of the Supperior Vena Cava" EXACT []
+synonym: "leiomyosarcoma of the Superior Vena Cava" EXACT []
 xref: NCI:C6745
 xref: UMLS_CUI:C1336531
 is_a: DOID:1967 ! leiomyosarcoma
@@ -61390,14 +61390,14 @@ namespace: disease_ontology
 alt_id: DOID:4485
 alt_id: DOID:5762
 subset: NCIthesaurus
-synonym: "malignant Supperior Sulcus tumor" EXACT []
-synonym: "malignant Supperior Sulcus tumour" EXACT []
+synonym: "malignant Superior Sulcus tumor" EXACT []
+synonym: "malignant Superior Sulcus tumour" EXACT []
 synonym: "Pancoast tumour" EXACT []
 synonym: "Pancoast's syndrome" EXACT []
 synonym: "Pancoast's tumour" EXACT []
 synonym: "pulmonary sulcus tumor" EXACT []
 synonym: "pulmonary sulcus tumour" EXACT []
-synonym: "Supperior pulmonary sulcus syndrome" EXACT []
+synonym: "Superior pulmonary sulcus syndrome" EXACT []
 xref: MESH:D010178
 xref: NCI:C27710
 xref: NCI:C55815
@@ -62234,7 +62234,7 @@ name: lung superior sulcus carcinoma
 namespace: disease_ontology
 subset: NCIthesaurus
 synonym: "superior sulcus carcinoma of lung" RELATED []
-synonym: "Supperior Sulcus carcinoma of the lung" EXACT []
+synonym: "Superior Sulcus carcinoma of the lung" EXACT []
 xref: NCI:C7779
 xref: UMLS_CUI:C1336529
 is_a: DOID:8007 ! Pancoast tumor

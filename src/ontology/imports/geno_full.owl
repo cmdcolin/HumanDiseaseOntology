@@ -1897,7 +1897,7 @@ Environments include natural environments or exposures, experimentally applied c
 
     <owl:Class rdf:about="http://biohackathon.org/resource/faldo#Position">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GENO_0000902"/>
-        <obo:IAO_0000115>Supperclass for the general concept of a position on a sequence. The sequence is designated with the reference predicate.</obo:IAO_0000115>
+        <obo:IAO_0000115>Superclass for the general concept of a position on a sequence. The sequence is designated with the reference predicate.</obo:IAO_0000115>
         <obo:IAO_0000116>Placing the FALDO:Position class under GENO:genomic locus, as it represents a type of genomic location  with the same start and end coordinates (i.e. a single position as opposed to a location spanning a longer region)</obo:IAO_0000116>
         <rdfs:label xml:lang="en">Position</rdfs:label>
     </owl:Class>

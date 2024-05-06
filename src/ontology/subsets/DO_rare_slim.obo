@@ -34774,7 +34774,7 @@ def: "A physical disorder that is characterized by the presence of more than fiv
 subset: DO_rare_slim
 subset: NCIthesaurus
 synonym: "postaxial polydactyly" EXACT []
-synonym: "Suppernumerary digit" RELATED []
+synonym: "Supernumerary digit" RELATED []
 xref: GARD:4410
 xref: ICD10CM:Q69
 xref: ICD9CM:755.0
