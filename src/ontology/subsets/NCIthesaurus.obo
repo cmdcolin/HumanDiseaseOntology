@@ -7981,7 +7981,7 @@ is_a: DOID:891 ! progressive myoclonus epilepsy
 id: DOID:0111459
 name: classic galactosemia
 namespace: disease_ontology
-def: "A galactosemia that has_material_basis_in homozygous or compund heterozygous mutation in the GALT gene on chromosome 9p13.3." [url:https\://www.ncbi.nlm.nih.gov/pubmed/11261429]
+def: "A galactosemia that has_material_basis_in homozygous or compound heterozygous mutation in the GALT gene on chromosome 9p13.3." [url:https\://www.ncbi.nlm.nih.gov/pubmed/11261429]
 subset: DO_rare_slim
 subset: NCIthesaurus
 synonym: "galactose-1-phosphate uridyltransferase deficiency" EXACT []
@@ -44027,7 +44027,7 @@ id: DOID:4674
 name: androgen insensitivity syndrome
 namespace: disease_ontology
 alt_id: DOID:4672
-def: "A disorder of sexual developement that is characterized by the inability of the cell to respond to androgens in individuals with a karyotype of 46,XY resulting in female physical traits but male genetic makeup." [url:http\://en.wikipedia.org/wiki/Androgen_insensitivity_syndrome, url:https\://ghr.nlm.nih.gov/condition/androgen-insensitivity-syndrome, url:https\://www.ncbi.nlm.nih.gov/books/NBK1429/]
+def: "A disorder of sexual development that is characterized by the inability of the cell to respond to androgens in individuals with a karyotype of 46,XY resulting in female physical traits but male genetic makeup." [url:http\://en.wikipedia.org/wiki/Androgen_insensitivity_syndrome, url:https\://ghr.nlm.nih.gov/condition/androgen-insensitivity-syndrome, url:https\://www.ncbi.nlm.nih.gov/books/NBK1429/]
 comment: OMIM mapping confirmed by DO. [SN].
 subset: DO_rare_slim
 subset: NCIthesaurus
@@ -66009,7 +66009,7 @@ id: DOID:9120
 name: amyloidosis
 namespace: disease_ontology
 def: "A disease of metabolsism that is characterized by extracellular tissue deposition of mis-folded amyloid fibrils built up by twisted protofilaments, deposited in the spaces between the cells of vital organs, causing disruption of organ tissue structure and function. These deposits may result in a wide range of clinical manifestations depending upon their type, location, and the amount of deposition." [url:https\://en.wikipedia.org/wiki/Amyloidosis, url:https\://pubmed.ncbi.nlm.nih.gov/33100054/, url:https\://pubmed.ncbi.nlm.nih.gov/33787033/, url:https\://www.tandfonline.com/doi/pdf/10.1080/13506129.2020.1835263?needAccess=true]
-comment: amyloidosis has both inherited and aquired subtypes [LS].
+comment: amyloidosis has both inherited and acquired subtypes [LS].
 subset: DO_FlyBase_slim
 subset: DO_MGI_slim
 subset: NCIthesaurus

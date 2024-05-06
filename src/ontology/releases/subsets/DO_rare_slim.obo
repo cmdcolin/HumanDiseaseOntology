@@ -26168,7 +26168,7 @@ is_a: DOID:700 ! mitochondrial metabolism disease
 id: DOID:0111456
 name: Kaufman oculocerebrofacial syndrome
 namespace: disease_ontology
-def: "A syndromic intellectual disability characterized by developmental delay, growth retardation with a small head circumference, facial dysmorphisms, and low cholesterol levels that has_material_basis_in homozygous or compund heterozygous mutation in the UBE3B gene on chromosome 12q24.11." [url:https\://ghr.nlm.nih.gov/condition/kaufman-oculocerebrofacial-syndrome, url:https\://www.ncbi.nlm.nih.gov/pubmed/23200864]
+def: "A syndromic intellectual disability characterized by developmental delay, growth retardation with a small head circumference, facial dysmorphisms, and low cholesterol levels that has_material_basis_in homozygous or compound heterozygous mutation in the UBE3B gene on chromosome 12q24.11." [url:https\://ghr.nlm.nih.gov/condition/kaufman-oculocerebrofacial-syndrome, url:https\://www.ncbi.nlm.nih.gov/pubmed/23200864]
 subset: DO_rare_slim
 synonym: "blepharophimosis ptosis intellectual disability syndrome" EXACT []
 synonym: "oculocerebrofacial syndrome, Kaufman type" EXACT []
@@ -26194,7 +26194,7 @@ xref: ORDO:425120
 id: DOID:0111458
 name: galactose epimerase deficiency
 namespace: disease_ontology
-def: "A galactosemia that has_material_basis_in homozygous or compund heterozygous mutation in the GALE gene on chromosome 1p36.11." [url:https\://www.ncbi.nlm.nih.gov/pubmed/8593531, url:https\://www.ncbi.nlm.nih.gov/pubmed/9700591]
+def: "A galactosemia that has_material_basis_in homozygous or compound heterozygous mutation in the GALE gene on chromosome 1p36.11." [url:https\://www.ncbi.nlm.nih.gov/pubmed/8593531, url:https\://www.ncbi.nlm.nih.gov/pubmed/9700591]
 subset: DO_rare_slim
 synonym: "epimerase deficiency galactosemia" EXACT []
 synonym: "galactosemia III" EXACT []
@@ -26215,7 +26215,7 @@ is_a: DOID:9870 ! galactosemia
 id: DOID:0111459
 name: classic galactosemia
 namespace: disease_ontology
-def: "A galactosemia that has_material_basis_in homozygous or compund heterozygous mutation in the GALT gene on chromosome 9p13.3." [url:https\://www.ncbi.nlm.nih.gov/pubmed/11261429]
+def: "A galactosemia that has_material_basis_in homozygous or compound heterozygous mutation in the GALT gene on chromosome 9p13.3." [url:https\://www.ncbi.nlm.nih.gov/pubmed/11261429]
 subset: DO_rare_slim
 subset: NCIthesaurus
 synonym: "galactose-1-phosphate uridyltransferase deficiency" EXACT []
@@ -26256,7 +26256,7 @@ is_a: DOID:0060286 ! combined oxidative phosphorylation deficiency
 id: DOID:0111469
 name: combined oxidative phosphorylation deficiency 16
 namespace: disease_ontology
-def: "A combined oxidative phosphorylation deficiency that has_material_basis_in homozygous or compund heterozygous mutation in the MRPL44 gene on chromosome 2q36.1." [url:https\://www.ncbi.nlm.nih.gov/pubmed/23315540]
+def: "A combined oxidative phosphorylation deficiency that has_material_basis_in homozygous or compound heterozygous mutation in the MRPL44 gene on chromosome 2q36.1." [url:https\://www.ncbi.nlm.nih.gov/pubmed/23315540]
 subset: DO_rare_slim
 synonym: "COXPD16" EXACT []
 synonym: "infantile hypertrophic cardiomyopathy due to MRPL44 deficiency" EXACT []
@@ -27433,7 +27433,7 @@ xref: UMLS_CUI:C0265333
 id: DOID:0111566
 name: familial isolated trichomegaly
 namespace: disease_ontology
-def: "An eyelid disease characterized by prolonged anagen phase of the eyelash hairs resulting in extremely long eyelashes that has_material_basis_in homozygous or compund heterozygous mutation in the FGF5 gene on chromosome 4q21.21." [url:https\://www.ncbi.nlm.nih.gov/pubmed/24989505]
+def: "An eyelid disease characterized by prolonged anagen phase of the eyelash hairs resulting in extremely long eyelashes that has_material_basis_in homozygous or compound heterozygous mutation in the FGF5 gene on chromosome 4q21.21." [url:https\://www.ncbi.nlm.nih.gov/pubmed/24989505]
 subset: DO_rare_slim
 synonym: "long eyelashes" EXACT []
 synonym: "TCMGLY" EXACT []
@@ -31811,9 +31811,9 @@ name: Leydig cell hypoplasia type II
 namespace: disease_ontology
 def: "A Leydig cell hypoplasia characterized by variable features ranging from micropenis to severe hypospadias and bifid scrotum that has_material_basis_in homozygous or compound heterozygous partial inactivation mutation in the LHCGR gene on chromosome 2p16.3." [url:https\://pubmed.ncbi.nlm.nih.gov/11041448/]
 subset: DO_rare_slim
-synonym: "46,XY disorder of sex developement due to partial LH receptor inactivation" EXACT []
-synonym: "46,XY disorder of sex developement due to partial LH resistance" EXACT []
-synonym: "46,XY disorder of sex developement due to partial luteinizing hormone resistance" EXACT []
+synonym: "46,XY disorder of sex development due to partial LH receptor inactivation" EXACT []
+synonym: "46,XY disorder of sex development due to partial LH resistance" EXACT []
+synonym: "46,XY disorder of sex development due to partial luteinizing hormone resistance" EXACT []
 synonym: "46,XY DSD due to partial LH receptor inactivation" EXACT []
 synonym: "46,XY DSD due to partial LH resistance" EXACT []
 synonym: "46,XY DSD due to partial luteinizing hormone resistance" EXACT []
@@ -46062,7 +46062,7 @@ id: DOID:4674
 name: androgen insensitivity syndrome
 namespace: disease_ontology
 alt_id: DOID:4672
-def: "A disorder of sexual developement that is characterized by the inability of the cell to respond to androgens in individuals with a karyotype of 46,XY resulting in female physical traits but male genetic makeup." [url:http\://en.wikipedia.org/wiki/Androgen_insensitivity_syndrome, url:https\://ghr.nlm.nih.gov/condition/androgen-insensitivity-syndrome, url:https\://www.ncbi.nlm.nih.gov/books/NBK1429/]
+def: "A disorder of sexual development that is characterized by the inability of the cell to respond to androgens in individuals with a karyotype of 46,XY resulting in female physical traits but male genetic makeup." [url:http\://en.wikipedia.org/wiki/Androgen_insensitivity_syndrome, url:https\://ghr.nlm.nih.gov/condition/androgen-insensitivity-syndrome, url:https\://www.ncbi.nlm.nih.gov/books/NBK1429/]
 comment: OMIM mapping confirmed by DO. [SN].
 subset: DO_rare_slim
 subset: NCIthesaurus
